@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedannicraft" alt="thedannicraft" /></a> </p>
 
-- 🔭 I’m currently working on [GamerForge System]((private))
+- 🔭 I’m currently working on [GamerForge System](https://github.com/TheDanniCraft/GamerForgeSystem/)
 
 - 🌱 I’m currently learning **Discord.js v13**
 

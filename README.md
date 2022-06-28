@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedannicraft" alt="thedannicraft" /></a> </p>
 
-- 🔭 I’m currently working on [GamerForge System](https://github.com/TheDanniCraft/GamerForgeSystem/)
+- 🔭 I’m currently working on [JumJava](https://github.com/TheDanniCraft/Jumjava/)
 
-- 🌱 I’m currently learning **Discord.js v13**
+- 🌱 I’m currently learning **Java(Processing)**
 
 - 👯 I’m looking to collaborate on **many Projects**
 

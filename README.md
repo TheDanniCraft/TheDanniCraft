@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JumJava](https://github.com/TheDanniCraft/Jumjava/)
 
-- 🌱 I’m currently learning **Java(Processing)**
+- 🌱 I’m currently learning **Flutter & C++**
 
 - 👯 I’m looking to collaborate on **many Projects**
 

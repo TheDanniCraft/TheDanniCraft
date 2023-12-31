@@ -1,5 +1,5 @@
 # 💫 About Me:
-\- 🔭 I’m currently working on [TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite)<br>
+\- 🔭 I’m currently working on [Portfolio](https://github.com/TheDanniCraft/Portfolio)<br>
 \- 🌱 I’m currently learning **React.js**<br>
 \- 👯 I’m looking to collaborate on **every project I love and have time for**<br>
 \- 🤝 I’m looking for help with [TerminalWebsite](https://github.com/TheDanniCraft/TerminalWebsite) (or any other project)<br>

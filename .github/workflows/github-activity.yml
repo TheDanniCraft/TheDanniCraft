@@ -13,4 +13,5 @@ jobs:
         with:
           GITHUB_USERNAME: "thedannicraft"
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          README_PATH: README.md
           COMMIT_MESSAGE: "⚡ Update README.md with latest activity"

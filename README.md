@@ -96,15 +96,15 @@
 
 <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to [TheDanniCraft/TheDanniCraft](https://github.com/TheDanniCraft/TheDanniCraft/commit/c93f85be52d453b7d15762d546b01f82831ddd98)</li>
-<li>🚀 Published release [`v1.0.2`](https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)</li>
-<li>➕ Created a new tag [`v1.0.2`](https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)</li>
-<li>📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/de1389ed933016c081bf18183df7c578563ed29f)</li>
-<li>📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/68ef80852f64d9f9a7b658398c3bf4550492dd64)</li>
-<li>📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/eadcb9628c2e3ff2be6a04afe4f773ea84d6781f)</li>
-<li>📝 Committed to [TheDanniCraft/TheDanniCraft](https://github.com/TheDanniCraft/TheDanniCraft/commit/86a75081d28165dd2712d263262db5d85f8a82e9)</li>
-<li>📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/93b3d7a1e20756ed8ac5210caa2252c4333caeb3)</li>
-<li>🔀 Merged a PR in a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fa768ba9bcd8eb7b77f0bc3aa85127337fba4761">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/c93f85be52d453b7d15762d546b01f82831ddd98">TheDanniCraft/TheDanniCraft</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2">`v1.0.2`</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2">`v1.0.2`</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/de1389ed933016c081bf18183df7c578563ed29f">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/68ef80852f64d9f9a7b658398c3bf4550492dd64">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/eadcb9628c2e3ff2be6a04afe4f773ea84d6781f">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/86a75081d28165dd2712d263262db5d85f8a82e9">TheDanniCraft/TheDanniCraft</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/93b3d7a1e20756ed8ac5210caa2252c4333caeb3">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

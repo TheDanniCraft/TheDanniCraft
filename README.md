@@ -81,7 +81,7 @@
     <li>🔭 I’m currently working on <a href="https://github.com/Wiresense/">Wiresense</a></li>
     <li>🌱 I’m currently learning <strong>Next.js</strong></li>
     <li>👯 I’m looking to collaborate on <strong>every project I love and have time for</strong></li>
-    <li>🤝 I’m looking for help with <a href="https://github.com/Wiresense">TerminalWebsite</a> (or any other project)</li>
+    <li>🤝 I’m looking for help with <a href="https://github.com/Wiresense">Wiresense</a> (or any other project)</li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/TheDanniCraft/">Github</a> or on my <a href="https://thedannicraft.de">website</a></li>
     <li>📫 How to reach me <a href="https://discordapp.com/users/385090261019131915">@thedannicraft</a> on discord</li>
     <li>⚡ Fun fact <strong>I prefer to say "coding" instead of "programming"</strong></li>

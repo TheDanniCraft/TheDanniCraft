@@ -78,19 +78,19 @@
 
 <p align="left">
   <!--START_SECTION:activity-->
-  <ol>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8d08a705672161fecc9bcb1161cad02c0f31cabb">TheDanniCraft/activity-log</a></li>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fa768ba9bcd8eb7b77f0bc3aa85127337fba4761">TheDanniCraft/activity-log</a></li>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/c93f85be52d453b7d15762d546b01f82831ddd98">TheDanniCraft/TheDanniCraft</a></li>
-  <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-  <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/de1389ed933016c081bf18183df7c578563ed29f">TheDanniCraft/activity-log</a></li>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/68ef80852f64d9f9a7b658398c3bf4550492dd64">TheDanniCraft/activity-log</a></li>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/eadcb9628c2e3ff2be6a04afe4f773ea84d6781f">TheDanniCraft/activity-log</a></li>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/86a75081d28165dd2712d263262db5d85f8a82e9">TheDanniCraft/TheDanniCraft</a></li>
-  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/93b3d7a1e20756ed8ac5210caa2252c4333caeb3">TheDanniCraft/activity-log</a></li>
-  </ol>
-  <!--END_SECTION:activity-->
+<ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/2d8c4c86ad40a8a4b36bc3efb4cf809a28a77bf3">TheDanniCraft/TheDanniCraft</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8d08a705672161fecc9bcb1161cad02c0f31cabb">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fa768ba9bcd8eb7b77f0bc3aa85127337fba4761">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/c93f85be52d453b7d15762d546b01f82831ddd98">TheDanniCraft/TheDanniCraft</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/de1389ed933016c081bf18183df7c578563ed29f">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/68ef80852f64d9f9a7b658398c3bf4550492dd64">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/eadcb9628c2e3ff2be6a04afe4f773ea84d6781f">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/86a75081d28165dd2712d263262db5d85f8a82e9">TheDanniCraft/TheDanniCraft</a></li>
+</ol>
+<!--END_SECTION:activity-->
 </p>
 
 ---

@@ -1,15 +1,14 @@
-<h2 align="left">Hi 👋! My name is TheDanniCraft and I'm a Fullstack Developer, from Germany</h2>
+<h1 align="center" style="color:#cdd6f4;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br> I'm TheDanniCraft</h1>
 
-###
+<p align="center" width= >
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?duration=3000&pause=100&color=CDD6F4&center=true&vCenter=true&lines=a+Web+Developer;a+Game+Developer;a+Bot+Developer;a+Plugin+Developer;a+Fullstack+Developer" />
+  	<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?duration=3000&pause=100&color=4C4F69&center=true&vCenter=true&lines=a+Web+Developer;a+Game+Developer;a+Bot+Developer;a+Plugin+Developer;a+Fullstack+Developer" />
+  	<img src="https://readme-typing-svg.demolab.com?duration=3000&pause=100&center=true&vCenter=true&color=CDD6F4&lines=a+Web+Developer;a+Game+Developer;a+Bot+Developer;a+Plugin+Developer;a+Fullstack+Developer" />
+  </picture>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDanniCraft&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDanniCraft&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -49,7 +48,54 @@
 
 ###
 
-<div align="left">
+<img align="right" height="200" src="https://avatars.githubusercontent.com/u/66677362"  />
+
+###
+
+<p allign="left">
+  <ul>
+    <li>🔭 I’m currently working on <a href="https://github.com/Wiresense/">Wiresense</a></li>
+    <li>🌱 I’m currently learning <strong>Next.js</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>every project I love and have time for</strong></li>
+    <li>🤝 I’m looking for help with <a href="https://github.com/Wiresense">Wiresense</a> (or any other project)</li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/TheDanniCraft/">Github</a> or on my <a href="https://thedannicraft.de">website</a></li>
+    <li>📫 How to reach me <a href="https://discordapp.com/users/385090261019131915">@thedannicraft</a> on discord</li>
+    <li>⚡ Fun fact <strong>I prefer to say "coding" instead of "programming"</strong></li>
+  </ul>
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=TheDanniCraft&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=thedannicraft&theme=github-dark&hide_border=true&mode=weekly&hide_longest_streak=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=thedannicraft&theme=github-light&hide_border=true&mode=weekly&hide_longest_streak=true" />
+  <img align="right" alt="Github Streak" src="https://streak-stats.demolab.com?user=thedannicraft&theme=github-light&hide_border=true&mode=weekly&hide_longest_streak=true" />
+</picture>
+
+<p align="left">
+  <!--START_SECTION:activity-->
+  <ol>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8d08a705672161fecc9bcb1161cad02c0f31cabb">TheDanniCraft/activity-log</a></li>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fa768ba9bcd8eb7b77f0bc3aa85127337fba4761">TheDanniCraft/activity-log</a></li>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/c93f85be52d453b7d15762d546b01f82831ddd98">TheDanniCraft/TheDanniCraft</a></li>
+  <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+  <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/de1389ed933016c081bf18183df7c578563ed29f">TheDanniCraft/activity-log</a></li>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/68ef80852f64d9f9a7b658398c3bf4550492dd64">TheDanniCraft/activity-log</a></li>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/eadcb9628c2e3ff2be6a04afe4f773ea84d6781f">TheDanniCraft/activity-log</a></li>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/86a75081d28165dd2712d263262db5d85f8a82e9">TheDanniCraft/TheDanniCraft</a></li>
+  <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/93b3d7a1e20756ed8ac5210caa2252c4333caeb3">TheDanniCraft/activity-log</a></li>
+  </ol>
+  <!--END_SECTION:activity-->
+</p>
+
+---
+
+<div align="center">
   <a href="https://www.linkedin.com/in/daniel-trui-266751313/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -70,54 +116,7 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/66677362"  />
-
-###
-
-<p allign="left">
-  <ul>
-    <li>🔭 I’m currently working on <a href="https://github.com/Wiresense/">Wiresense</a></li>
-    <li>🌱 I’m currently learning <strong>Next.js</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>every project I love and have time for</strong></li>
-    <li>🤝 I’m looking for help with <a href="https://github.com/Wiresense">Wiresense</a> (or any other project)</li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/TheDanniCraft/">Github</a> or on my <a href="https://thedannicraft.de">website</a></li>
-    <li>📫 How to reach me <a href="https://discordapp.com/users/385090261019131915">@thedannicraft</a> on discord</li>
-    <li>⚡ Fun fact <strong>I prefer to say "coding" instead of "programming"</strong></li>
-  </ul>
-</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TheDanniCraft/TheDanniCraft/output/snake.svg" alt="Snake animation" />
-
-<!--START_SECTION:activity-->
-<ol>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8d08a705672161fecc9bcb1161cad02c0f31cabb">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fa768ba9bcd8eb7b77f0bc3aa85127337fba4761">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/c93f85be52d453b7d15762d546b01f82831ddd98">TheDanniCraft/TheDanniCraft</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/de1389ed933016c081bf18183df7c578563ed29f">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/68ef80852f64d9f9a7b658398c3bf4550492dd64">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/eadcb9628c2e3ff2be6a04afe4f773ea84d6781f">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/86a75081d28165dd2712d263262db5d85f8a82e9">TheDanniCraft/TheDanniCraft</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/93b3d7a1e20756ed8ac5210caa2252c4333caeb3">TheDanniCraft/activity-log</a></li>
-</ol>
-<!--END_SECTION:activity-->
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=TheDanniCraft&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
----
+<img width="100%" src="https://raw.githubusercontent.com/TheDanniCraft/TheDanniCraft/output/snake.svg" alt="Snake animation" />
 <div align="center">
   <img src="https://widgetbite.com/stats/thedannicraft">
 </div>

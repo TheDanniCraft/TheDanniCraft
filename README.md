@@ -79,6 +79,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/11">PR #11</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/11">PR #11</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/9fadac9a131965bd92566f3b35f860914073cff2">TheDanniCraft/activity-log</a></li>
 <li>⭐ Starred <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/82a29a67caae5401f63fbfa2881b547a120922d0">TheDanniCraft/activity-log</a></li>
@@ -86,9 +89,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8d08a705672161fecc9bcb1161cad02c0f31cabb">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fa768ba9bcd8eb7b77f0bc3aa85127337fba4761">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/c93f85be52d453b7d15762d546b01f82831ddd98">TheDanniCraft/TheDanniCraft</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v1.0.2"><code>v1.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/de1389ed933016c081bf18183df7c578563ed29f">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

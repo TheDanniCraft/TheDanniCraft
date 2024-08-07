@@ -65,7 +65,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=TheDanniCraft&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app?username=TheDanniCraft&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app?username=TheDanniCraft&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
+    <img src="https://github-profile-trophy.vercel.app?username=TheDanniCraft&theme=gitdimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  </picture>
 </div>
 
 ###
@@ -116,7 +120,12 @@
   </a>
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/TheDanniCraft/TheDanniCraft/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheDanniCraft/TheDanniCraft/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheDanniCraft/TheDanniCraft/output/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/TheDanniCraft/TheDanniCraft/output/github-snake-dark.svg" />
+</picture>
 <div align="center">
   <img src="https://widgetbite.com/stats/thedannicraft">
 </div>

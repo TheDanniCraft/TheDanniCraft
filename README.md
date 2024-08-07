@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/02afe3b31a2343c517743b8a5de24371029987d1">TheDanniCraft/TheDanniCraft</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/63c5065feb27da8f4e60ff5bc3687b6ee46df42e">TheDanniCraft/TheDanniCraft</a></li>
+<li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/2f28b721bc5d6012ce35d18ba20ceeebaf5cdf35">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/92565aee3b6685f2933475dd24db844f650f9845">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/65d418dfc27860a98570c7f9fba5e5166febe9a5">TheDanniCraft/activity-log</a></li>
@@ -90,9 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/c71d03ad25e9cb6875b907eda385e026b528efba">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>renovate/postcss-8.x</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/151">PR #151</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/11">PR #11</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/11">PR #11</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

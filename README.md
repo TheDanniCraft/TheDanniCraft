@@ -79,6 +79,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/2f28b721bc5d6012ce35d18ba20ceeebaf5cdf35">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/92565aee3b6685f2933475dd24db844f650f9845">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/65d418dfc27860a98570c7f9fba5e5166febe9a5">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/e8a59cbf01680344143e12bf7b606a313df0d342">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/c71d03ad25e9cb6875b907eda385e026b528efba">TheDanniCraft/activity-log</a></li>
@@ -87,8 +89,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/11">PR #11</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/11">PR #11</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/9fadac9a131965bd92566f3b35f860914073cff2">TheDanniCraft/activity-log</a></li>
-<li>⭐ Starred <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

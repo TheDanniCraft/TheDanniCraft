@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/071d726cdd61e8a0b4093a57e3879ced94cceb19">TheDanniCraft/FlagSVG</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/017785be5e6476483e43ee7133181cc9a8f2fa62">TheDanniCraft/FlagSVG</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/652adf6b0c2352286b76e465ac5de7fbe6a2d880">TheDanniCraft/FlagSVG</a></li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/63c5065feb27da8f4e60ff5bc3687b6ee46df42e">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/2f28b721bc5d6012ce35d18ba20ceeebaf5cdf35">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/92565aee3b6685f2933475dd24db844f650f9845">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/65d418dfc27860a98570c7f9fba5e5166febe9a5">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>➕ Created a new branch <code>master</code> in a private repo</li>
+<li>🎉 Created a new private repository</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/071d726cdd61e8a0b4093a57e3879ced94cceb19">TheDanniCraft/FlagSVG</a></li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/e5dbfc3d568d5e17a2b964b7246374d27434ec58">TheDanniCraft/FlagSVG</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/02afe3b31a2343c517743b8a5de24371029987d1">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/63c5065feb27da8f4e60ff5bc3687b6ee46df42e">TheDanniCraft/TheDanniCraft</a></li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/2f28b721bc5d6012ce35d18ba20ceeebaf5cdf35">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/27">PR #27</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/27">PR #27</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/12">PR #12</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/12">PR #12</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/ee149c4927242574547c32f468d6e32babef1823">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-07-29</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0b5b69c34a0298e256494eb10d7938f9d90aefe6">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new branch <code>master</code> in a private repo</li>
 <li>🎉 Created a new private repository</li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/071d726cdd61e8a0b4093a57e3879ced94cceb19">TheDanniCraft/FlagSVG</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/017785be5e6476483e43ee7133181cc9a8f2fa62">TheDanniCraft/FlagSVG</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/652adf6b0c2352286b76e465ac5de7fbe6a2d880">TheDanniCraft/FlagSVG</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

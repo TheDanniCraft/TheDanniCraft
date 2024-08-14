@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🗑️ Deleted a tag <code>v1.0.1</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🗑️ Deleted a tag <code>v1.0.2</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🗑️ Deleted a tag <code>v1.0.0</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.3"><code>v0.0.3</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.2"><code>v0.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/2ff7e1f01f039d713472e23d7939c0884366ba1a">TheDanniCraft/FlagSVG</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/e7625e59870fd9c166a838e3a9f5db264c813db3">TheDanniCraft/FlagSVG</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/c5da5b6e94bd5731f9067dd32fb12e0344e1d671">TheDanniCraft/FlagSVG</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/27">PR #27</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/27">PR #27</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/12">PR #12</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/12">PR #12</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/ee149c4927242574547c32f468d6e32babef1823">TheDanniCraft/Portfolio</a></li>
-<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-07-29</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-15</code> in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-15</code> in a private repo</li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a tag <code>v1.0.1</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a tag <code>v1.0.2</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a tag <code>v1.0.0</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.3"><code>v0.0.3</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.2"><code>v0.0.2</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/FlagSVG/commit/2ff7e1f01f039d713472e23d7939c0884366ba1a">TheDanniCraft/FlagSVG</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/90c1a15d1796d157f67359283f3602b3148c0694">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-15</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -92,7 +93,6 @@
 <li>🗑️ Deleted a tag <code>v1.0.1</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a tag <code>v1.0.2</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a tag <code>v1.0.0</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.3"><code>v0.0.3</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

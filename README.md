@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/28">PR #28</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/28">PR #28</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/13">PR #13</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/13">PR #13</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/2f2fd06758df4b7af426ddc7f08d194a6a9c432b">Wiresense/frontend</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/HLTV.JS/tree/master"><code>master</code></a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 <li>🎉 Created a new repository <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/90c1a15d1796d157f67359283f3602b3148c0694">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-15</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-15</code> in a private repo</li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

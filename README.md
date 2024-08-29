@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔎 Reviewed a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/6445fb3592fdb648f713fe67d3093c72373c5252">TheDanniCraft/HLTV.JS</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/1">PR #1</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-26</code> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-22</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/28">PR #28</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

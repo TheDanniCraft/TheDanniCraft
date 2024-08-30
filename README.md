@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/22b5a610319c5a3bf99403ad60e2f2482e9f005f">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/d560b9f1875dbfa53bdee4e230d37bc3bdc79456">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/66e7b87c669df2aebe313fe340c430087bdfa6db">TheDanniCraft/HLTV.JS</a></li>
 <li>🔎 Reviewed a PR in a private repo</li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Pixcurate/pull/3">PR #3</a> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/3">PR #3</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-26</code> in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

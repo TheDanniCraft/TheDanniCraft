@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/065431310d84204be26903f724a7b87f4ff111ef">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/8442947e6e6d39bcfdaccfae26afe6ef31ca29cc">TheDanniCraft/HLTV.JS</a></li>
 <li>🗑️ Deleted a branch <code>master-1</code> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/HLTV.JS/tree/master-1"><code>master-1</code></a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
@@ -92,7 +93,6 @@
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/6445fb3592fdb648f713fe67d3093c72373c5252">TheDanniCraft/HLTV.JS</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/1">PR #1</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
-<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-08-26</code> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

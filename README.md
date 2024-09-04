@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-02</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/55">PR #55</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-02</code> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/29">PR #29</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/14">PR #14</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/46755694793bddc509fcd87e104372ed26963a3d">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-02</code> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/undefined">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/065431310d84204be26903f724a7b87f4ff111ef">TheDanniCraft/HLTV.JS</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

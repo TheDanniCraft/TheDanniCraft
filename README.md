@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/30">PR #30</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/30">PR #30</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/15">PR #15</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/15">PR #15</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-02</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Pixcurate/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-05</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-05</code> in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/161">PR #161</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>🗑️ Deleted a branch <code>renovate/nextjs-monorepo</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

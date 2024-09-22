@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-19</code> in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>⭐ Starred <a href="https://github.com/angus-c/just">angus-c/just</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
@@ -91,8 +93,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-12</code> in a private repo</li>
 <li>🗑️ Deleted a branch <code>wip</code> in a private repo</li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

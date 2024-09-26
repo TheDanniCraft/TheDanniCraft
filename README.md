@@ -84,6 +84,7 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/tag-bumper/pull/2">PR #2</a> in <a href="https://github.com/TheDanniCraft/tag-bumper">TheDanniCraft/tag-bumper</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/60">PR #60</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>⭐ Starred <a href="https://github.com/angus-c/just">angus-c/just</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

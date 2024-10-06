@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/Portfolio/pull/59">PR #59</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/tag-bumper/pull/2">PR #2</a> in <a href="https://github.com/TheDanniCraft/tag-bumper">TheDanniCraft/tag-bumper</a></li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/60">PR #60</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

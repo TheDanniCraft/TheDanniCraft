@@ -83,15 +83,15 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/16">PR #16</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/16">PR #16</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/31">PR #31</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/c3033c6dd92c6ba79069aec4be284256be551447">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/31">PR #31</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/Portfolio/pull/59">PR #59</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/32">PR #32</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/tag-bumper/pull/2">PR #2</a> in <a href="https://github.com/TheDanniCraft/tag-bumper">TheDanniCraft/tag-bumper</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

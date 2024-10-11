@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/4">#4</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/13fe25b1695c655da2cbc03c2ac889b07534e9fa">TheDanniCraft/activity-log</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/ae62d7baa9d8458b7b06f10cd6c30c8ee4112763">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f8d13fb3a23046f41b8bcadc74210ff05032dcbf">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/c0582ff875abe33c694685397a22bd0e36877aaa">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8bb6c60f5ca8a7847774690bbad2426ee3674bd6">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8d87dc8ee0f1f7f1f142c0d5c33f63ec24d54c8a">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/13fe25b1695c655da2cbc03c2ac889b07534e9fa">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/follow-community-guidelines"><code>follow-community-guidelines</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/4">#4</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/3">#3</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/3#issuecomment-2406889242">View Comment</a></li>
-<li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

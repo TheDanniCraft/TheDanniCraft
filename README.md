@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/7">#7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/7#issuecomment-2408710514">View Comment</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/4">#4</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/13fe25b1695c655da2cbc03c2ac889b07534e9fa">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8bb6c60f5ca8a7847774690bbad2426ee3674bd6">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/8d87dc8ee0f1f7f1f142c0d5c33f63ec24d54c8a">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/13fe25b1695c655da2cbc03c2ac889b07534e9fa">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

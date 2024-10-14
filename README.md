@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799346089">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799363598">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799357469">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799352192">View Comment</a></li>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-16</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-16</code> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Pixcurate/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/10">#10</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/10#issuecomment-2408719528">View Comment</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/10">PR #10</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/9">#9</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/9#issuecomment-2408718477">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/6">#6</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/6#issuecomment-2408715182">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/7">#7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/7#issuecomment-2408710514">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

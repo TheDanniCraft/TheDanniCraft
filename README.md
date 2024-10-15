@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799346089">View Comment</a></li>
 <li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799363598">View Comment</a></li>
 <li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799357469">View Comment</a></li>
@@ -92,7 +93,6 @@
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-16</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-16</code> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Pixcurate/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

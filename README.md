@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/12">#12</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/12#issuecomment-2416638117">View Comment</a></li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/12">PR #12</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/18">PR #18</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/18">PR #18</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/34">PR #34</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
@@ -91,8 +93,6 @@
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799346089">View Comment</a></li>
-<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799363598">View Comment</a></li>
-<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799357469">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/dicebear/dicebear">dicebear/dicebear</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/7#pullrequestreviewcomment-1799346089">View Comment</a></li>
@@ -92,7 +93,6 @@
 <li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-09-16</code> in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

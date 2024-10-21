@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/35">PR #35</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/35">PR #35</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/19">PR #19</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/19">PR #19</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/62">PR #62</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-10-17</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/12">#12</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/12#issuecomment-2416638117">View Comment</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/12">PR #12</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/18">PR #18</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/18">PR #18</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/34">PR #34</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/34">PR #34</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>⭐ Starred <a href="https://github.com/dicebear/dicebear">dicebear/dicebear</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

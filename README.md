@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/e1c2d2d056054b4c775471b8e5caa8d1a7cfef80">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/27743a6cb99ef75ec76e3212d730b0b6b088514a">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/5b5f603735e623bff9887d82dcb5c670c6572854">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/162bcfff606a4de337d6c57f1af768945ff1b80c">TheDanniCraft/quickdrop</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/d168027e8b3c78cf86d1bb7afa21f826909e1280">TheDanniCraft/quickdrop</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/revert-4-add-ghcr-publish"><code>revert-4-add-ghcr-publish</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/cb726979469f689030f0c1ec91f0b975badf1fe3">TheDanniCraft/quickdrop</a></li>
-<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/1">#1</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

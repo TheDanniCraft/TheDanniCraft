@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/quickdrop/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/d168027e8b3c78cf86d1bb7afa21f826909e1280">TheDanniCraft/quickdrop</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/revert-4-add-ghcr-publish"><code>revert-4-add-ghcr-publish</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/cb726979469f689030f0c1ec91f0b975badf1fe3">TheDanniCraft/quickdrop</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/1">#1</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
@@ -91,8 +93,6 @@
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/quickdrop/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/add-ghcr-publish"><code>add-ghcr-publish</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/test-push-1729601589759"><code>test-push-1729601589759</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🗑️ Deleted a branch <code>test-push-1729601589759</code> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/3">#3</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

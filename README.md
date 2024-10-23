@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/revert-4-add-ghcr-publish"><code>revert-4-add-ghcr-publish</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/cb726979469f689030f0c1ec91f0b975badf1fe3">TheDanniCraft/quickdrop</a></li>
+<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/1">#1</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/a411c8e3d58694f5121a5ac3958ada782c8f11a5">TheDanniCraft/quickdrop</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/quickdrop/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/add-ghcr-publish"><code>add-ghcr-publish</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/test-push-1729601589759"><code>test-push-1729601589759</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🗑️ Deleted a branch <code>test-push-1729601589759</code> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/3">#3</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/2">#2</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/1">#1</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/master"><code>master</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🎉 Created a new repository <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/35">PR #35</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/35">PR #35</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/19">PR #19</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

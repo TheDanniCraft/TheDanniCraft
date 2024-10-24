@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/dced5769abd857903524e60519e5e68935bbc73d">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/7b9a5e9bd31d022736c80556bf181e3c3c28c91a">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/79f5eaed30197fe68e0b9c5966841c0d8410699b">TheDanniCraft/quickdrop</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/b18489566ca947e00cf7fab7902549c60afc82d9">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/cc46082c1a1689a5adf5f3235e727355423c24eb">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/e585cff52b75ee21953721d7077a3f71b191eaea">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/7a78d33cff5b6abcb3343204b5027e91ce72eee7">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

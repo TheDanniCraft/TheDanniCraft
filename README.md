@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/79f5eaed30197fe68e0b9c5966841c0d8410699b">TheDanniCraft/quickdrop</a></li>
+<li>⭐ Starred <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>🗑️ Deleted a branch <code>revert-4-add-ghcr-publish</code> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>🗑️ Deleted a branch <code>add-ghcr-publish</code> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/b18489566ca947e00cf7fab7902549c60afc82d9">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/cc46082c1a1689a5adf5f3235e727355423c24eb">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/e585cff52b75ee21953721d7077a3f71b191eaea">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/7a78d33cff5b6abcb3343204b5027e91ce72eee7">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/307ae4262b9be07c931cc8f2a34912de9d979a8a">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/7fb0c83a98349509904ef8897f6fa00933ba2868">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/e1c2d2d056054b4c775471b8e5caa8d1a7cfef80">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/27743a6cb99ef75ec76e3212d730b0b6b088514a">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/5b5f603735e623bff9887d82dcb5c670c6572854">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/162bcfff606a4de337d6c57f1af768945ff1b80c">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/e49c2e14a51cc5b50df242ce81ea884709edfbf7">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

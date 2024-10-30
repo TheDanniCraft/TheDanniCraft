@@ -84,6 +84,8 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/3cae9028fd9662eb19d67f3a9a015128ae9766b9">TheDanniCraft/quickdrop</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/8">PR #8</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/3cae9028fd9662eb19d67f3a9a015128ae9766b9">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/4d9ad834f8e88e34beb8b38596c9cc819c192369">TheDanniCraft/quickdrop</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/quickdrop/pull/8">PR #8</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/add-metric"><code>add-metric</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
@@ -91,8 +93,6 @@
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/20">PR #20</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/36">PR #36</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/36">PR #36</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/23bde7fcbac234fa7d8492f26a00a973e1e8e04b">TheDanniCraft/quickdrop</a></li>
-<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/3">#3</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/e48de2c2e964c55f04c2f742ae84429548302e92">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/21f351bddb759089607ee00456c0e76412e5454e">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/d4e6fa58bb1e1a7a1c414386c91bea5a0ca41702">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/14291e08f13338f0abc30d4884e97dae07a9b13a">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/f129707162e53a2167de3d8db86af4da374b00f2">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/d3c49485b8a2b46bcc208f71c882ce3bce4adbfb">TheDanniCraft/quickdrop</a></li>
@@ -90,9 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/3cae9028fd9662eb19d67f3a9a015128ae9766b9">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/8">PR #8</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/3cae9028fd9662eb19d67f3a9a015128ae9766b9">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/4d9ad834f8e88e34beb8b38596c9cc819c192369">TheDanniCraft/quickdrop</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/quickdrop/pull/8">PR #8</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/quickdrop/tree/add-metric"><code>add-metric</code></a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

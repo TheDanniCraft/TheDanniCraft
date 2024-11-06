@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/251ca49aab68cf8e319e823dabdabe2028d0e702">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/37">PR #37</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/37">PR #37</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
@@ -92,7 +93,6 @@
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/21">PR #21</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/ff130624ce529461fb2db0680bc62a30023d0a8a">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/172e7352d01db2649b87d6a341d1b44ccfbd4e1f">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/c121489a793ef2e80750c29b5170fb7c120dc5aa">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

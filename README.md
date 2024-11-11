@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/11">PR #11</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/quickdrop/pull/10">PR #10</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/quickdrop/pull/9">PR #9</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/38">PR #38</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/38">PR #38</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/f04da8d8c2a6f8f3c8ea48c50cf9847d3abeace7">TheDanniCraft/quickdrop</a></li>
@@ -90,9 +93,6 @@
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/quickdrop/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🗑️ Deleted a branch <code>add-locals</code> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🗑️ Deleted a branch <code>add-metric</code> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/c8b993087e8004c965d6f04550a0ecacecaf21a5">TheDanniCraft/quickdrop</a></li>
-<li>🗑️ Deleted a tag <code>1</code> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/251ca49aab68cf8e319e823dabdabe2028d0e702">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

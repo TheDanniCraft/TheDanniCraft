@@ -84,6 +84,7 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/2">PR #2</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Pixcurate/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/Pixcurate">TheDanniCraft/Pixcurate</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/tag-bumper/pull/3">PR #3</a> in <a href="https://github.com/TheDanniCraft/tag-bumper">TheDanniCraft/tag-bumper</a></li>
 <li>⭐ Starred <a href="https://github.com/snutij/esport_ics">snutij/esport_ics</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/11">PR #11</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/quickdrop/pull/10">PR #10</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

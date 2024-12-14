@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/160ca59f5d0b4d78fd3cb875125d10279b6c51f1">TheDanniCraft/lichtskulpturenpfad</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/c2943975edf9ebc6ab935d0476e78824152ab012">TheDanniCraft/lichtskulpturenpfad</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/a742f7ebf37022eaa2689a27742534904adcdf11">TheDanniCraft/lichtskulpturenpfad</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/12">PR #12</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🌍 Made repository <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a> public</li>
@@ -90,8 +92,6 @@
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2024-12-09</code> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/41">PR #41</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/41">PR #41</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/197cb40ceb9a5c7fc12efb3c73c122c293e868e1">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/2ead11a88f8fa45996035cb641c6f88a5bbacb7a">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/7891a0bee69f96ea78f879a8b67ddc372171f035">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/3">PR #3</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/160ca59f5d0b4d78fd3cb875125d10279b6c51f1">TheDanniCraft/lichtskulpturenpfad</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/c2943975edf9ebc6ab935d0476e78824152ab012">TheDanniCraft/lichtskulpturenpfad</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/a742f7ebf37022eaa2689a27742534904adcdf11">TheDanniCraft/lichtskulpturenpfad</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/12">PR #12</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🌍 Made repository <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a> public</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

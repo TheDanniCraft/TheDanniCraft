@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/74">PR #74</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/75">PR #75</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/72">PR #72</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/24">PR #24</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>➕ Created a new branch <code>master</code> in a private repo</li>
 <li>🎉 Created a new private repository</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/43">PR #43</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/43">PR #43</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/381aea023487673d4143244de4ba61fa0bff7203">TheDanniCraft/lichtskulpturenpfad</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/commit/73114e8dd4a8989b5086c1e996d9d6b49168e6e3">TheDanniCraft/lichtskulpturenpfad</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

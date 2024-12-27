@@ -84,6 +84,7 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on an issue in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/44">PR #44</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/44">PR #44</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/72">PR #72</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

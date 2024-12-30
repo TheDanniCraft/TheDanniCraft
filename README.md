@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/a935504c1689281f59b49eed1fa50ff2d6c4ce8b">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on an issue in a private repo</li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/75">PR #75</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/72">PR #72</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

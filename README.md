@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/c0d61411754f0c111fa784b1d50280ac0c2bc207">TheDanniCraft/Portfolio</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/9">#9</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/9#issuecomment-2565787604">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/6">#6</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/6#issuecomment-2565785401">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/7">#7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/7#issuecomment-2565783262">View Comment</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on an issue in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/44">PR #44</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2025-01-06</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/46">PR #46</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/46">PR #46</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/14">PR #14</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/13">PR #13</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/c0d61411754f0c111fa784b1d50280ac0c2bc207">TheDanniCraft/Portfolio</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/9">#9</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/9#issuecomment-2565787604">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/6">#6</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/6#issuecomment-2565785401">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/7">#7</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/7#issuecomment-2565783262">View Comment</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/14">PR #14</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
+<li>🗑️ Deleted a branch <code>dependabot/npm_and_yarn/npm_and_yarn-9a95af742f</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/195">PR #195</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/12">PR #12</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

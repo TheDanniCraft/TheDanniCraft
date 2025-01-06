@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.6"><code>v0.0.6</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/3292bd71102c1cdb4e5b9ac185f3b6cbe20ab9bb">TheDanniCraft/activity-log</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.6"><code>v0.0.6</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.6"><code>v0.0.6</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f3a613335d86b16b2b19d354e2872e43385a9d90">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/fix-endless-loop"><code>fix-endless-loop</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2025-01-06</code> in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

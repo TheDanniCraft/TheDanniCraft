@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f3a613335d86b16b2b19d354e2872e43385a9d90">TheDanniCraft/activity-log</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/fix-endless-loop"><code>fix-endless-loop</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2025-01-06</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a></li>
@@ -90,9 +93,6 @@
 <li>🗑️ Deleted a branch <code>dependabot/npm_and_yarn/npm_and_yarn-9a95af742f</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/195">PR #195</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/12">PR #12</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/lichtskulpturenpfad">TheDanniCraft/lichtskulpturenpfad</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

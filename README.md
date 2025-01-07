@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/f3919c4ca0a0b8488f9b3805bf40b8a612c894ae">TheDanniCraft/TheDanniCraft</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/25">PR #25</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/25">PR #25</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/23">#23</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/23#issuecomment-2574085550">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/23">#23</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/23#issuecomment-2574008604">View Comment</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.6"><code>v0.0.6</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/3292bd71102c1cdb4e5b9ac185f3b6cbe20ab9bb">TheDanniCraft/activity-log</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.6"><code>v0.0.6</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.6"><code>v0.0.6</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/890298f5fcdc5ee5f8ac0964b1edaf442a6ae24b">TheDanniCraft/activity-log</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/7633555670a4e11ab3e95ab62b076e0b53724d23">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f3a613335d86b16b2b19d354e2872e43385a9d90">TheDanniCraft/activity-log</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

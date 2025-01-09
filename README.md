@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔄 Reopened an issue <a href="https://github.com/TheDanniCraft/TerminalWebsite/issues/5">#5</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
+<li>🔄 Reopened an issue in a private repo</li>
+<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/TerminalWebsite/issues/5">#5</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
+<li>❌ Closed an issue in a private repo</li>
 <li>🔄 Reopened an issue in a private repo</li>
 <li>❌ Closed an issue in a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2579088722">View Comment</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/TerminalWebsite/issues/5">#5</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>❌ Closed an issue in a private repo</li>
 <li>🔄 Reopened an issue <a href="https://github.com/TheDanniCraft/TerminalWebsite/issues/5">#5</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/TerminalWebsite/issues/5">#5</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2578094766">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2575585872">View Comment</a></li>
-<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/23">#23</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
 <li>🔄 Reopened an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/2">#2</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/quickdrop/issues/2">#2</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2580060504">View Comment</a></li>
@@ -92,7 +93,6 @@
 <li>🔄 Reopened an issue <a href="https://github.com/TheDanniCraft/TerminalWebsite/issues/5">#5</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>🔄 Reopened an issue in a private repo</li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/TerminalWebsite/issues/5">#5</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>❌ Closed an issue in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

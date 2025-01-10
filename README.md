@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2580060504">View Comment</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -92,7 +93,6 @@
 <li>❌ Closed an issue in a private repo</li>
 <li>🔄 Reopened an issue in a private repo</li>
 <li>❌ Closed an issue in a private repo</li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2579088722">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

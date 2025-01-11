@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2584203076">View Comment</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.7"><code>v0.0.7</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.7"><code>v0.0.7</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/4866ba58e583e186ff8420af97bda87f11f4c210">TheDanniCraft/activity-log</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/fix-multievents"><code>fix-multievents</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2582866246">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2582834974">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2582400041">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2581652593">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2581624293">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/24#issuecomment-2581621748">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/25">#25</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/25#issuecomment-2581205679">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2580451247">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

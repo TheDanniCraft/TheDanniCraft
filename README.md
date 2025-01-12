@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/oxylabs/how-to-scrape-indeed">oxylabs/how-to-scrape-indeed</a></li>
 <li>🗑️ Deleted a branch <code>fix-multievents</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>fix-endless-loop</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>follow-community-guidelines</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
@@ -92,7 +93,6 @@
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.7"><code>v0.0.7</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/24">#24</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/4866ba58e583e186ff8420af97bda87f11f4c210">TheDanniCraft/activity-log</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

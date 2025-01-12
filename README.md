@@ -83,7 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>⭐ Starred <a href="https://github.com/oxylabs/how-to-scrape-indeed">oxylabs/how-to-scrape-indeed</a></li>
+<li>🔔 Watching <a href="https://github.com/oxylabs/how-to-scrape-indeed">oxylabs/how-to-scrape-indeed</a></li>
 <li>🗑️ Deleted a branch <code>fix-multievents</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>fix-endless-loop</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>follow-community-guidelines</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>

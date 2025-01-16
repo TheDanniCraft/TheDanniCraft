@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917252976">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917263561">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917311251">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917253984">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917259057">View Comment</a></li>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/27">#27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/27#issuecomment-2593785271">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/25">#25</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/25#issuecomment-2593708444">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/b195f1da93da663305ef81dfa4140fbc4e181435">TheDanniCraft/Portfolio</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2591497323">View Comment</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/15">PR #15</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/47">PR #47</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/47">PR #47</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/26">PR #26</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/26">PR #26</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-2587006775">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

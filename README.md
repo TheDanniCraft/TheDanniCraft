@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2025-01-16</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917252976">View Comment</a></li>
@@ -92,7 +93,6 @@
 <li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/27#pullrequestreviewcomment-1917259057">View Comment</a></li>
 <li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/27">#27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/27#issuecomment-2593785271">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

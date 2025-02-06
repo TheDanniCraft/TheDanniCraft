@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/29">PR #29</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/bd47882efecf7a28d8301bc3158c67c7d73c2d0e">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/227765b05d4b3bf1d6f55647a232dae939491f1b">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/hide-private-details"><code>hide-private-details</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2025-02-06</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -90,9 +93,6 @@
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/27">#27</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/27#issuecomment-2639712910">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2639661315">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2635455671">View Comment</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/16">PR #16</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/50">PR #50</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/bb00997001f1247e440495f83d877ec8a599576a">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

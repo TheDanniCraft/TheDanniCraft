@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/18">PR #18</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/52">PR #52</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/31">PR #31</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to a private repo</li>
 <li>➕ Created a new branch <code>v2-rewrite</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -90,9 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/51">PR #51</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/30">PR #30</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🗑️ Deleted a branch <code>hide-private-details</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2640777650">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/70b57ee2de82ea3fea3e9667fad88ca5676e8e1f">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/28">#28</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/28#issuecomment-2640621740">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

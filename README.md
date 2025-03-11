@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TerminalWebsite/commit/3bfe4009f40ca1c4421fdd2e0b1688ad7b75612e">TheDanniCraft/TerminalWebsite</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/32">PR #32</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/53">PR #53</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
@@ -92,7 +93,6 @@
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/30">#30</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/30#issuecomment-2675228040">View Comment</a></li>
 <li>⭐ Starred <a href="https://github.com/basmilius/weather-icons">basmilius/weather-icons</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/18">PR #18</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/52">PR #52</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

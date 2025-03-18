@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/56">PR #56</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/56">PR #56</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/ffc852db7214c0a4b4c919d9a60f292083b4bbb7">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TerminalWebsite/commit/3bfe4009f40ca1c4421fdd2e0b1688ad7b75612e">TheDanniCraft/TerminalWebsite</a></li>
@@ -90,9 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/32">PR #32</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/53">PR #53</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/53">PR #53</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/30">#30</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/30#issuecomment-2693925212">View Comment</a></li>
-<li>⭐ Starred <a href="https://github.com/dead8309/Kizzy">dead8309/Kizzy</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/30">#30</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/30#issuecomment-2675228040">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🎉 Created a new private repository</li>
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/20">PR #20</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/19">PR #19</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
@@ -92,7 +93,6 @@
 <li>🆕 Opened an issue <a href="https://github.com/operational-co/operational.co/issues/3">#3</a> in <a href="https://github.com/operational-co/operational.co">operational-co/operational.co</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/57">PR #57</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

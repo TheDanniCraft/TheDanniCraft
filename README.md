@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🆕 Opened an issue <a href="https://github.com/knadh/listmonk/issues/2403">#2403</a> in <a href="https://github.com/knadh/listmonk">knadh/listmonk</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a2b9080d60a347b5c81bce929be9797535cb49de">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/master"><code>master</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new repository <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/37">PR #37</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/37">PR #37</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/20">PR #20</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

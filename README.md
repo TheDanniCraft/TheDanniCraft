@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7c68fa1320c86a4eeb7482e1f7a762cd9337ea78">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e5c9fec4250bd36f59e32d2616ac9408601dd3f2">TheDanniCraft/clipify</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/knadh/listmonk/issues/2403">#2403</a> in <a href="https://github.com/knadh/listmonk">knadh/listmonk</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a2b9080d60a347b5c81bce929be9797535cb49de">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/60">PR #60</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/60">PR #60</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/37">PR #37</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/37">PR #37</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

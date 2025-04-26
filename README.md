@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/62">PR #62</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6100afc8dee53406effd6153be8011b61a921b50">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ab0b4f4341e168f03652fe7fe085d78051050019">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/36bc75ffab3d1438431013b4b706a004b869c179">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0db4ab9806858d948027af68523741eab3386370">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7c68fa1320c86a4eeb7482e1f7a762cd9337ea78">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e5c9fec4250bd36f59e32d2616ac9408601dd3f2">TheDanniCraft/clipify</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/knadh/listmonk/issues/2403">#2403</a> in <a href="https://github.com/knadh/listmonk">knadh/listmonk</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

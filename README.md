@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f0b0264c0cd3a0700347b036b8a6ecc5762ec106">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/427013e0afdf8b546de2ba71bb5ea090a7fa991c">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/aa1824edb23724daf4cb64520a0bfbae333ce234">TheDanniCraft/clipify</a></li>
@@ -91,8 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/64">PR #64</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/39">PR #39</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/39">PR #39</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to a private repo</li>
-<li>➕ Created a new branch <code>master</code> in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

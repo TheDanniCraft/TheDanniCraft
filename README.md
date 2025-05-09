@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/515cdb8986465d599ab865408b7c1023b3986c36">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1bb2e4f13a30268163e36bba54b5606642fcb299">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/688cffc5359a5f70e3a20c45302c954fa2062bfd">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/aa1824edb23724daf4cb64520a0bfbae333ce234">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b8b055565dc0d1fee719d57796248a9ebe8d8a45">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

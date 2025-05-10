@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/76dc8c102437f037d994c1928435a58bfce8089b">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4f62f3e19afee9d8efeb8f4bcc0c52c184ae389a">TheDanniCraft/clipify</a></li>
 <li>⭐ Starred <a href="https://github.com/LayerXcom/next-navigation-guard">LayerXcom/next-navigation-guard</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/515cdb8986465d599ab865408b7c1023b3986c36">TheDanniCraft/clipify</a></li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f0b0264c0cd3a0700347b036b8a6ecc5762ec106">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/427013e0afdf8b546de2ba71bb5ea090a7fa991c">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/aa1824edb23724daf4cb64520a0bfbae333ce234">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

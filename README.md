@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/697d190de56abd19567aee58079191056c53e597">Wiresense/wiresense.js</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/41">PR #41</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/66">PR #66</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📥 Opened <a href="https://github.com/Wiresense/wiresense.js/pull/41">PR #41</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/697d190de56abd19567aee58079191056c53e597">Wiresense/wiresense.js</a></li>
@@ -91,8 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/65">PR #65</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🆕 Opened an issue <a href="https://github.com/dcodesdev/LetterSpace/issues/20">#20</a> in <a href="https://github.com/dcodesdev/LetterSpace">dcodesdev/LetterSpace</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a992bf065b1922c572fd9ab1047941fb5c710e68">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7e4a4c90c08416f3f94964d257ae1619de7aa681">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

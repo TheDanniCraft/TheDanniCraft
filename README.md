@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/65">PR #65</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🆕 Opened an issue <a href="https://github.com/dcodesdev/LetterSpace/issues/20">#20</a> in <a href="https://github.com/dcodesdev/LetterSpace">dcodesdev/LetterSpace</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a992bf065b1922c572fd9ab1047941fb5c710e68">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/76dc8c102437f037d994c1928435a58bfce8089b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4f62f3e19afee9d8efeb8f4bcc0c52c184ae389a">TheDanniCraft/clipify</a></li>
 <li>⭐ Starred <a href="https://github.com/LayerXcom/next-navigation-guard">LayerXcom/next-navigation-guard</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

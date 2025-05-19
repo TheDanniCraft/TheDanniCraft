@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/Portfolio/pull/80">PR #80</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/86">PR #86</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
+<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/67">PR #67</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/67">PR #67</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>⭐ Starred <a href="https://github.com/skellgreco/cially">skellgreco/cially</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/c2c375bf2ba50c65f4425a6383aae3487d9474a5">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/33cf7a9563c474131626ce3e8140c022ed410e34">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/812ac65815d1dd5bc1e387f6925d9047a7174909">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/697d190de56abd19567aee58079191056c53e597">Wiresense/wiresense.js</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/41">PR #41</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/66">PR #66</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📥 Opened <a href="https://github.com/Wiresense/wiresense.js/pull/41">PR #41</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/697d190de56abd19567aee58079191056c53e597">Wiresense/wiresense.js</a></li>
-<li>➕ Created a new branch <a href="https://github.com/Wiresense/wiresense.js/tree/alert-autofix-1"><code>alert-autofix-1</code></a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

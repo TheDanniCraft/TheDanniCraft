@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b7f39473bd7d5a579d0f5c6b789a93560b2b7e79">TheDanniCraft/clipify</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/Portfolio/pull/80">PR #80</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/86">PR #86</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
@@ -92,7 +93,6 @@
 <li>⭐ Starred <a href="https://github.com/skellgreco/cially">skellgreco/cially</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/c2c375bf2ba50c65f4425a6383aae3487d9474a5">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/33cf7a9563c474131626ce3e8140c022ed410e34">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/812ac65815d1dd5bc1e387f6925d9047a7174909">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/cbdee634d88c65fa2cf60d9c699fa86b5a5ca435">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6a4b9751acfa31daa3d4d829103b080e4f191d60">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b3f3786bd10f804bba2e5578f02b1863eab8c47e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/50dcce719f68a931b10264b11f8321aa4b856789">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/Portfolio/pull/80">PR #80</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/86">PR #86</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

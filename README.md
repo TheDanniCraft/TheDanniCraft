@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/50dcce719f68a931b10264b11f8321aa4b856789">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7edf00d765303cd3a3e1117c1d97103e425f4e57">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/cfe25f6bf53e3b24f4eda332a7469ab4294a129f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b7f39473bd7d5a579d0f5c6b789a93560b2b7e79">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/42">PR #42</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/67">PR #67</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/67">PR #67</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>⭐ Starred <a href="https://github.com/skellgreco/cially">skellgreco/cially</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/21">PR #21</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>❌ Closed a PR in a private repo</li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/quickdrop/pull/19">PR #19</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>❌ Closed a PR in a private repo</li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/swatch-studio/pull/18">PR #18</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/9abbf8caf839511a8d109554f7dd849d38d1bb10">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8ca5573549d6c80fd9c7ba0b2e32ec50814fbc6d">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4ef63e920afc32e81423a1c1fd1de8c4078cf797">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/cbdee634d88c65fa2cf60d9c699fa86b5a5ca435">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6a4b9751acfa31daa3d4d829103b080e4f191d60">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

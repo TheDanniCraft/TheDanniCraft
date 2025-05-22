@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/3fc3c3762d9800e2c2c87d388c083055a2b517a4">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/21">PR #21</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
@@ -92,7 +93,6 @@
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/quickdrop/pull/19">PR #19</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>❌ Closed a PR in a private repo</li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/swatch-studio/pull/18">PR #18</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/5">PR #5</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

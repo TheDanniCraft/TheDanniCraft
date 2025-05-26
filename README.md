@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8a5099c6a856b6d7cd48af41e58dccaeca9133ae">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4342e96ac7f877b2417531031213b7d02163469a">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/43">PR #43</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/cd96ed2b06ed8744057aebcd0a07a97d3c160f20">TheDanniCraft/clipify</a></li>
@@ -91,7 +92,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/21">PR #21</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/HLTV.JS/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/HLTV.JS">TheDanniCraft/HLTV.JS</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

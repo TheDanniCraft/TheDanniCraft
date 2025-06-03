@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/Infisical/infisical/issues/3702">#3702</a> in <a href="https://github.com/Infisical/infisical">Infisical/infisical</a>: <a href="https://github.com/Infisical/infisical/issues/3702#issuecomment-2932856856">View Comment</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/23">PR #23</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/69">PR #69</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
@@ -91,7 +92,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/88fee3ab8a0e2b69a03105fcfec377b3121f0cce">TheDanniCraft/Portfolio</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/68">PR #68</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

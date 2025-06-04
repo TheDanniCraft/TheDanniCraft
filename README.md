@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7f20b9feb1c4f863086b6ce59ad64436c091f2ad">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b3810d26d7a35c4918627f2c02d506560af76a55">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2ee27ac94edb6881fe1b92ea68b24b6bdf1cb8ab">TheDanniCraft/clipify</a></li>
@@ -91,8 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/23">PR #23</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/69">PR #69</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/44">PR #44</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6bddc9807f01fc145952a96940de4f34d060f306">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/88fee3ab8a0e2b69a03105fcfec377b3121f0cce">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

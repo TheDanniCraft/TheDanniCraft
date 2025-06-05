@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.2"><code>v0.0.2</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.2"><code>v0.0.2</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f6061af36497fa32a0010ba3a130a2b4da25e32d">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7f20b9feb1c4f863086b6ce59ad64436c091f2ad">TheDanniCraft/clipify</a></li>
@@ -90,9 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2ee27ac94edb6881fe1b92ea68b24b6bdf1cb8ab">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/Infisical/infisical/issues/3702">#3702</a> in <a href="https://github.com/Infisical/infisical">Infisical/infisical</a>: <a href="https://github.com/Infisical/infisical/issues/3702#issuecomment-2932856856">View Comment</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/23">PR #23</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/69">PR #69</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/44">PR #44</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

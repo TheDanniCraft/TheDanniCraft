@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.3"><code>v0.0.3</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.3"><code>v0.0.3</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3502b1686b06b48bc45caf6eec8476f27461ed9d">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.2"><code>v0.0.2</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.2"><code>v0.0.2</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f6061af36497fa32a0010ba3a130a2b4da25e32d">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.1"><code>v0.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7f20b9feb1c4f863086b6ce59ad64436c091f2ad">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b3810d26d7a35c4918627f2c02d506560af76a55">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2ee27ac94edb6881fe1b92ea68b24b6bdf1cb8ab">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/Infisical/infisical/issues/3702">#3702</a> in <a href="https://github.com/Infisical/infisical">Infisical/infisical</a>: <a href="https://github.com/Infisical/infisical/issues/3702#issuecomment-2932856856">View Comment</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

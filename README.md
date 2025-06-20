@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/usertour/usertour">usertour/usertour</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/46">PR #46</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/71">PR #71</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/45">PR #45</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
@@ -92,7 +93,6 @@
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.4"><code>v0.0.4</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/75d1bde2473e536228831cc0fedd5a9c8d464302">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

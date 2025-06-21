@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.5"><code>v0.0.5</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.5"><code>v0.0.5</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>implement-mollie</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -91,8 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/46">PR #46</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/71">PR #71</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/45">PR #45</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/70">PR #70</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7fd6dd8986311bb4f55a0a1c74087e85b0c5a993">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

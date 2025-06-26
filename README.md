@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.5"><code>v0.0.5</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.5"><code>v0.0.5</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a tag <code>v0.0.5</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/67b520c2d8a2613d59949c766f8e47bf1ba3a787">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
@@ -90,9 +93,6 @@
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.5"><code>v0.0.5</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>implement-mollie</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/07f4b7855611e7e32aa0b6d5bf85ff08907aa795">TheDanniCraft/clipify</a></li>
-<li>⭐ Starred <a href="https://github.com/usertour/usertour">usertour/usertour</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/46">PR #46</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/71">PR #71</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

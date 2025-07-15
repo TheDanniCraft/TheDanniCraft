@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/OpenCut-app/OpenCut">OpenCut-app/OpenCut</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/49">PR #49</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/49">PR #49</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/66d4c4de29a1d812fa3fba939c2c7f21fb9660ca">TheDanniCraft/TheDanniCraft</a></li>
@@ -92,7 +93,6 @@
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.7"><code>v0.0.7</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.7"><code>v0.0.7</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/77ef6ac330e785c146d6bac9231db30001f38023">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/74">PR #74</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

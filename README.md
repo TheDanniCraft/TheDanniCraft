@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d0d62d52c292f816f14b6c807b1eafc24ef264ea">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.12"><code>v0.0.12</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.12"><code>v0.0.12</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/25">PR #25</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/50">PR #50</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/50">PR #50</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>⭐ Starred <a href="https://github.com/FoxRefire/ChromeXPIPorter">FoxRefire/ChromeXPIPorter</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

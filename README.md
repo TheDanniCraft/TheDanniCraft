@@ -99,6 +99,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Coming soon](https://blog.thedannicraft.de/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

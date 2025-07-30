@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/dc5bb797e006f4e2fe2daf9622848c95378fab7d">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/b790b46e99357711de2060d2792d573b2e17e4e6">TheDanniCraft/TheDanniCraft</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d0d62d52c292f816f14b6c807b1eafc24ef264ea">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.12"><code>v0.0.12</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.12"><code>v0.0.12</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/12177d2282e2a2457d0e572e376caf47a830211e">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

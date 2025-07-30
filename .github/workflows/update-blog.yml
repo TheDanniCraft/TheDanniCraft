@@ -14,5 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.thedannicraft.de/rss"
+          commit_message: "⚡ Updated with the latest blog posts"
           committer_email: "github-actions[bot]@users.noreply.github.com"
           committer_username: "github-actions[bot]"

@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/Portfolio/pull/101">PR #101</a> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/1404a069bb491d099db0c0ae12cb93024022509d">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/undefined">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/f79b7d0f1e47a17b00ee7e63fea43476728189d5">TheDanniCraft/TheDanniCraft</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/b790b46e99357711de2060d2792d573b2e17e4e6">TheDanniCraft/TheDanniCraft</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/75">PR #75</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -17,3 +17,6 @@ jobs:
           commit_message: "⚡ Updated with the latest blog posts"
           committer_email: "github-actions[bot]@users.noreply.github.com"
           committer_username: "github-actions[bot]"
+          custom_tags: "postId/guid/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://n8n.thedannicraft.de/webhook/bb79c6e2-3bfb-44a3-a111-f983a4410487/grabPostImage/$postId"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'

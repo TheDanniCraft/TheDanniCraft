@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/51">PR #51</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/51">PR #51</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
@@ -91,8 +93,6 @@
 <li>🆕 Opened an issue <a href="https://github.com/twitchdev/twitch-cli/issues/353">#353</a> in <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a></li>
 <li>🍴 Forked <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a></li>
 <li>🔔 Watching <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/74fcf2db9b17334fc09701a6654a7094b5cfdaea">TheDanniCraft/TheDanniCraft</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/883bd6271603e74dc5643b9a3d28ba2dfba32fba">TheDanniCraft/TheDanniCraft</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

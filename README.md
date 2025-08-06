@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>blog-thumbnails</code> in <a href="https://github.com/TheDanniCraft/TheDanniCraft">TheDanniCraft/TheDanniCraft</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/TheDanniCraft/tree/blog-thumbnails"><code>blog-thumbnails</code></a> in <a href="https://github.com/TheDanniCraft/TheDanniCraft">TheDanniCraft/TheDanniCraft</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/28">PR #28</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/twitchdev/twitch-cli/issues/353">#353</a> in <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a>: <a href="https://github.com/twitchdev/twitch-cli/issues/353#issuecomment-3148549048">View Comment</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/twitchdev/twitch-cli/issues/353">#353</a> in <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a></li>
-<li>🍴 Forked <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

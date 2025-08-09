@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.15"><code>v0.0.15</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.15"><code>v0.0.15</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d00735c64ee9292dc74a0e9048f3a0ee516dbca7">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f40dc721d3cf89a18098064e992533114bf1227c">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.14"><code>v0.0.14</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.14"><code>v0.0.14</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b77871b75bddf53477b6267e6c1afd2d330a463f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>blog-thumbnails</code> in <a href="https://github.com/TheDanniCraft/TheDanniCraft">TheDanniCraft/TheDanniCraft</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/TheDanniCraft/tree/blog-thumbnails"><code>blog-thumbnails</code></a> in <a href="https://github.com/TheDanniCraft/TheDanniCraft">TheDanniCraft/TheDanniCraft</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/51">PR #51</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/51">PR #51</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/28">PR #28</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/twitchdev/twitch-cli/issues/353">#353</a> in <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a>: <a href="https://github.com/twitchdev/twitch-cli/issues/353#issuecomment-3148549048">View Comment</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/twitchdev/twitch-cli/issues/353">#353</a> in <a href="https://github.com/twitchdev/twitch-cli">twitchdev/twitch-cli</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

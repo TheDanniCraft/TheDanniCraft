@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.16"><code>v0.0.16</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.16"><code>v0.0.16</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/de4018d63d75f2ea99e9ca3bb340f347401a1d16">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.15"><code>v0.0.15</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.15"><code>v0.0.15</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d00735c64ee9292dc74a0e9048f3a0ee516dbca7">TheDanniCraft/clipify</a></li>
@@ -90,9 +93,6 @@
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.14"><code>v0.0.14</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.14"><code>v0.0.14</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b77871b75bddf53477b6267e6c1afd2d330a463f">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>blog-thumbnails</code> in <a href="https://github.com/TheDanniCraft/TheDanniCraft">TheDanniCraft/TheDanniCraft</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/TheDanniCraft/tree/blog-thumbnails"><code>blog-thumbnails</code></a> in <a href="https://github.com/TheDanniCraft/TheDanniCraft">TheDanniCraft/TheDanniCraft</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

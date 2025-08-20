@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/de9b72f443026fb3cc2fd71398ae93281f7dc752">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/TheDanniCraft/tree/blog-post-images"><code>blog-post-images</code></a> in <a href="https://github.com/TheDanniCraft/TheDanniCraft">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/818957f88c9beae9d950a3b42a36ce4bd7c4f3fa">TheDanniCraft/TheDanniCraft</a></li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/53">PR #53</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
@@ -92,7 +93,6 @@
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.20"><code>v0.0.20</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.20"><code>v0.0.20</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.18"><code>v0.0.18</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v0.0.18"><code>v0.0.18</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

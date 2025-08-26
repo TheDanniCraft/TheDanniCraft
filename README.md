@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/6">PR #6</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>copilot/fix-3d58403e-4fd6-46cc-b984-f33dfc6d5272</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/wallabyjs/console-ninja/issues/429">#429</a> in <a href="https://github.com/wallabyjs/console-ninja">wallabyjs/console-ninja</a>: <a href="https://github.com/wallabyjs/console-ninja/issues/429#issuecomment-3220522355">View Comment</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/29">PR #29</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/7">PR #7</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a6bf1703c42d536c2813f150b34c9f90b42c38d4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/82a2a935f6a8dd47694a824f76126a594fa83438">TheDanniCraft/clipify</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/4">PR #4</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/2">PR #2</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/3">PR #3</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

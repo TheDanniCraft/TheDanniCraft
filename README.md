@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🗑️ Deleted a branch <code>bump-packages</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/64c6e0ff1b3f2e741628e85752dd678b9d8933c1">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/11">PR #11</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -91,8 +93,6 @@
 <li>🗑️ Deleted a branch <code>migrate-lockfile</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/79c80a61f8b6add1e38de84f2922f024d13b2991">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/10">PR #10</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/10">PR #10</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/migrate-lockfile"><code>migrate-lockfile</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

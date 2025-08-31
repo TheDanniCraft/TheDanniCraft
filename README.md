@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/node-22.x</code> in a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/09630ea35d6f3c41a53de5bc375ff8972c7a8231">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a48efbc8e7fee35318e5882a85900b00c1780d15">TheDanniCraft/clipify</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/prepare-v1-release"><code>prepare-v1-release</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged a PR in a private repo</li>
-<li>🔀 Merged a PR in a private repo</li>
-<li>🗑️ Deleted a branch <code>bump-packages</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

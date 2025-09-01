@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>depfu/batch_all/npm/2025-09-01</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/14">PR #14</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/quickdrop/pull/31">PR #31</a> in <a href="https://github.com/TheDanniCraft/quickdrop">TheDanniCraft/quickdrop</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/30">PR #30</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f4dae185bd51b25f4f336b0b5e00f292e56348f8">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/node-22.x</code> in a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/09630ea35d6f3c41a53de5bc375ff8972c7a8231">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8e0a76c9859bb5b5a8269ad2e9bd34a9b408c98b">TheDanniCraft/clipify</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/13">PR #13</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a48efbc8e7fee35318e5882a85900b00c1780d15">TheDanniCraft/clipify</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/prepare-v1-release"><code>prepare-v1-release</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

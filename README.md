@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/32">#32</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/32#issuecomment-3268281089">View Comment</a></li>
+<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/32">#32</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.9"><code>v0.0.9</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/32">#32</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/32#issuecomment-3268271862">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/45113e641e7ba46c91500dd0f2718cbe4b07e771">TheDanniCraft/activity-log</a></li>
@@ -91,8 +93,6 @@
 <li>🏷️ Added a label to an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/32">#32</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/32">#32</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/a47d608aa537391dc87ab6653f487d7c64c01de9">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/54">PR #54</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

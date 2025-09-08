@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged a PR in a private repo</li>
 <li>🔀 Merged <a href="https://github.com/Wiresense/wiresense.js/pull/54">PR #54</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/54">PR #54</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0f9f77287d5c3eba56d28ee2deaf9263c2cabeff">TheDanniCraft/clipify</a></li>
@@ -92,7 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7f6756d862ffec8bbbeb4c6d03041cc3df70d640">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>add-preview-deployments</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2b3274514ee4129a6f0a5fa11fefadd6eb32644c">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/15">PR #15</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

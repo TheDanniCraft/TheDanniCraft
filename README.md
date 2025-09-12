@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/clipify/issues/18">#18</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a>: <a href="https://github.com/TheDanniCraft/clipify/issues/18#issuecomment-3285075808">View Comment</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e2813a8b22e039adabe3b68251cef417778da39f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>📝 Committed to a private repo</li>
@@ -91,8 +93,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/49e5486f7949a5fd64e81c986a35aed85156eed8">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a4f2030ba8bd4f2d983f6b9eeb906d514a8d666a">TheDanniCraft/clipify</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/18">PR #18</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3a7dbcc5124f85db1fb288536e068c44c78f2534">TheDanniCraft/clipify</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/add-unit-tests"><code>add-unit-tests</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

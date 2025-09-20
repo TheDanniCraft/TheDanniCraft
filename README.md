@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/91a73fc40258615605bb484ecccc809bb0115843">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d2627bee44e0895941ed8606f915ad0505964958">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/12ae82b645601073987f8b8092914e13feca0d8b">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/779f1b5a454217875703a7c52d0a4a3e65d85eb2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5b6329fe44e0f515a947969c49a184b871338349">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🔀 Merged a PR in a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4b5c0a007e0f67cb6c7bddcf2244c93729742e02">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/61ba16980793ccea522e1855ab5b5a6e1e112a38">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/uptime-kuma/commit/aed7b63fc4526a28539b41bdcb4c38a41fa24131">TheDanniCraft/uptime-kuma</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/clipify/issues/18">#18</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a>: <a href="https://github.com/TheDanniCraft/clipify/issues/18#issuecomment-3285075808">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e2813a8b22e039adabe3b68251cef417778da39f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

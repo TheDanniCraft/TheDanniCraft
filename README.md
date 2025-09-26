@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
+<li>🔀 Merged a PR in a private repo</li>
+<li>🔎 Reviewed a PR in a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/animir/node-rate-limiter-flexible/issues/327">#327</a> in <a href="https://github.com/animir/node-rate-limiter-flexible">animir/node-rate-limiter-flexible</a>: <a href="https://github.com/animir/node-rate-limiter-flexible/issues/327#issuecomment-3329950335">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/animir/node-rate-limiter-flexible/issues/327">#327</a> in <a href="https://github.com/animir/node-rate-limiter-flexible">animir/node-rate-limiter-flexible</a>: <a href="https://github.com/animir/node-rate-limiter-flexible/issues/327#issuecomment-3328449250">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5b7d76fccfe666a741380118987efaa0d6fe37cb">TheDanniCraft/clipify</a></li>
@@ -90,9 +93,6 @@
 <li>🗣 Commented on issue <a href="https://github.com/animir/node-rate-limiter-flexible/issues/327">#327</a> in <a href="https://github.com/animir/node-rate-limiter-flexible">animir/node-rate-limiter-flexible</a>: <a href="https://github.com/animir/node-rate-limiter-flexible/issues/327#issuecomment-3324800984">View Comment</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/animir/node-rate-limiter-flexible/issues/327">#327</a> in <a href="https://github.com/animir/node-rate-limiter-flexible">animir/node-rate-limiter-flexible</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/b54b4f9c64672ed4ffd3c71d695c6edb5ec2df2f">Wiresense/frontend</a></li>
-<li>🔀 Merged <a href="https://github.com/Wiresense/frontend/pull/77">PR #77</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/6f7e247834b4eb6206cd48a39747d0f55ef96fa2">TheDanniCraft/swatch-studio</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/32">PR #32</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

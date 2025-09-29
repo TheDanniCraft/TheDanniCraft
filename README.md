@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/9884864a8ddba730c3f4f1c535b554c0b62a6fcc">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/endpoints/tree/master"><code>master</code></a> in <a href="https://github.com/TheDanniCraft/endpoints">TheDanniCraft/endpoints</a></li>
+<li>🎉 Created a new repository <a href="https://github.com/TheDanniCraft/endpoints">TheDanniCraft/endpoints</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/c155d3a96cb0c040922ae4b62fde40d532410dc3">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>badge</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/10a09001cb1287b9828a1abe601ebb891e35f29a">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/7257dca32b377eb8fe350dbb7742d6bb49bbbf06">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/6e35f5f8b5c5ce42ce280a43180ab3952d33568c">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/badge"><code>badge</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/237fb358147c43aca0f6977fc237af026f20453b">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/85a2c3d62c2c6eb4e55e376d59f8cbf2756331b4">TheDanniCraft/activity-log</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.10"><code>v0.0.10</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.10"><code>v0.0.10</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/53e4f2ec094259d339b2fe82de341150e763bd9b">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

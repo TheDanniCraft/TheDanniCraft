@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>badge</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/10a09001cb1287b9828a1abe601ebb891e35f29a">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/7257dca32b377eb8fe350dbb7742d6bb49bbbf06">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/6e35f5f8b5c5ce42ce280a43180ab3952d33568c">TheDanniCraft/activity-log</a></li>
+<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/badge"><code>badge</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/237fb358147c43aca0f6977fc237af026f20453b">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/85a2c3d62c2c6eb4e55e376d59f8cbf2756331b4">TheDanniCraft/activity-log</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.10"><code>v0.0.10</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>➕ Created a new tag <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.10"><code>v0.0.10</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/53e4f2ec094259d339b2fe82de341150e763bd9b">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/a1d9b98705162d4c2fa36192f4500ebd850e05ec">TheDanniCraft/activity-log</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/20">PR #20</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/51f298fc77575c12a15017a688320f35fbef91a5">TheDanniCraft/swatch-studio</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/swatch-studio/pull/33">PR #33</a> in <a href="https://github.com/TheDanniCraft/swatch-studio">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/30c0aa7f8c015c8c396ee6b141a962423ac8b555">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

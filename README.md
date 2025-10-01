@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/36">#36</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/35">#35</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/34">#34</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/9884864a8ddba730c3f4f1c535b554c0b62a6fcc">TheDanniCraft/activity-log</a></li>
@@ -92,7 +93,6 @@
 <li>🗑️ Deleted a branch <code>badge</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/10a09001cb1287b9828a1abe601ebb891e35f29a">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/7257dca32b377eb8fe350dbb7742d6bb49bbbf06">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/6e35f5f8b5c5ce42ce280a43180ab3952d33568c">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

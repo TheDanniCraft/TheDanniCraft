@@ -83,6 +83,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/add-dry-run-mode"><code>add-dry-run-mode</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>update-issues-template</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/35">#35</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/4afed599ab4c484bc9f99cd701a4d4be35e8ff80">TheDanniCraft/activity-log</a></li>
@@ -92,7 +93,6 @@
 <li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/update-issues-template"><code>update-issues-template</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/37">#37</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/36">#36</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/35">#35</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

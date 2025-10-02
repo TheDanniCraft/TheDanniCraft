@@ -87,7 +87,7 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/ca4678cd6e33fd57869ec6d9cbb1030b515a12e3">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/39">PR #39</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/6e3c8c2f6908a165c43aec0d078981c5e1476bd6">TheDanniCraft/activity-log</a></li>
-<li>➕ Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/add-dry-run-mode"><code>add-dry-run-mode</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/add-dry-run-mode"><code>add-dry-run-mode</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>update-issues-template</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/35">#35</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/4afed599ab4c484bc9f99cd701a4d4be35e8ff80">TheDanniCraft/activity-log</a></li>

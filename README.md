@@ -83,16 +83,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>hotfix-secret-name</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/894f2ca5323c9f581275b26e76b8f9afc9014faa">TheDanniCraft/activity-log</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/45">PR #45</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/45">PR #45</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/95aed1dc1862d8b82ae66b0ff141b67b363ccb2b">TheDanniCraft/activity-log</a></li>
+<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/hotfix-secret-name"><code>hotfix-secret-name</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>qol-improvements</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/a203a1f81b27dd59b7db4479a0be7845e68e22bb">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/44">PR #44</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/ce1527041f66cfd2750eab2063dabaf74f6f3f8b">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/1d7dfa3c1cf7216b423491d0638a077deab2781d">TheDanniCraft/activity-log</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/44">PR #44</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/97512ebe07e9ecff81bf3a7337f02550928ac5c7">TheDanniCraft/activity-log</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/qol-improvements"><code>qol-improvements</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/42">PR #42</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/42#pullrequestreviewcomment-2401529845">View Comment</a></li>
-<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/42">PR #42</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/42#pullrequestreviewcomment-2401497516">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

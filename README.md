@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/84394c46d82948fbe74ab7f85f3d0e96a01b7dc2">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/62f761c63436ff08e4db181bf2913a62ec3fae3e">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>hotfix-secret-name</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/894f2ca5323c9f581275b26e76b8f9afc9014faa">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/45">PR #45</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
@@ -91,8 +93,6 @@
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/hotfix-secret-name"><code>hotfix-secret-name</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>qol-improvements</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/a203a1f81b27dd59b7db4479a0be7845e68e22bb">TheDanniCraft/activity-log</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/44">PR #44</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/ce1527041f66cfd2750eab2063dabaf74f6f3f8b">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

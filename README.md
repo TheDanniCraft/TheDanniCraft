@@ -83,6 +83,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/47">#47</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/46">#46</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/84394c46d82948fbe74ab7f85f3d0e96a01b7dc2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/62f761c63436ff08e4db181bf2913a62ec3fae3e">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>hotfix-secret-name</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
@@ -91,8 +93,6 @@
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/45">PR #45</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/95aed1dc1862d8b82ae66b0ff141b67b363ccb2b">TheDanniCraft/activity-log</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/hotfix-secret-name"><code>hotfix-secret-name</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗑️ Deleted a branch <code>qol-improvements</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/a203a1f81b27dd59b7db4479a0be7845e68e22bb">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -84,15 +84,15 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/56">#56</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/56#issuecomment-3381251723">View Comment</a></li>
+<li>🏷️ Added a label to an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/57">#57</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/55">#55</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/55#issuecomment-3378622903">View Comment</a></li>
-<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/42">PR #42</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/42#pullrequestreviewcomment-2408849995">View Comment</a></li>
-<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/42">PR #42</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/42#pullrequestreviewcomment-2408640496">View Comment</a></li>
-<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/42">PR #42</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/42">PR #42</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/55">#55</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/53">#53</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/53#issuecomment-3370683624">View Comment</a></li>
-<li>🗑️ Deleted a branch <code>copilot/fix-9a865b17-3f43-4526-beb8-170937a6167b</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/51">#51</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/51#issuecomment-3370598874">View Comment</a></li>
+<li>👤 Unassigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/55">#55</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>👤 Assigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/55">#55</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/53">PR #53</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/53">#53</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/53#issuecomment-3376011711">View Comment</a></li>
+<li>🏷️ Added a label to <a href="https://github.com/TheDanniCraft/activity-log/pull/53">PR #53</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🏷️ Removed a label from <a href="https://github.com/TheDanniCraft/activity-log/pull/53">PR #53</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/51">#51</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/51#issuecomment-3375998782">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

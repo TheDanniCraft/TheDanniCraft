@@ -83,6 +83,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/62">#62</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/62#issuecomment-3388969688">View Comment</a></li>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/63">#63</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/63#issuecomment-3388933993">View Comment</a></li>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/62">#62</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/62#issuecomment-3388891426">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/5c771d65d11ba02accc85a8523f4bfad092c3843">TheDanniCraft/activity-log</a></li>
 <li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/62">PR #62</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/61">#61</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/61#issuecomment-3388704764">View Comment</a></li>
@@ -90,9 +93,6 @@
 <li>👤 Assigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/61">#61</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/55">#55</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>all-contributors/add-RounakJoshi09</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/60">#60</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/60#issuecomment-3388698534">View Comment</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/60">PR #60</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fb7d1264f0f20fa25d6116ed5491f76d830f901c">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

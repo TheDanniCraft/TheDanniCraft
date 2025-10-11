@@ -1,3 +1,5 @@
+<a href="https://holopin.io/@thedannicraft" target="_blank"><img src="https://holopin.me/thedannicraft" alt="@thedannicraft's Holopin badges" /></a>
+
 <h1 align="center" style="color:#cdd6f4;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br> I'm TheDanniCraft</h1>
 
 <p align="center" width= >

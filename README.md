@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/67">#67</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/67#issuecomment-3396459078">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/46">#46</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/46#issuecomment-3396402453">View Comment</a></li>
 <li>🏷️ Added a label to <a href="https://github.com/TheDanniCraft/activity-log/pull/68">PR #68</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/68">#68</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/68#issuecomment-3396290538">View Comment</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/f61ca58cc29777a36ff6d5f9490b625ec9afb9ef">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/955a9bd7a6a99d321c9c2b99b19913c367b20c5c">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bbaacf6fe4e1dd65b842694145758ea22ed59878">TheDanniCraft/clipify</a></li>
-<li>🏷️ Added a label to <a href="https://github.com/TheDanniCraft/activity-log/pull/66">PR #66</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

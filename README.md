@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
 <li>⭐ Starred <a href="https://github.com/cyprieng/github-breakout">cyprieng/github-breakout</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/67">#67</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/67#issuecomment-3396459078">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/46">#46</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/46#issuecomment-3396402453">View Comment</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/eababfdc358cea77ee18aaa316ecfd9a750d876d">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/58">PR #58</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/f61ca58cc29777a36ff6d5f9490b625ec9afb9ef">TheDanniCraft/TheDanniCraft</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/955a9bd7a6a99d321c9c2b99b19913c367b20c5c">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

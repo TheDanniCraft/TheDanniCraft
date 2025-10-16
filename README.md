@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/11#issuecomment-3409241897">View Comment</a></li>
+<li>👤 Unassigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>👤 Unassigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>👤 Unassigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>👤 Assigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/11">#11</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/67">#67</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/67#issuecomment-3408382000">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/230c77b549a883b55eb749aeb5c1fc9caeef3cdd">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/56">#56</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/56#issuecomment-3408348715">View Comment</a></li>
 <li>👤 Assigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/56">#56</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>👤 Unassigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/56">#56</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/d742796f339a25be45bcd221c9428cb7d872ac5f">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/67">#67</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/67#issuecomment-3408285431">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/67">#67</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/67#issuecomment-3408280999">View Comment</a></li>
-<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/61">#61</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/67">PR #67</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

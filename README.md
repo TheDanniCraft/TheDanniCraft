@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ce6ad1e901e794b7016544bdc93b5375ddd00e66">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>fix-update-workflow</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>update-contribution</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f7a5012e907015b840dc2966e91da79aeee98807">TheDanniCraft/activity-log</a></li>
@@ -94,7 +95,6 @@
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/71">PR #71</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/update-contribution"><code>update-contribution</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to a private repo</li>
-<li>🔎 Reviewed a PR in a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

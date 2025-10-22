@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/73">#73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/73#issuecomment-3429831355">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/47">#47</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/47#issuecomment-3426870033">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/25d62bef3b81c2863581e18f79185a7189562413">TheDanniCraft/quickdrop</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/786b17d369463f791dd416a10a3eefc16497d05b">TheDanniCraft/clipify</a></li>
 <li>⭐ Starred <a href="https://github.com/apteryxxyz/next-ws">apteryxxyz/next-ws</a></li>
 <li>🏷️ Added a label to <a href="https://github.com/TheDanniCraft/activity-log/pull/72">PR #72</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/c24a9e798d46e3a83a864b98ca230eaeee23ebc0">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

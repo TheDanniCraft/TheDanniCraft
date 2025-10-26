@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/73">#73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/73#issuecomment-3448835720">View Comment</a></li>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/73#pullrequestreviewcomment-2464017892">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/73#pullrequestreviewcomment-2464017619">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/73#pullrequestreviewcomment-2464017570">View Comment</a></li>
+<li>🗣 Commented on a review of <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/pull/73#pullrequestreviewcomment-2464011066">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/73">#73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/73#issuecomment-3448444727">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/81">#81</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/81#issuecomment-3448420318">View Comment</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/80">#80</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/80#issuecomment-3448420174">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/82">#82</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/82#issuecomment-3448420005">View Comment</a></li>
-<li>🏷️ Added a label to an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/79">#79</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🏷️ Added a label to an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/79">#79</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/79">#79</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>👤 Assigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/79">#79</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

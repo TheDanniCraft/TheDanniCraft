@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2c42e867d51b79bce0bd0f90bd6a0a3b636aa229">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/73">#73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/73#issuecomment-3457164921">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/13f36e2aecba188ce799810d2ed925f3b9088c6e">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/43b5a739b51c8f3f98bc676b00565b4e4f8bbf56">TheDanniCraft/activity-log</a></li>
@@ -94,7 +95,6 @@
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/docs/use-emoji-shortcodes"><code>docs/use-emoji-shortcodes</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/247">PR #247</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>📝 Committed to a private repo</li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/23">PR #23</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/cafee301f91088ff6d5b49f7e7b7a701f8e1fa79">TheDanniCraft/activity-log</a></li>
+<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/docs/use-emoji-shortcodes"><code>docs/use-emoji-shortcodes</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/247">PR #247</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>📝 Committed to a private repo</li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/23">PR #23</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/35ffc5c866395ca71a96e0275eda3f6ec25df1cd">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/91fbe82b7f7d37268400991717c8509f9bee8580">TheDanniCraft/TheDanniCraft</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/cb7b5b9669fe6eb21842497195cf0ae43300f446">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/60">PR #60</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/079ef62e1154313cd1793ada8786a44d85dec84f">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

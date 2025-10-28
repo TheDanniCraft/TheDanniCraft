@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/247">PR #247</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
+<li>📝 Committed to a private repo</li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/23">PR #23</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1293e473da277117fba391c1bdaf19d3837e2df2">TheDanniCraft/clipify</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/22">PR #22</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/35ffc5c866395ca71a96e0275eda3f6ec25df1cd">TheDanniCraft/TheDanniCraft</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/cb7b5b9669fe6eb21842497195cf0ae43300f446">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/60">PR #60</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/079ef62e1154313cd1793ada8786a44d85dec84f">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/3aa89780af6323dbf6b44c79ebe2d50154e9c79e">TheDanniCraft/quickdrop</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/73">#73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/73#issuecomment-3448835720">View Comment</a></li>
-<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/73">PR #73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

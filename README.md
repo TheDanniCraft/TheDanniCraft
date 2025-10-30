@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>docs/use-emoji-shortcodes</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/69cc0cafe0a8d440c6ad3d195bb2eb196af9f9ca">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/b2dc5e5217cc029023debd0ff1db6c38311e5fea">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2c42e867d51b79bce0bd0f90bd6a0a3b636aa229">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/73">#73</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/73#issuecomment-3457164921">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/13f36e2aecba188ce799810d2ed925f3b9088c6e">TheDanniCraft/activity-log</a></li>
@@ -92,9 +95,6 @@
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/83">PR #83</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/99edc0da313ca486046060fe36fd024a9de4cd65">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/cafee301f91088ff6d5b49f7e7b7a701f8e1fa79">TheDanniCraft/activity-log</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/docs/use-emoji-shortcodes"><code>docs/use-emoji-shortcodes</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/TerminalWebsite/pull/247">PR #247</a> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

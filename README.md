@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/2beb69cc89cb72ed64ec451d5b97ed49b6a35b04">TheDanniCraft/activity-log</a></li>
+<li>🔎 Reviewed <a href="https://github.com/TheDanniCraft/activity-log/pull/42">PR #42</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🗑️ Deleted a branch <code>docs/use-emoji-shortcodes</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/69cc0cafe0a8d440c6ad3d195bb2eb196af9f9ca">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/b2dc5e5217cc029023debd0ff1db6c38311e5fea">TheDanniCraft/activity-log</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/13f36e2aecba188ce799810d2ed925f3b9088c6e">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/43b5a739b51c8f3f98bc676b00565b4e4f8bbf56">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/83">PR #83</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/99edc0da313ca486046060fe36fd024a9de4cd65">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/cafee301f91088ff6d5b49f7e7b7a701f8e1fa79">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

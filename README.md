@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0dfc54b102917327f4e3eba2419b62a95e25fa46">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bd19950539b94c984d8b4e644467267b2d2d66da">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e4027985f01e1d4432b4cf611d01870f4557341b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2fee2eaaa45bde5cde5257e939e0d915cf47b86e">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/974a2511927e2461e26ed1aafe7bcf1f753f9893">TheDanniCraft/quickdrop</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/24">PR #24</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/5c8c8e831a15880ac9622a5f0eac19af9c21092c">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

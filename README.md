@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/579505f55414902a4e3cc179c4ad5d797896c998">TheDanniCraft/numok</a></li>
 <li>🍴 Forked <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
 <li>🗑️ Deleted a branch <code>dependabot/npm_and_yarn/npm_and_yarn-3c67cbb9cd</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
@@ -94,7 +95,6 @@
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/62">PR #62</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/9f1e5315f3c907db6cf8f596585ad5c0d8edf509">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/3287a31256c8da4bad6ef35bb0eb4c61cdadaac7">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1c6d85bf07c47112041ed039c7608a1541bc4868">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

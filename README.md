@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/286e6ecc56417dcf7e497a2c0d43fa51f43ec19a">TheDanniCraft/tag-bumper</a></li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/579505f55414902a4e3cc179c4ad5d797896c998">TheDanniCraft/numok</a></li>
 <li>🍴 Forked <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/8d6ab31e5c7d178484dd7d6883fe3a5999bc8b6c">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/29e336e2a5052c9ca3582fc19275fbe2dc722b87">Wiresense/wiresense.js</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/62">PR #62</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/9f1e5315f3c907db6cf8f596585ad5c0d8edf509">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/3287a31256c8da4bad6ef35bb0eb4c61cdadaac7">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

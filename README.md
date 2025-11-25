@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/CodeWithCJ/SparkyFitness">CodeWithCJ/SparkyFitness</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/286e6ecc56417dcf7e497a2c0d43fa51f43ec19a">TheDanniCraft/tag-bumper</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
@@ -94,7 +95,6 @@
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/8d6ab31e5c7d178484dd7d6883fe3a5999bc8b6c">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/29e336e2a5052c9ca3582fc19275fbe2dc722b87">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/62">PR #62</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

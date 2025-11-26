@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/97efa43fbc61119a9ac89e54bef9012eccc60169">TheDanniCraft/clipify</a></li>
 <li>⭐ Starred <a href="https://github.com/CodeWithCJ/SparkyFitness">CodeWithCJ/SparkyFitness</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/286e6ecc56417dcf7e497a2c0d43fa51f43ec19a">TheDanniCraft/tag-bumper</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>🗑️ Deleted a branch <code>dependabot/npm_and_yarn/npm_and_yarn-3c67cbb9cd</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/8d6ab31e5c7d178484dd7d6883fe3a5999bc8b6c">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/29e336e2a5052c9ca3582fc19275fbe2dc722b87">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

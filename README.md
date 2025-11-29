@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/dfg-ar/numok/issues/11">#11</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a>: <a href="https://github.com/dfg-ar/numok/issues/11#issuecomment-3591681690">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/56969880e2425b1838688118433916c3913c8921">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/97efa43fbc61119a9ac89e54bef9012eccc60169">TheDanniCraft/clipify</a></li>
 <li>⭐ Starred <a href="https://github.com/CodeWithCJ/SparkyFitness">CodeWithCJ/SparkyFitness</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/579505f55414902a4e3cc179c4ad5d797896c998">TheDanniCraft/numok</a></li>
 <li>🍴 Forked <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
 <li>🗑️ Deleted a branch <code>dependabot/npm_and_yarn/npm_and_yarn-3c67cbb9cd</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

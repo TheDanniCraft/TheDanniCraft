@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened <a href="https://github.com/dfg-ar/numok/pull/13">PR #13</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/525f9229f9d09bba5c3d57c9a94a994b1e483d3f">TheDanniCraft/numok</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/a77eb1ed204fe68e9913f55e57026cf73cfa3e4e">TheDanniCraft/numok</a></li>
+<li>🆕 Opened an issue <a href="https://github.com/dfg-ar/numok/issues/12">#12</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/8f4aaf107746cf4d29a16c582dd2dafe81f73899">TheDanniCraft/swatch-studio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/f956be466afd276579c2e8c9e82c14386d1087c3">TheDanniCraft/HLTV.JS</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/bb68d2f3d80f7885fc7658b8904647c5fd4a0962">TheDanniCraft/quickdrop</a></li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/28">PR #28</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🍴 Forked <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/dfg-ar/numok/issues/11">#11</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a>: <a href="https://github.com/dfg-ar/numok/issues/11#issuecomment-3591681690">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/56969880e2425b1838688118433916c3913c8921">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/97efa43fbc61119a9ac89e54bef9012eccc60169">TheDanniCraft/clipify</a></li>
-<li>⭐ Starred <a href="https://github.com/CodeWithCJ/SparkyFitness">CodeWithCJ/SparkyFitness</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/286e6ecc56417dcf7e497a2c0d43fa51f43ec19a">TheDanniCraft/tag-bumper</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/27">PR #27</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to a private repo</li>
-<li>🗑️ Deleted a branch <code>dependabot/npm_and_yarn/npm_and_yarn-3c67cbb9cd</code> in <a href="https://github.com/TheDanniCraft/TerminalWebsite">TheDanniCraft/TerminalWebsite</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/26">PR #26</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

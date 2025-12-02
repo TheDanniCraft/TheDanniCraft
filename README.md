@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b1cccd057b448104ceed052e3c3c4080250fb10e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/50231329fc283e6eaccbd65700c02429dddbdacd">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/a77eb1ed204fe68e9913f55e57026cf73cfa3e4e">TheDanniCraft/numok</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/dfg-ar/numok/issues/12">#12</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/8f4aaf107746cf4d29a16c582dd2dafe81f73899">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/f956be466afd276579c2e8c9e82c14386d1087c3">TheDanniCraft/HLTV.JS</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

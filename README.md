@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/50231329fc283e6eaccbd65700c02429dddbdacd">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/numok/tree/feature/add-payout-options"><code>feature/add-payout-options</code></a> in <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
 <li>📥 Opened <a href="https://github.com/dfg-ar/numok/pull/13">PR #13</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/525f9229f9d09bba5c3d57c9a94a994b1e483d3f">TheDanniCraft/numok</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/f956be466afd276579c2e8c9e82c14386d1087c3">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/bb68d2f3d80f7885fc7658b8904647c5fd4a0962">TheDanniCraft/quickdrop</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/28">PR #28</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🍴 Forked <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

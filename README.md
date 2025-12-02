@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0bd0cd31dcb171504c78bb745d43b437e35d85aa">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d187719ea10a99ac76ee84337ae09d57f7e09bf2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b1cccd057b448104ceed052e3c3c4080250fb10e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
@@ -93,8 +95,6 @@
 <li>📥 Opened <a href="https://github.com/dfg-ar/numok/pull/13">PR #13</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/525f9229f9d09bba5c3d57c9a94a994b1e483d3f">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/a77eb1ed204fe68e9913f55e57026cf73cfa3e4e">TheDanniCraft/numok</a></li>
-<li>🆕 Opened an issue <a href="https://github.com/dfg-ar/numok/issues/12">#12</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/8f4aaf107746cf4d29a16c582dd2dafe81f73899">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

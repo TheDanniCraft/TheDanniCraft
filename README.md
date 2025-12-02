@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0840ab8b592af4e7ae6c40cd4680e9885fc1fc7d">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d578e67b41e55a3a4c696d2df37f8954c897d0a0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/185bb845522e448ed064939ff946ae2688876931">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0bd0cd31dcb171504c78bb745d43b437e35d85aa">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d187719ea10a99ac76ee84337ae09d57f7e09bf2">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/50231329fc283e6eaccbd65700c02429dddbdacd">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/numok/tree/feature/add-payout-options"><code>feature/add-payout-options</code></a> in <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
-<li>📥 Opened <a href="https://github.com/dfg-ar/numok/pull/13">PR #13</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/525f9229f9d09bba5c3d57c9a94a994b1e483d3f">TheDanniCraft/numok</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

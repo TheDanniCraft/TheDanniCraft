@@ -86,6 +86,8 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>📝 Committed to a private repo</li>
+<li>🔎 Reviewed a PR in a private repo</li>
+<li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/75cca6b006920c7e8434cfe9fefae4dfb90bd0fd">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/79">PR #79</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to a private repo</li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5866a6c2925f8dcb86f990dfad37ee92f8183425">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/443d162453a38a202d31aa3765d5ce0f6647a29b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0a35116c0890dddd59ecc8afe38bc7758073598c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5b2cabfa67bba5fdde7ce1ee6a7ed11e6c3d3a08">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

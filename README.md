@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/65fde72331184ca3d25908352f4a744260a5ac77">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🔎 Reviewed a PR in a private repo</li>
 <li>📝 Committed to a private repo</li>
@@ -94,7 +95,6 @@
 <li>🗣 Commented on issue <a href="https://github.com/heroui-inc/heroui/issues/5892">#5892</a> in <a href="https://github.com/heroui-inc/heroui">heroui-inc/heroui</a>: <a href="https://github.com/heroui-inc/heroui/issues/5892#issuecomment-3610913739">View Comment</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5866a6c2925f8dcb86f990dfad37ee92f8183425">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/443d162453a38a202d31aa3765d5ce0f6647a29b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

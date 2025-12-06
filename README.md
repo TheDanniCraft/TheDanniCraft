@@ -101,10 +101,10 @@
 
 # Blog posts
 <table>
-<!-- BLOG-POST-LIST:START --><tr><td><a href="https://blog.thedannicraft.de/how-to-automate-your-github-readme/"><img width="140px" src="https://n8n.thedannicraft.de/webhook/bb79c6e2-3bfb-44a3-a111-f983a4410487/grabPostImage/6878fdd7970ad800016c79c0"></a></td>
-<td><a href="https://blog.thedannicraft.de/how-to-automate-your-github-readme/">How to automate your GitHub README:</a><br/>Oct 23, 2025</td></tr>
-<tr><td><a href="https://blog.thedannicraft.de/coming-soon/"><img width="140px" src="https://n8n.thedannicraft.de/webhook/bb79c6e2-3bfb-44a3-a111-f983a4410487/grabPostImage/686fd5ed3daa7a00011db439"></a></td>
-<td><a href="https://blog.thedannicraft.de/coming-soon/">Coming soon</a><br/>Jul 10, 2025</td></tr>
+<!-- BLOG-POST-LIST:START --><tr><td><a href="https://thedannicraft.blog/how-to-automate-your-github-readme/"><img width="140px" src="https://n8n.thedannicraft.de/webhook/bb79c6e2-3bfb-44a3-a111-f983a4410487/grabPostImage/6878fdd7970ad800016c79c0"></a></td>
+<td><a href="https://thedannicraft.blog/how-to-automate-your-github-readme/">How to automate your GitHub README:</a><br/>Oct 23, 2025</td></tr>
+<tr><td><a href="https://thedannicraft.blog/coming-soon/"><img width="140px" src="https://n8n.thedannicraft.de/webhook/bb79c6e2-3bfb-44a3-a111-f983a4410487/grabPostImage/686fd5ed3daa7a00011db439"></a></td>
+<td><a href="https://thedannicraft.blog/coming-soon/">Coming soon</a><br/>Jul 10, 2025</td></tr>
 <!-- BLOG-POST-LIST:END -->
 </table>
 

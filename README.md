@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/45bc5e5509ba371f23d494ff31077a90a29e3f68">TheDanniCraft/swatch-studio</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.0.0"><code>v1.0.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/34d39eb50613aa8b88ad7abdb9a74a2040e86b59">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e5ecbebe36f75c8e0c403ed34196bca02eaa67ff">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/13">PR #13</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/29">PR #29</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

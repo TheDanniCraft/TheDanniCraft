@@ -85,15 +85,15 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.0.0"><code>v1.0.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/34d39eb50613aa8b88ad7abdb9a74a2040e86b59">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/65fde72331184ca3d25908352f4a744260a5ac77">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
-<li>🔎 Reviewed a PR in a private repo</li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/75cca6b006920c7e8434cfe9fefae4dfb90bd0fd">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/79">PR #79</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to a private repo</li>
-<li>🗣 Commented on issue <a href="https://github.com/heroui-inc/heroui/issues/5892">#5892</a> in <a href="https://github.com/heroui-inc/heroui">heroui-inc/heroui</a>: <a href="https://github.com/heroui-inc/heroui/issues/5892#issuecomment-3610913739">View Comment</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/0f3001f23216641e9479708c5da780e7adda9237">TheDanniCraft/quickdrop</a></li>
+<li>🗑️ Deleted a branch <code>prepare-v1-release</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e5ecbebe36f75c8e0c403ed34196bca02eaa67ff">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/13">PR #13</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/29">PR #29</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

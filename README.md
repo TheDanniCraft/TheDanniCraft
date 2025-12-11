@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🆕 Opened an issue <a href="https://github.com/vercel/next.js/issues/87071">#87071</a> in <a href="https://github.com/vercel/next.js">vercel/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f18c06b7dc9077fe061b86a5a8adcd9cb8430ab2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bcaaddfcf0f931a37255e6957b14bb6d5c4ddff7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a9d3aaf84064cbc0211178fe66ad54588f6596d1">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/97c52d8c923e7651d54e76ef4fbed2f268a70713">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0b9b1e9a0c1548a8fff1d49ccc95cfd324f18d9d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/9234b646b494e3a47b2ccc1bdc9e890daba769d6">TheDanniCraft/clipify</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/31">PR #31</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

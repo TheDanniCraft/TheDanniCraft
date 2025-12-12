@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/b921d1ffedb8ef26e5612eae0c1441666f215b9a">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/80">PR #80</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ebcadd99dde013f7e869cbab8a928827d688fbdb">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/vercel/next.js/issues/87071">#87071</a> in <a href="https://github.com/vercel/next.js">vercel/next.js</a>: <a href="https://github.com/vercel/next.js/issues/87071#issuecomment-3643425244">View Comment</a></li>
 <li>🆕 Opened an issue <a href="https://github.com/vercel/next.js/issues/87071">#87071</a> in <a href="https://github.com/vercel/next.js">vercel/next.js</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f18c06b7dc9077fe061b86a5a8adcd9cb8430ab2">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bcaaddfcf0f931a37255e6957b14bb6d5c4ddff7">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

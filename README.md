@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1fd15f030c1b3e58d16f526b79d6092d59b0b101">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/cf0ac463b83f7c61d399676359b109eb3557b58c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/923c517a131e5112ae8cb036aa42423ae4b3350d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/dc2b97933424cc322995bea9f6a66bc4bce21a32">TheDanniCraft/clipify</a></li>
@@ -93,7 +94,6 @@
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/prepare-v1.1-release"><code>prepare-v1.1-release</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/b921d1ffedb8ef26e5612eae0c1441666f215b9a">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/80">PR #80</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

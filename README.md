@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/93032d2a7236b8f1c01b013cb27a4ae967e1226b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/771654ee021a084cf7c20683c8a7c608633662bc">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3b7fd964f117bd3e9fed7e2640a37d0932f9c436">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1fd15f030c1b3e58d16f526b79d6092d59b0b101">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/32">PR #32</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e313cf7df5a629bae8d79906b2371e8828b7fd39">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/prepare-v1.1-release"><code>prepare-v1.1-release</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/b921d1ffedb8ef26e5612eae0c1441666f215b9a">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.1.0"><code>v1.1.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>prepare-v1.1-release</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6845a9e24541b8fdfaf93bffc5acdda342d4c3eb">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/32">PR #32</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/def9a80f265685f784975e623c4d02145485e193">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/vercel/next.js/issues/87071">#87071</a> in <a href="https://github.com/vercel/next.js">vercel/next.js</a>: <a href="https://github.com/vercel/next.js/issues/87071#issuecomment-3661634083">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ee63866678a411095cae97b604e2eb839f015fd7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/97a96251eb82e4d8de0ab34e2d4a5e180c59a3d4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/04d11d59fcbaa03267cff7a19f0ca419656c9988">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ded4bf8854175978f98c1cde675f31af2abfa0db">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/939270f97264768b78434fe314901904bf8e219b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3602fd970d611f5e1e8be494a0b2c4579d6a89fa">TheDanniCraft/clipify</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/84">PR #84</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/eb5a5d5f8a0a0d5a8f3593a2f0ed13250f9dd5c2">Wiresense/frontend</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

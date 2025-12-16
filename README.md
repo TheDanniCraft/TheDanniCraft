@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2a79202957e5964b2938ebf977a911af5e1859b8">TheDanniCraft/clipify</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/35">PR #35</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8b71fa44652f0ec3a483c7dc41aec6854ad0a8f6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e0290c8e39306da0fda6eedf02aa092f371acd14">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-v1.1.2"><code>hotfix-v1.1.2</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/34">PR #34</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d6dd0335f8f55ad4af12e2822cc336254193457a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bd6af4855e9c76740332426826cf6ec37b2d5be0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/31de419cd1d4eb7e5fa84c647b92b9acc2b7d1c9">TheDanniCraft/clipify</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/34">PR #34</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

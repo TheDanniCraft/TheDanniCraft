@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ee63866678a411095cae97b604e2eb839f015fd7">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/97a96251eb82e4d8de0ab34e2d4a5e180c59a3d4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/04d11d59fcbaa03267cff7a19f0ca419656c9988">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ded4bf8854175978f98c1cde675f31af2abfa0db">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/939270f97264768b78434fe314901904bf8e219b">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/eb5a5d5f8a0a0d5a8f3593a2f0ed13250f9dd5c2">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/81">PR #81</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/93f1f5da8b29abd90c9032223ed6c218790cbc8b">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/a4b6c1ea82d0a09722d74567fb369c7143c141b6">Wiresense/wiresense.js</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/wiresense.js/pull/63">PR #63</a> in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

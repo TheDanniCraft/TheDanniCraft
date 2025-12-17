@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/33">PR #33</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/31">PR #31</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/clipify/issues/33">#33</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a>: <a href="https://github.com/TheDanniCraft/clipify/issues/33#issuecomment-3663353463">View Comment</a></li>
 <li>🗑️ Deleted a branch <code>update-workflows</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e4eae36302f6a562ffcfdb8ec6569d4a7576f758">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0ebb0be59103abcdebd67ad3a00356904c2a6960">TheDanniCraft/clipify</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/36">PR #36</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/035fbbe3d9eb55752a004d3ad9d0ee4037ac4b13">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/967463303894137ebfca96c4d24097a5aa2a5877">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1f1de5956ee4becf31bda284b2ad311d59aee76e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1973361c508bc58cf700082dfb542897d47391ec">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b6996462f1a48235eeb88ef44ce527fda0ad2089">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5403cc22a7f9efbd9e35ca72abc81708cd0ffd24">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/37">PR #37</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/prepare-v1.2.0"><code>prepare-v1.2.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/33">PR #33</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/31">PR #31</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/clipify/issues/33">#33</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a>: <a href="https://github.com/TheDanniCraft/clipify/issues/33#issuecomment-3663353463">View Comment</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7c111f57d2c7fc92a7593d330d66b8949c86fbce">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ea36c71a42c8a68e70e025386586a46f99993195">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4435122f60c29defdebc0f5b72e6637f01a79cd0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3997d65863e9ec6c2eb8be9cca917982e91a4f34">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3997d65863e9ec6c2eb8be9cca917982e91a4f34">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4fd2f412e25a18d77a747c4460af0d428ff90c27">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on issue <a href="https://github.com/vercel/next.js/issues/87071">#87071</a> in <a href="https://github.com/vercel/next.js">vercel/next.js</a>: <a href="https://github.com/vercel/next.js/issues/87071#issuecomment-3672228768">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e82e90b98e8c695ff6531e44ad6e6672e5e10f59">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

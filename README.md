@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1287187b7441bd691fe9c14f4ca101d560cd62cb">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ee873c629bdb32f354d7499ee0b1cec0c6cc1f55">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d62d32541cbb4f9e3f10423319858ada65bd2a60">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a30a962505fc44d5de5261b7281839e9e2975ca6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5a36b6d041f0c74c8d30b7e8668a786a5ae71147">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/88d75c68a5d85f5d7bbc798d7a87ae730d289c31">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/5302ee4078259f3b4b340315621b7bdfc7acfdf6">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/82">PR #82</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/0a35b22d77a1f192b8e281c06bf598106312bc52">TheDanniCraft/quickdrop</a></li>
-<li>📥 Opened <a href="https://github.com/vercel/next.js/pull/87597">PR #87597</a> in <a href="https://github.com/vercel/next.js">vercel/next.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

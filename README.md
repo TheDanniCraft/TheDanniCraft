@@ -85,8 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🗑️ Deleted a tag <code>v1.1.3</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.2.0"><code>v1.2.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a tag <code>v1.1.3</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>prepare-v1.2.0</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/37">PR #37</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/c37d782e9f003f2d088b78b77407421354a139c8">TheDanniCraft/clipify</a></li>

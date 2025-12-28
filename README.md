@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/10445a743e4342284df316dab14f6fb19b5e7281">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/90d25b187745bb8676203376df53f6232f402b3e">TheDanniCraft/numok</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/18">PR #18</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.2.1"><code>v1.2.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/409f597462e9725cbb212d329dd84f5bc572b2a7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/91100fb76681de5a0a66be5dd9cd09e421c19fcd">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a850a3094c7228be6e850ecd3835ae7274d40544">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4c553ffb2f29f16cccbbb5988aa9f033613afaf8">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

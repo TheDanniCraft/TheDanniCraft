@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/6e4259b374b056ba7be91cd9d4ce0edfd4c5e64d">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/240f17b61698e32cb58f32fc9f4772fec6b1eda0">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/b843c2eb21feec97f9657321aa94465415c02811">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/92373296dafb290275ecddfebe7cc8f87fd2930d">TheDanniCraft/next.js</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/90d25b187745bb8676203376df53f6232f402b3e">TheDanniCraft/numok</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/18">PR #18</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.2.1"><code>v1.2.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>hotfix-v1.2.1</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

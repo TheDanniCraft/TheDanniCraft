@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/39">PR #39</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/fa644007f7561fc5f58f629c2bdf7a3e1bd0d0b9">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/release-1.3.0"><code>release-1.3.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/1d2ccbe81550168f7c0d2e9f3afacdd564a85f75">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/5f33bc0e95434ade4e1f312b65c2c4e356125d55">TheDanniCraft/next.js</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/b843c2eb21feec97f9657321aa94465415c02811">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/92373296dafb290275ecddfebe7cc8f87fd2930d">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/db8f415d1e90b072282c4c7c2a7e31ab949b46b4">TheDanniCraft/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/03d26bb54a2f0a5643344c7ae5e719be90e535b2">TheDanniCraft/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/10445a743e4342284df316dab14f6fb19b5e7281">TheDanniCraft/next.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

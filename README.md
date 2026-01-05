@@ -92,8 +92,8 @@
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/366f772e4e8b47fc53cd3eb51a62b3cad75c48b9">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/nextreact-ecosystem</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/366f772e4e8b47fc53cd3eb51a62b3cad75c48b9">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

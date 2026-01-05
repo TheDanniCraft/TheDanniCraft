@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/7b7a65fb075fd0b120651d1b6f0a8d550efeabc5">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/5ca3dbcc052079f3feee713a5ddd2f32b2316b82">TheDanniCraft/Portfolio</a></li>
+<li>🗑️ Deleted a branch <code>renovate/npm/major-tabler-icons</code> in a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>🗑️ Deleted a branch <code>renovate/npm/major-mollie-api-client</code> in a private repo</li>
+<li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/6944ca7b0939b34cb577dbded62a625b6fe32b41">Wiresense/frontend</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/3748848e926fbb16b2bea14ecbf4c9e5da0d2084">Wiresense/frontend</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/269e8e07659421515b7c999cee6e44c57773fda3">Wiresense/frontend</a></li>
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/6764ff266c1b2d2a130e341d7d61af47a2d9025a">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/8194462e41e989ccc90faf760bdb0f3dd621f4b2">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/c890706eb9b584be3aa7e01a42d39ef401f8493e">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/c5899eb44dd53550e3bf473dc31ed0f5828a73e3">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/e4bedb91791c60c8078e7107c65a0a316bf3a5ac">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/2f28f49dca0b4b81764671835f4c3b1bd06f13e3">Wiresense/wiresense.js</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.py/commit/f61136310bfd811d1ebd87a66f67c0b625e87f3b">Wiresense/wiresense.py</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

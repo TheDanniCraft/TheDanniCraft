@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/956e501fcf047b651e68c4e0853f2b139d0fd8da">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/7b7a65fb075fd0b120651d1b6f0a8d550efeabc5">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/5ca3dbcc052079f3feee713a5ddd2f32b2316b82">TheDanniCraft/Portfolio</a></li>
-<li>🗑️ Deleted a branch <code>renovate/npm/major-tabler-icons</code> in a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>🗑️ Deleted a branch <code>renovate/npm/major-mollie-api-client</code> in a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/6944ca7b0939b34cb577dbded62a625b6fe32b41">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/3748848e926fbb16b2bea14ecbf4c9e5da0d2084">Wiresense/frontend</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/269e8e07659421515b7c999cee6e44c57773fda3">Wiresense/frontend</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>🗑️ Deleted a branch <code>renovate/bun/nextreact-ecosystem</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/366f772e4e8b47fc53cd3eb51a62b3cad75c48b9">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/0799321d9ca5c06cc0c78ead844fb00efd453bf7">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/485b496c73fc912dc252320d11b6227ede87fc35">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -7,7 +7,7 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Run Update GitHub Activity
         uses: TheDanniCraft/activity-log@v1
         with:

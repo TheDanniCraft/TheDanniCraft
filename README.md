@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/5e506151d14b9b35cbda863b1b49f89cb981b4b2">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/ed29f2908a951b5999719dc9867b57d9799a7e40">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to a private repo</li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/d60dd3b2d086d982a56d0210fd001fa21ba8488d">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/cfb413e53d247aa34e12be1f56e673740c99aa5f">TheDanniCraft/HLTV.JS</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

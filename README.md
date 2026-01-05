@@ -86,14 +86,14 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/8ea6f0aad307755d4f99c8b7588935b59b11731f">TheDanniCraft/TheDanniCraft</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/6906e99e84f6046a20a58ac3a53f4a6086186ef0">TheDanniCraft/TheDanniCraft</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/b966e01aae8132fee134ce004f727fd055356bd1">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/36c7dcf561381dcd373996229106ea7d99af7281">TheDanniCraft/tag-bumper</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/da38ffb0a7c94fc51a1cad1d23cdc7ce381be502">TheDanniCraft/tag-bumper</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/gamerforge-guide/commit/8a6ef01b7f39137e303c51397fa513b2b7345657">TheDanniCraft/gamerforge-guide</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/fee461b3530cb6205863db6417832a5565cde5e9">TheDanniCraft/HLTV.JS</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/6c89ed0624faaa671e79851a88c59f5603050495">TheDanniCraft/HLTV.JS</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/c10b177578f1746ff52afc8791aab2610c8428f0">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
+<li>🗑️ Deleted a branch <code>renovate/configure</code> in a private repo</li>
 <li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

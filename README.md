@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/68491a25c5d30a45dbfb10baa60bd1ffabd6929f">TheDanniCraft/HLTV.JS</a></li>
+<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/e71255f4c4a1aa2ce6288d7474313dc8e5dd0b02">Wiresense/frontend</a></li>
+<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/83">PR #83</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/39">PR #39</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/fa644007f7561fc5f58f629c2bdf7a3e1bd0d0b9">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/release-1.3.0"><code>release-1.3.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/5f33bc0e95434ade4e1f312b65c2c4e356125d55">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/6e4259b374b056ba7be91cd9d4ce0edfd4c5e64d">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/240f17b61698e32cb58f32fc9f4772fec6b1eda0">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/b843c2eb21feec97f9657321aa94465415c02811">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/92373296dafb290275ecddfebe7cc8f87fd2930d">TheDanniCraft/next.js</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/db8f415d1e90b072282c4c7c2a7e31ab949b46b4">TheDanniCraft/numok</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

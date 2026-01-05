@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/configure</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f4ed5e3b385389daa1b975e2fb3c06ec8e99b705">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Jumjava/commit/1a0a3f354fc26063eff3411384603a1bf0c83b09">TheDanniCraft/Jumjava</a></li>
 <li>🗑️ Deleted a branch <code>renovate/github-codeql-action-4.x</code> in <a href="https://github.com/TheDanniCraft/Jumjava">TheDanniCraft/Jumjava</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Jumjava/commit/6dec00a6d23ef282ab8fda3d7fdcaace26369431">TheDanniCraft/Jumjava</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/e71255f4c4a1aa2ce6288d7474313dc8e5dd0b02">Wiresense/frontend</a></li>
 <li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/83">PR #83</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/39">PR #39</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/fa644007f7561fc5f58f629c2bdf7a3e1bd0d0b9">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/release-1.3.0"><code>release-1.3.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

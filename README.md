@@ -85,15 +85,15 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/d7edb153068acc89d58e7f0d1212cdfe512df1cf">Wiresense/wiresense.js</a></li>
+<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/4771a4147c1a463673badac85864ee298898aed4">Wiresense/wiresense.js</a></li>
+<li>🗑️ Deleted a branch <code>renovate/actions-cache-5.x</code> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
+<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/e4647ce55998852b768c9b01ea7eaf33f27441bf">Wiresense/frontend</a></li>
+<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.js/commit/5c040d62a856d771a4a9b2493e3fafd6af5915c5">Wiresense/wiresense.js</a></li>
+<li>📝 Committed to <a href="https://github.com/Wiresense/wiresense.py/commit/fcfdd5b17e33f6b11f7d91affaa07c9d30519e13">Wiresense/wiresense.py</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/6561ba8ac26520a71a62aacb4c9ffb1986880b97">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/b966e01aae8132fee134ce004f727fd055356bd1">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/fee461b3530cb6205863db6417832a5565cde5e9">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/6c89ed0624faaa671e79851a88c59f5603050495">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/c10b177578f1746ff52afc8791aab2610c8428f0">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to a private repo</li>
-<li>🗑️ Deleted a branch <code>renovate/configure</code> in a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/421574e49d0cbbd4359bce3f7327842510ade5c0">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🗑️ Deleted a branch <code>renovate/configure</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f4ed5e3b385389daa1b975e2fb3c06ec8e99b705">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Jumjava/commit/1a0a3f354fc26063eff3411384603a1bf0c83b09">TheDanniCraft/Jumjava</a></li>
-<li>🗑️ Deleted a branch <code>renovate/github-codeql-action-4.x</code> in <a href="https://github.com/TheDanniCraft/Jumjava">TheDanniCraft/Jumjava</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Jumjava/commit/6dec00a6d23ef282ab8fda3d7fdcaace26369431">TheDanniCraft/Jumjava</a></li>
-<li>❌ Closed a PR in a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/68491a25c5d30a45dbfb10baa60bd1ffabd6929f">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to <a href="https://github.com/Wiresense/frontend/commit/e71255f4c4a1aa2ce6288d7474313dc8e5dd0b02">Wiresense/frontend</a></li>
-<li>🔎 Reviewed <a href="https://github.com/Wiresense/frontend/pull/83">PR #83</a> in <a href="https://github.com/Wiresense/frontend">Wiresense/frontend</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/39">PR #39</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/8ea6f0aad307755d4f99c8b7588935b59b11731f">TheDanniCraft/TheDanniCraft</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/6906e99e84f6046a20a58ac3a53f4a6086186ef0">TheDanniCraft/TheDanniCraft</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/36c7dcf561381dcd373996229106ea7d99af7281">TheDanniCraft/tag-bumper</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/da38ffb0a7c94fc51a1cad1d23cdc7ce381be502">TheDanniCraft/tag-bumper</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/gamerforge-guide/commit/8a6ef01b7f39137e303c51397fa513b2b7345657">TheDanniCraft/gamerforge-guide</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

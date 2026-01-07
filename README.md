@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ae36bc7a1ce5d7143c2cf25b0e1cbe205dfae46e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/82450d7ac57e2b95ba95dd0be87dcc284867e6bf">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/04fc2e70e51ad1ae2174136262534fe78264ad92">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/8e187aecaaa3937ae5678b76ab7030cd1a0982a3">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/stripe</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/065512f131f59bb25b8d67e89d1c3bbe6d677f10">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

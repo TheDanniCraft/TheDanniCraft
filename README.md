@@ -91,8 +91,8 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/8aadb0a52ab2e6a8bbec5bfcdbc7e888696adefe">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/f26f2902539597d3c0188d1c249aa5bb5cc0d73d">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/93f07d0603f44595058d78ce02d3d75a2a915d87">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/vercel-nft-1.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/93f07d0603f44595058d78ce02d3d75a2a915d87">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ae36bc7a1ce5d7143c2cf25b0e1cbe205dfae46e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/82450d7ac57e2b95ba95dd0be87dcc284867e6bf">TheDanniCraft/clipify</a></li>
 </ol>

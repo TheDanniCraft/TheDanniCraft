@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/f94cc11322d9c830f810df350f4a7347f4c02a5f">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ded54424a60645137d61cf96afa5bf1b799b389c">TheDanniCraft/clipify</a></li>
 <li>⭐ Starred <a href="https://github.com/operational-co/operational.co">operational-co/operational.co</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/afc3e523390ce4f150a2cdc938e84447a9e47256">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/eaa1f4f3c658441dbe368eeff5204ed7fc96fc53">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/cd4840fd54848d0776ba9b15c48539e821b339df">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/stripe</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/fe84b90c83c10cdf63012c5fa68f8ff28e9fe5ec">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

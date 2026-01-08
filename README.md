@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/96227bb78fd52e87f0d413fcffa97fcac1c7f8f8">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8bcb042968c1294d34a7ac9a0e357d1d1c77c215">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/f94cc11322d9c830f810df350f4a7347f4c02a5f">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ded54424a60645137d61cf96afa5bf1b799b389c">TheDanniCraft/clipify</a></li>
 <li>⭐ Starred <a href="https://github.com/operational-co/operational.co">operational-co/operational.co</a></li>
@@ -92,9 +95,6 @@
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/54d321f712686c50f3737340b034eae218b1393f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/eaa1f4f3c658441dbe368eeff5204ed7fc96fc53">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/cd4840fd54848d0776ba9b15c48539e821b339df">TheDanniCraft/Portfolio</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/stripe</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

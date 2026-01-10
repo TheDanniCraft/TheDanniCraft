@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/ridafkih/keeper.sh">ridafkih/keeper.sh</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.3.0"><code>v1.3.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>release-1.3.0</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/39">PR #39</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/54ed273035941454d7df32d6738ef49f3793d3a2">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/npm/mantine-monorepo</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/4f8e6588ac8a11378d4a3f49f5cdd3cbf7fe1ee4">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/37686a52f98ea4c19f44e927810e3638f2e90796">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/470e92fac17fca1648ccdac410e1b5b6f7fd0d6b">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/9a62a7f8e34bc54e9e5e590608e4d0a8601a5e9b">TheDanniCraft/Portfolio</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/cd6eb875e433831a61b8cc0ce998c8ee4fbb5711">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5cc387f81e431643bd679180b66324abff21875e">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bbd6404d2a17c6f05a4197b0b29582439d87f5d0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/4e8d4663843f1b0364ff5ceccb8edd7f701080f8">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/4fde5bdc8a488633338069109b7b01924bec13ef">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/fd3b458c35631e61d5246ac70834c3acd012a803">TheDanniCraft/next.js</a></li>
 <li>⭐ Starred <a href="https://github.com/ridafkih/keeper.sh">ridafkih/keeper.sh</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.3.0"><code>v1.3.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>release-1.3.0</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/39">PR #39</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/54ed273035941454d7df32d6738ef49f3793d3a2">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/npm/mantine-monorepo</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/4f8e6588ac8a11378d4a3f49f5cdd3cbf7fe1ee4">TheDanniCraft/Portfolio</a></li>
+<li>🗑️ Deleted a branch <code>renovate/npm/mantine-monorepo</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/37686a52f98ea4c19f44e927810e3638f2e90796">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

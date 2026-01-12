@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/bun/nextreact-ecosystem</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e16c3ca3e5086d1c271dc0b07625aec56513f39f">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/237d747ad1209189d577e7fff5159e03db51de8e">TheDanniCraft/swatch-studio</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2609db62f909333198b231540087e04c75a33df4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/9a4a0a28da60b3a70aa5294be4146013b16c5b3c">TheDanniCraft/swatch-studio</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/d2175072f47b48ba7f5ebe647acce14eb1522b8c">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4125281e663f33f39a007f1f0b711c04721a71ba">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/fba660928f168b20c3939c6e82e862d182164c6a">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

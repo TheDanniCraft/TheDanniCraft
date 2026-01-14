@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/npm/pocketbase</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/233805cfe703fb75bac3726a8a40c1d3090714b7">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/ec9b1ffed35affbe6e25f17fcfe53e0581e37ec7">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/9468ff1139420e2aa6a0e03da31fcee45eadeac9">TheDanniCraft/Portfolio</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to a private repo</li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/65">PR #65</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ffade41e5fa73892bd66978411042b0f26a202fc">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d5dc499768f0d483d41721b2b46d484ea7c79490">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8610da52bc8d68ce3eaf51caf4ff440ae5b0d613">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

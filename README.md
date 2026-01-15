@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.4.0"><code>v1.4.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>patch-v1.4.0</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/70">PR #70</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d6784bbccc9712c264927f3f3d15bc12ff8b09b5">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/167a31329939290cff7604f09a39c73bc4eaa4aa">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8e8f100ea5f4eb5261c8bfeff2dca575ba5aeafd">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a38ffd363cbe54cb775f0c97b65e4f89b12c254a">TheDanniCraft/clipify</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/70">PR #70</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7d3ab05f232d49c7ee47724ae53fc419fa29ec88">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v1.4.0"><code>patch-v1.4.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/plausible-mcp-server/issues/3">#3</a> in <a href="https://github.com/TheDanniCraft/plausible-mcp-server">TheDanniCraft/plausible-mcp-server</a>: <a href="https://github.com/TheDanniCraft/plausible-mcp-server/issues/3#issuecomment-3756079967">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/plausible-mcp-server/commit/557ae7c83a69a8ce67914371241a6d9f8362ed9d">TheDanniCraft/plausible-mcp-server</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/plausible-mcp-server/pull/2">PR #2</a> in <a href="https://github.com/TheDanniCraft/plausible-mcp-server">TheDanniCraft/plausible-mcp-server</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/plausible-mcp-server/commit/9be27e1de048dfa4d4feb83009a7c36be3853ed2">TheDanniCraft/plausible-mcp-server</a></li>
-<li>🍴 Forked <a href="https://github.com/AVIMBU/plausible-mcp-server">AVIMBU/plausible-mcp-server</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

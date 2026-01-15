@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/npm/exiftool-vendored-35.x</code> in a private repo</li>
+<li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/ed4cded2ea633f0d96605503218db07ebe1e756f">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/41a577ddf05f88974e2ca8e9bb9d8ebe38c43047">TheDanniCraft/quickdrop</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to a private repo</li>
 <li>🗑️ Deleted a branch <code>renovate/bun/database-(drizzlepg)</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/371fbbb013c873c0f7ebc2162cc2c58ed263cddb">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f78dfe5c0c3b7054ce104f134033a1c3852774b7">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

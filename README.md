@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/plausible-mcp-server/issues/3">#3</a> in <a href="https://github.com/TheDanniCraft/plausible-mcp-server">TheDanniCraft/plausible-mcp-server</a>: <a href="https://github.com/TheDanniCraft/plausible-mcp-server/issues/3#issuecomment-3756079967">View Comment</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/plausible-mcp-server/commit/557ae7c83a69a8ce67914371241a6d9f8362ed9d">TheDanniCraft/plausible-mcp-server</a></li>
 <li>❌ Closed <a href="https://github.com/TheDanniCraft/plausible-mcp-server/pull/2">PR #2</a> in <a href="https://github.com/TheDanniCraft/plausible-mcp-server">TheDanniCraft/plausible-mcp-server</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/plausible-mcp-server/commit/9be27e1de048dfa4d4feb83009a7c36be3853ed2">TheDanniCraft/plausible-mcp-server</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/ed4cded2ea633f0d96605503218db07ebe1e756f">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/41a577ddf05f88974e2ca8e9bb9d8ebe38c43047">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

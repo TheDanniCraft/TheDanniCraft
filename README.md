@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/ce40fcbd02f0d7edf1113679ba869903e83c65f3">TheDanniCraft/swatch-studio</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/stripe</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/576f2bae1cb4aa3db7064345dbec74c5aae431e9">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.4.1"><code>v1.4.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>patch-v1.4.1</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/36f0feeb00754ba1eb59cd4574d76a33b0f218d7">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/72">PR #72</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/72">PR #72</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/56402b95785e2c149987cbed5a866cb930aff3c3">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b00b6ca3b1c6bf8ffa3d85300235bf5c8867f2ab">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v1.4.1"><code>patch-v1.4.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/971ef0c5747ebf8d4a665bcee7b6709e4cbc0f3b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

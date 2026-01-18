@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d1bbb6daaa8a9ee32e99bde1e8fc7e871865f9d7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5aa88b0035c594e055bef3deb977da09360222da">TheDanniCraft/clipify</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/74">PR #74</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/0dc30620d5c53e951504cef25d8e433773afdbb5">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/ce40fcbd02f0d7edf1113679ba869903e83c65f3">TheDanniCraft/swatch-studio</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/stripe</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/576f2bae1cb4aa3db7064345dbec74c5aae431e9">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.4.1"><code>v1.4.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

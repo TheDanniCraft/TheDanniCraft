@@ -92,8 +92,8 @@
 <li>📝 Committed to a private repo</li>
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/96b524ce857c1f394e0a3455c870ea37aff04eb4">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/9ed7f6e9b739848fcc5edb08c812b3defe4fa291">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/nextreact-ecosystem</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/9ed7f6e9b739848fcc5edb08c812b3defe4fa291">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.4.2"><code>v1.4.2</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->

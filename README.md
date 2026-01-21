@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/91128bcb366ce70c9a55c8979ac7d72f0d414e95">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/5c2c3258d49a2a543f9b9b15e9173e6d4ccf3c9e">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch <code>renovate/npm/tiptap-editor</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/50d838e1a4eb4af8721cd0626f6663eb6bf16be4">TheDanniCraft/Portfolio</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/8d1a95c50918ede106c5b2ca19f8ddecabf9c993">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/8fc024dfacc4b6efdb0ceeafb6c4dfd1a62240b9">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/558e23e42e84566fcba3185395c029a1eeee9856">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

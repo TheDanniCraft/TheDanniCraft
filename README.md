@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/89a7054219d6ca604c231657fb60ff20bce44327">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/chatwoot/chatwoot/issues/13334">#13334</a> in <a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a>: <a href="https://github.com/chatwoot/chatwoot/issues/13334#issuecomment-3783531231">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/82bfe72c33838d508a4b68262904ebe32b117f52">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/1881c75d3b1b93a20bc1645c316d6f1448defd8f">TheDanniCraft/swatch-studio</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/1.4.3"><code>1.4.3</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e31be1d3e3af560816f6adceaddc1a6f6ef475b7">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>patch-v1.4.3</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/85">PR #85</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/c6751fa3a45807a882673524d64f58986d8f27cd">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/5c9fe48dcbf05b01f1bf43db896a0fa2ea2a4bde">TheDanniCraft/swatch-studio</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/c3e168e9665c2692ecc31b643046d3a0e3fa5f98">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/e42872fce7c258b1e53e18867267650923fdc39e">TheDanniCraft/swatch-studio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2b8499cb0c517633db87f8d2abab67466dbb7149">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened <a href="https://github.com/chatwoot/chatwoot/pull/13357">PR #13357</a> in <a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/chatwoot/tree/fix/13334-invalid-sitemap-structure"><code>fix/13334-invalid-sitemap-structure</code></a> in <a href="https://github.com/TheDanniCraft/chatwoot">TheDanniCraft/chatwoot</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/chatwoot/commit/ad2329c237fe1948dbffcadcf4124508095da64a">TheDanniCraft/chatwoot</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/fcf6f6eb7d486c58f921a1f4cf12f6131ac33db2">TheDanniCraft/swatch-studio</a></li>
@@ -94,7 +95,6 @@
 <li>🗑️ Deleted a tag <code>v1.4.3</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a tag <code>1.4.3</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/5c9fe48dcbf05b01f1bf43db896a0fa2ea2a4bde">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

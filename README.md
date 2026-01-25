@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.4.4"><code>v1.4.4</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>patch-v1.4.4</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/89">PR #89</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b876a5b3bd9bf3f52b2dd1b396a9c42edb96a403">TheDanniCraft/clipify</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/89">PR #89</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b83de79ba8f358ea78a48ce16f30115bd36e322c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/315f0d5bde6ad4d148fecd09301911b25b38a326">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/a27b78e73abd74fa01fcac37817f9effd8b9e15f">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/3a3b3bb5d21f4670d55f82d47b8ecb9402ebaf29">TheDanniCraft/HLTV.JS</a></li>
 <li>📥 Opened <a href="https://github.com/chatwoot/chatwoot/pull/13357">PR #13357</a> in <a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/chatwoot/tree/fix/13334-invalid-sitemap-structure"><code>fix/13334-invalid-sitemap-structure</code></a> in <a href="https://github.com/TheDanniCraft/chatwoot">TheDanniCraft/chatwoot</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/chatwoot/commit/ad2329c237fe1948dbffcadcf4124508095da64a">TheDanniCraft/chatwoot</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/fcf6f6eb7d486c58f921a1f4cf12f6131ac33db2">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bb14c900bdfae0c07f15b14a366d6a00c98cd0ed">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

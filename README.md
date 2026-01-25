@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/315f0d5bde6ad4d148fecd09301911b25b38a326">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/a27b78e73abd74fa01fcac37817f9effd8b9e15f">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/3a3b3bb5d21f4670d55f82d47b8ecb9402ebaf29">TheDanniCraft/HLTV.JS</a></li>
 <li>📥 Opened <a href="https://github.com/chatwoot/chatwoot/pull/13357">PR #13357</a> in <a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bb14c900bdfae0c07f15b14a366d6a00c98cd0ed">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v1.4.4"><code>patch-v1.4.4</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.4.3"><code>v1.4.3</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a tag <code>v1.4.3</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

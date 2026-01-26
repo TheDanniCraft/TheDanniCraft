@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/c93168506585112f3c571af11eaea2a5ed736ba3">TheDanniCraft/activity-log</a></li>
+<li>🗑️ Deleted a branch <code>renovate/npm/http-client</code> in a private repo</li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to a private repo</li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.4.4"><code>v1.4.4</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>patch-v1.4.4</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/89">PR #89</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b876a5b3bd9bf3f52b2dd1b396a9c42edb96a403">TheDanniCraft/clipify</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/89">PR #89</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b83de79ba8f358ea78a48ce16f30115bd36e322c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/315f0d5bde6ad4d148fecd09301911b25b38a326">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/a27b78e73abd74fa01fcac37817f9effd8b9e15f">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/3a3b3bb5d21f4670d55f82d47b8ecb9402ebaf29">TheDanniCraft/HLTV.JS</a></li>
-<li>📥 Opened <a href="https://github.com/chatwoot/chatwoot/pull/13357">PR #13357</a> in <a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

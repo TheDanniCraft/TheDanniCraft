@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/0008c68db565074f1ef08d6e8d4eec86b9aa138d">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/29bf7ab12758a95ac9bb203e9c71f893bb8309ac">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/00870c0e9dacba355bba186c0046fd850fb6678a">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to a private repo</li>
-<li>🔀 Merged <a href="https://github.com/chatwoot/chatwoot/pull/13357">PR #13357</a> in <a href="https://github.com/chatwoot/chatwoot">chatwoot/chatwoot</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/axios-1.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ec66b37e06f91f77072c8781fbcfeb27d102e757">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/0484da64b966f47bef7c928fadbfd25aaf1efea0">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/e2b83f25843dc1eed70ef5b7fe3a6a04ed4513cc">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/5cc0b7c616ead803a5c907b530cb7f4a32f71f29">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/b221c8b53d3432b3d0249151b242ab356f546b38">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0a9b006f6aa00209d362d2aa885c89662db531af">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/a1eb30c53556e98cb0a862e2b78687e2e8af8b41">TheDanniCraft/swatch-studio</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/re2js-1.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1a083dbe2861810fd4d2fbe22e52a4e029ca87e8">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

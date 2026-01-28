@@ -87,8 +87,8 @@
 <ol>
 <li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b8ecc7db73d40db26329521305243c9a433744bc">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/nextreact-ecosystem</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3ebf40042875a6e5fbaa4c4b4982701f3eeaeb87">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/nextreact-ecosystem</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f8f80503fa576d2d15f6561e66361e9d2227a8fe">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/9efdbdc64b88e0f5f6a63962a427a1560e329646">TheDanniCraft/next.js</a></li>

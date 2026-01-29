@@ -93,8 +93,8 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/2d89ac5fbbc8fa93788ab7b93bee3c02a4846601">TheDanniCraft/quickdrop</a></li>
 <li>🗑️ Deleted a branch <code>renovate/npm/nextreact-ecosystem</code> in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/c7a935640826a28f24c9dda36ae354757f6d6ea3">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b8ecc7db73d40db26329521305243c9a433744bc">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b8ecc7db73d40db26329521305243c9a433744bc">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

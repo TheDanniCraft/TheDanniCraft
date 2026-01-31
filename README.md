@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/bun/heroui-react-2.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3b30489c76a8afd3601fd99b97cb800ca2c75c2b">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/67f8c4033cff07ab1241c979b9d9f8fa399cfcb6">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/database-(drizzlepg)</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/42980f3f18fb919a35150d00d6f1f8cc688cbe84">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/25cd0abf72d720db6f3ab175fc6de3cf6c60da69">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/stripe</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6c0520141a16c8dc80107c3b68afbd41baf439e7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/526d16f4836a91e052fdfa55845a0a55ace6489a">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d9f8d0768911908ec1efa2aedb440393c8678602">TheDanniCraft/clipify</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/101">PR #101</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/prepare-v1.5.0"><code>prepare-v1.5.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/07472bccdbf070e8dbadbfb8008803549cd5ea18">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/8773e028ff1a7d1d89d1a96262704ff40de2df10">TheDanniCraft/Portfolio</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f44194c47b4cd9185caa9ef49d9b50cb6873772b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/2d89ac5fbbc8fa93788ab7b93bee3c02a4846601">TheDanniCraft/quickdrop</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

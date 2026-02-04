@@ -91,8 +91,8 @@
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.5.0"><code>v1.5.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/42b5c3a454402f6c3cd22956b798aa31911db92d">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/101">PR #101</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d3d72f17bfebd5fbedf300030440f7d13cca363d">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>prepare-v1.5.0</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d3d72f17bfebd5fbedf300030440f7d13cca363d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b37a3d382a89ec08067df2a0f588ed5cf8af9bf5">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/9945e456cf2086b9719016438ed48de5e95ecdfa">TheDanniCraft/clipify</a></li>
 </ol>

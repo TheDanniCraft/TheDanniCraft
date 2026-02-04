@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/db0106cfd17c31a2b3723f10bcab4c1082fadb2f">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/d40ceb91d2fbf8e49e57f3cb817a372c47b1cdb7">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/fdb48d47a2cc02bc4db6bf3a7c63cb4bccfd8636">TheDanniCraft/Portfolio</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2b76b6d15adc16e569bc4a0a40ec9bb3f7c8a274">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>⭐ Starred <a href="https://github.com/NicKraneis/play-game-night-public">NicKraneis/play-game-night-public</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.5.0"><code>v1.5.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/42b5c3a454402f6c3cd22956b798aa31911db92d">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/101">PR #101</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>prepare-v1.5.0</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d3d72f17bfebd5fbedf300030440f7d13cca363d">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b37a3d382a89ec08067df2a0f588ed5cf8af9bf5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/9945e456cf2086b9719016438ed48de5e95ecdfa">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/34d69d249d8b36773685436f540d5676d45e78fa">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/dd9a95928000f2b16bbde17b066d4897277fa7ba">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

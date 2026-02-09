@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/030e30a4f151a802fc92d7e18f59926c1ed5cafc">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d8abb83e21c821cf8caab4ec9fe930f227ed7bf1">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/820c4c576848d2c93bd9078665588b6a469ffa2f">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v1.5.3"><code>patch-v1.5.3</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/35cdaecbd2bd968f34530fa615d821ae1e68b901">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/41566b7a6c88f2bce651337ca26855bd3c1ac57b">TheDanniCraft/next.js</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/40efa83b76f0208b26a497e4d00ceb6a18e56c52">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/431fd0143c6e2ca4c60ce3137b5f264f2df48045">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/b4746eff7afdd586fc12bb9c0c1c9c6231299acb">TheDanniCraft/swatch-studio</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/cb61c33b7fea8b0f4f91b501fa0759fc6dd840b5">TheDanniCraft/HLTV.JS</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

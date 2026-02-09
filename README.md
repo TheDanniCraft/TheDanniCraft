@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e80a3ebabe6895b39cd04cd2ee5f7c3067c012ae">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/e75d5d7e18370a5509634a8347ae11293f06277a">TheDanniCraft/clipify</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/119">PR #119</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/c3a35745e1c09d91a3c9f4cc048ee75d1155dcc8">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b6a39e6973ba7b82a46603be6767ccf384293ce4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/030e30a4f151a802fc92d7e18f59926c1ed5cafc">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d8abb83e21c821cf8caab4ec9fe930f227ed7bf1">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/820c4c576848d2c93bd9078665588b6a469ffa2f">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v1.5.3"><code>patch-v1.5.3</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/35cdaecbd2bd968f34530fa615d821ae1e68b901">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/41566b7a6c88f2bce651337ca26855bd3c1ac57b">TheDanniCraft/next.js</a></li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/40efa83b76f0208b26a497e4d00ceb6a18e56c52">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/431fd0143c6e2ca4c60ce3137b5f264f2df48045">TheDanniCraft/swatch-studio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/41566b7a6c88f2bce651337ca26855bd3c1ac57b">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/40efa83b76f0208b26a497e4d00ceb6a18e56c52">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to a private repo</li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/cb61c33b7fea8b0f4f91b501fa0759fc6dd840b5">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ac7aba4488f11ae7d2563ede9c9af8415653859c">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/database-(drizzlepg)</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/ed7e0bc22b1014b216e78f671f25cf4b51803ee7">TheDanniCraft/next.js</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.5.1"><code>v1.5.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2ae16b99e827de5b3ef7dcca47e209801117fff8">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>patch-v1.5.1</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/1b886a5449994f3eb45b88f390846c477a8238e4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/c0e394b825a4bf844d2016dfadb4b28d65ea43f5">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/7cbcc86afa8d9b2abb0b4ff0ff9eeaf2317a5450">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

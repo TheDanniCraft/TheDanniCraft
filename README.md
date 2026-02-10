@@ -94,7 +94,7 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/04cf394478d233e2a791dcbd4353254ac0cd1b05">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v1.5.3"><code>patch-v1.5.3</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-v1.5.4"><code>hotfix-v1.5.4</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4e8a22f23134716e1810070e3b9916c2dc15ed31">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>hotfix-v1.5.4</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

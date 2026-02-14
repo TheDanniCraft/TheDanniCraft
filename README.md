@@ -87,8 +87,8 @@
 <ol>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/edb326b64edcea9375c95d5a3f224bdfea8b9202">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/606ffd717be9af6aeefecc5f37ab2061081dbba9">TheDanniCraft/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/37602836bed06bb895d87c952013533510dc2b4f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/minimatch-10.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/37602836bed06bb895d87c952013533510dc2b4f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/dotenv-17.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b47620af8eabeeaf5bb27fe38525b75f03621e96">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/060fb1347c3da9bd0f85d749d11c2467dfbdf5fb">TheDanniCraft/next.js</a></li>

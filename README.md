@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/71b2a8b89156f36035d49ca7fbf2083b7a9cd2be">TheDanniCraft/numok</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/78c145e879b9684b27f66ff0c7d04120c0401a30">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/f60294587fc704cea9e62baa5809538a0b96fa04">TheDanniCraft/numok</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/numok/pull/1">PR #1</a> in <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
 <li>📥 Opened <a href="https://github.com/dfg-ar/numok/pull/15">PR #15</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/edb326b64edcea9375c95d5a3f224bdfea8b9202">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/606ffd717be9af6aeefecc5f37ab2061081dbba9">TheDanniCraft/numok</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/minimatch-10.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/37602836bed06bb895d87c952013533510dc2b4f">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/dotenv-17.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/f60294587fc704cea9e62baa5809538a0b96fa04">TheDanniCraft/numok</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/numok/pull/1">PR #1</a> in <a href="https://github.com/TheDanniCraft/numok">TheDanniCraft/numok</a></li>
+<li>📥 Opened <a href="https://github.com/dfg-ar/numok/pull/15">PR #15</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/ecd4e4850d17b8c169b7fb2779fd8a89a2e2ff0a">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/f4d7e0c817ad5482256e14c00fd2bee75ed5c989">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/edb326b64edcea9375c95d5a3f224bdfea8b9202">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/606ffd717be9af6aeefecc5f37ab2061081dbba9">TheDanniCraft/numok</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/minimatch-10.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/37602836bed06bb895d87c952013533510dc2b4f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/dotenv-17.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b47620af8eabeeaf5bb27fe38525b75f03621e96">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/060fb1347c3da9bd0f85d749d11c2467dfbdf5fb">TheDanniCraft/next.js</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/dfg-ar/numok/issues/11">#11</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a>: <a href="https://github.com/dfg-ar/numok/issues/11#issuecomment-3893099453">View Comment</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v1.5.5"><code>v1.5.5</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/09424ef0e7d153b052d044fe1681c6ac76eaee09">TheDanniCraft/numok</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/4316b546eec9fba2e32ba9bd2fa9da65797c58b3">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/105294ef5487f3316eb72563863447525bdd5bfd">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/c1b035127fec69979227d4ec39b3dc2ca89f865f">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/006f11a834c260114439d9a8442bbef06c891306">TheDanniCraft/numok</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/42c381e3390ddb5850339d608a81652ba02d109f">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/fa7286adcae446495701d9487fadd98e144407e0">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/6a1e04959d3acfef8a47ea94832eeba5c2d6c129">TheDanniCraft/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/9e0a7438eaa7e7379729768049ba3ab637f6e59d">TheDanniCraft/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/71b2a8b89156f36035d49ca7fbf2083b7a9cd2be">TheDanniCraft/numok</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/4d69ba50a4c8e358964ed2980a62793f08a464ba">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/073563da365b13d737704f6151191c7115c9de8f">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/f85e43c17fd5a5308a4d5b0f14433944e7632453">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/0da501d86daabeff6c7510629c6c74224e4ec72b">TheDanniCraft/HLTV.JS</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/513a77d70119b914b4fadff159a7525c1d5ef4db">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/gamerforge-guide/commit/c0ccd14eb46439f6bd5ae202122a024f7c104397">TheDanniCraft/gamerforge-guide</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/5e48a395215d622a81a9ec540d087a7d5878252a">TheDanniCraft/quickdrop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/tag-bumper/commit/a87312bd5366ad776beb69681e107f5e889f2b1a">TheDanniCraft/tag-bumper</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

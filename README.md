@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/peakoss/anti-slop">peakoss/anti-slop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/9e9a1e3fc4be8724d70475d6211e9d090634b6bc">TheDanniCraft/next.js</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6ae2553a5ac42bb99184fa3cf3c5df011a1620fe">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/19237d41e8cba51ff62ba8a66e626d330863d06c">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/4d69ba50a4c8e358964ed2980a62793f08a464ba">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/073563da365b13d737704f6151191c7115c9de8f">TheDanniCraft/numok</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/f85e43c17fd5a5308a4d5b0f14433944e7632453">TheDanniCraft/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/0da501d86daabeff6c7510629c6c74224e4ec72b">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/9fbd9a8153599c1be2075697b56836edcbeaa98b">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

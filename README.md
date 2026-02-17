@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/dd007eef1a157e48165df6645ec4b7ec13f2f111">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/1edd98b9a5cc99c06aa8f128cd09fb5a25c5b9f5">TheDanniCraft/HLTV.JS</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/ece9921399bc780e0ce44845196df653265b0197">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/minimatch-10.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/dfg-ar/numok/issues/11">#11</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a>: <a href="https://github.com/dfg-ar/numok/issues/11#issuecomment-3915079794">View Comment</a></li>
 <li>⭐ Starred <a href="https://github.com/peakoss/anti-slop">peakoss/anti-slop</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/9e9a1e3fc4be8724d70475d6211e9d090634b6bc">TheDanniCraft/next.js</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6ae2553a5ac42bb99184fa3cf3c5df011a1620fe">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/19237d41e8cba51ff62ba8a66e626d330863d06c">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/dfg-ar/numok/issues/11">#11</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a>: <a href="https://github.com/dfg-ar/numok/issues/11#issuecomment-3910544378">View Comment</a></li>
-<li>🗣 Commented on issue <a href="https://github.com/dfg-ar/numok/issues/15">#15</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a>: <a href="https://github.com/dfg-ar/numok/issues/15#issuecomment-3910527334">View Comment</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/4d69ba50a4c8e358964ed2980a62793f08a464ba">TheDanniCraft/numok</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/numok/commit/073563da365b13d737704f6151191c7115c9de8f">TheDanniCraft/numok</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

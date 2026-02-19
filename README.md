@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/01a602173e69a02cda9d5a1e6014367260ac8dca">TheDanniCraft/next.js</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/dd007eef1a157e48165df6645ec4b7ec13f2f111">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/1edd98b9a5cc99c06aa8f128cd09fb5a25c5b9f5">TheDanniCraft/HLTV.JS</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to a private repo</li>
 <li>🗣 Commented on issue <a href="https://github.com/dfg-ar/numok/issues/11">#11</a> in <a href="https://github.com/dfg-ar/numok">dfg-ar/numok</a>: <a href="https://github.com/dfg-ar/numok/issues/11#issuecomment-3915079794">View Comment</a></li>
 <li>⭐ Starred <a href="https://github.com/peakoss/anti-slop">peakoss/anti-slop</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/9e9a1e3fc4be8724d70475d6211e9d090634b6bc">TheDanniCraft/next.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

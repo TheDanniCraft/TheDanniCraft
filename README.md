@@ -85,15 +85,15 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🗑️ Deleted a branch <code>renovate/bun/minimatch-10.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d724533e0a7222f0c8f4567f8795e8edfff312f1">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/nextjs-turnstile-1.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/3cfc4e9da3800b639e9caca6e097749d61ba582d">TheDanniCraft/clipify</a></li>
-<li>⭐ Starred <a href="https://github.com/Ralex91/Rahoot">Ralex91/Rahoot</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/01a602173e69a02cda9d5a1e6014367260ac8dca">TheDanniCraft/next.js</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/tabler-icons-react-3.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/619f1ffc098427c56fef69f13e493dd278ce6c1d">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/dd007eef1a157e48165df6645ec4b7ec13f2f111">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/1edd98b9a5cc99c06aa8f128cd09fb5a25c5b9f5">TheDanniCraft/HLTV.JS</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/5a836b29daf4eb9bc2c200d109b591eb96a88357">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/gamerforge-guide/commit/dd18bf2f7bf17d10c1d13964f0edb60f62df4801">TheDanniCraft/gamerforge-guide</a></li>
+<li>📝 Committed to a private repo</li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/93b6b4bd09be25402c5a911575f1a796edebc08b">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to a private repo</li>
 </ol>
 <!--END_SECTION:activity-->

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/TheDanniCraft/commit/084b5a98aee724dc87ddfa3c1499f2976564318b">TheDanniCraft/TheDanniCraft</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/tabler-icons-react-3.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/4e4072782dc16c4b314280d4fae174074a2d1cc9">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/gamerforge-guide/commit/1bb97a3bde709bf2982b0e35bb1657d997628ba6">TheDanniCraft/gamerforge-guide</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/81ccce98456666d20b1054c50db0471639147866">TheDanniCraft/HLTV.JS</a></li>
+<li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a84b8c194fcad7675043a09edacf433139177b88">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/next.js/commit/c371297ce9c9accb5c603a60eb08d111c5cf52f8">TheDanniCraft/next.js</a></li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/d9c02c32a88eb6a5c9f006ab26bae5134ec45403">TheDanniCraft/quickdrop</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/swatch-studio/commit/abdbbc772b346d314c67839c2b0feaf01d6b40e3">TheDanniCraft/swatch-studio</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/154b638ac0548cf94b85b729e195934e852d0498">TheDanniCraft/HLTV.JS</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/quickdrop/commit/5c98c7c9fd8b83ac75e993d0bcea07ebe640aceb">TheDanniCraft/quickdrop</a></li>
 <li>📝 Committed to a private repo</li>
 <li>📝 Committed to a private repo</li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/Portfolio/commit/210011400ad05334106da1dcbcc725c2cf4192ce">TheDanniCraft/Portfolio</a></li>
+<li>🗑️ Deleted a branch <code>renovate/github-actions/major-github-actions</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

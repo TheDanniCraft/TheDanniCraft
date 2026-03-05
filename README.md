@@ -93,8 +93,8 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/SES-Template-Pilot/commit/1bbf94864e78ae988f667c72bfd3f8e3dea3d0db">TheDanniCraft/SES-Template-Pilot</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/SES-Template-Pilot/commit/cdf95a6dd91a1f826a86c4686ac7c3341a0168e9">TheDanniCraft/SES-Template-Pilot</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/SES-Template-Pilot/tree/master"><code>master</code></a> in <a href="https://github.com/TheDanniCraft/SES-Template-Pilot">TheDanniCraft/SES-Template-Pilot</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a84b8c194fcad7675043a09edacf433139177b88">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/a84b8c194fcad7675043a09edacf433139177b88">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

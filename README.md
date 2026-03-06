@@ -94,7 +94,7 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d4a6f81b64a9c474d9983a7cd777b432dec743b6">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/database-(drizzlepg)</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/10a3575bfc5a1a150645698d0c896857f5783d9f">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/sentry-javascript-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6674a3821fdef28b9deea1bb0c768b7264ac1366">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

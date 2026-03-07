@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/daa9a455457a5c0a40118bfab8b6ba99026055dd">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d9c3d45658af4a5cfdf7f7a9cb31cac4ee65a602">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/179ac946932a9b2a9072e312146b31d5df24c4f3">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/72213e51ccd17041e764c9f8ad888a68d662e79d">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/Template-Pilot/template-pilot-docs/commit/501af4db9739c35cfa5fe4bc7bd615a072e15d46">Template-Pilot/template-pilot-docs</a></li>
 <li>📝 Committed to <a href="https://github.com/Template-Pilot/template-pilot-docs/commit/28611bc99856d5f8d7771f9df2e36cd60b990dd2">Template-Pilot/template-pilot-docs</a></li>
 <li>📝 Committed to <a href="https://github.com/Template-Pilot/template-pilot/commit/0ce44ce73740a0192f621428dc1445c4bbb52eeb">Template-Pilot/template-pilot</a></li>
-<li>📝 Committed to <a href="https://github.com/Template-Pilot/template-pilot-docs/commit/923d6e8a0aa99e5c284f76fe33490dfa2cf5e399">Template-Pilot/template-pilot-docs</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

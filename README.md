@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/60906fb452f578eb2d4d10ceb1dc80ab96144e4a">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/343bbce6ad45eee1a6d5bf0fd428d91ce158b21b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/d32bc284de9d54852c042ecdaf70471449f9d83d">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/linting</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/tabler-icons-react-3.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/48bfbde82dbc7309430d9eca5c8656661eb57123">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/heroui-react-2.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/87091142da0e634f999e2b5ba3706fd095386d12">TheDanniCraft/clipify</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/168">PR #168</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>❌ Closed <a href="https://github.com/TheDanniCraft/clipify/pull/162">PR #162</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

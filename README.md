@@ -86,8 +86,8 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.0"><code>v2.0.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2562003c7cd7d9a8056e928962cb63aa2515f9d7">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/2562003c7cd7d9a8056e928962cb63aa2515f9d7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8e28c01797bc6daf6a4d9240013721bd9010f286">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch <code>renovate/bun/usesend-js-1.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/44a98319f566c84ea2d218f22530d61d244d1866">TheDanniCraft/clipify</a></li>

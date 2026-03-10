@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🗑️ Deleted a branch <code>renovate/bun/typescript-and-types</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f21681e42f1b71d3d3ccc09dd6b52e0fca643c2d">TheDanniCraft/clipify</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/173">PR #173</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/github-actions/major-github-actions</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/cbdd277672087017e48744e475bec37f5c70b51d">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/de90c576131d970cd2c15d5e8fb4bd46d8bedc1b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/b8a57527f992ff8b80d8ebcc05530938e330c5e7">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/prepare-v2.0.1"><code>prepare-v2.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.0"><code>v2.0.0</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/motion-12.x</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/90e6b979b04d171b4bdf6c4cc71e6e8f43fae684">TheDanniCraft/clipify</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/clipify/pull/174">PR #174</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f82f297cd32b2511f985973366f7720c0027469b">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-v2.0.2"><code>hotfix-v2.0.2</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.1"><code>v2.0.1</code></a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/f6ee106a23df848001d564835143450e11fa17cf">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch <code>prepare-v2.0.1</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/8ea4174f1003331307d516b3fe747d1085091021">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/clipify/pull/173">PR #173</a> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/bcca5f285823c8dbe01bad9e962f0c97148b62dc">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

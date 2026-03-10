@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f1905332f5e2601bd939b7e675b7e13de64016f1">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/3cc2696d49c4e55cdd9e982f3331f451410771fd">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0a63d93046667c9c314a463b5a770e7288b93441">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fcc3d5bb0913c6ee892eba3f07b98d3c85e7a099">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0a63d93046667c9c314a463b5a770e7288b93441">TheDanniCraft/activity-log</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/6edd140ee143839952fed0f493bbd0c3eacc94ca">TheDanniCraft/activity-log</a></li>
 <li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/chore/qol-docs-refactor"><code>chore/qol-docs-refactor</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/109">PR #109</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>❌ Closed an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/47">#47</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/312a77fb91a52cacb3d3409ff22357c66c5048a5">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

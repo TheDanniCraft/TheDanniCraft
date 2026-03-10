@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/dc96fb6c81c0207736d9db9bd6b795e12fbed534">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/b035b7a6ff19c42914a6fe95b8c536b5fd6144bb">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/66a1c86b1ace00083899db8bf8aa96b88cf8ed53">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f503030e88c3d5e40bfe2f6e2780394658c02847">TheDanniCraft/activity-log</a></li>
-<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/107">PR #107</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗑️ Deleted a branch <code>fix/commit-try-catch</code> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/fix/fix-bugs"><code>fix/fix-bugs</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/fix/commit-try-catch"><code>fix/commit-try-catch</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🗑️ Deleted a branch <code>renovate/bun/jest-monorepo</code> in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/clipify/commit/6a224d18f43cdd04101036e19257f9cf9f28b62a">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.14"><code>v0.0.14</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/108">PR #108</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/ad46ba920efb05bffbd2437dc87b8948d22db3cf">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/26c554707393d6dabac7aff4421a77fa07d4a79f">TheDanniCraft/activity-log</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/108">PR #108</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/2556efccf247e3fbe8db4af6998d3fb723645eb2">TheDanniCraft/activity-log</a></li>
+<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/673b2a95eaa70afcec7a2fc2361df29f15e42017">TheDanniCraft/activity-log</a></li>
+<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/107">PR #107</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/9613e0d4da2edaebe1a9b299e0933982e85f9db5">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

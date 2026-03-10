@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>❌ Closed <a href="https://github.com/TheDanniCraft/activity-log/pull/72">PR #72</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/feat/47-feature-request-automatically-bump-major-version-tag-on-release"><code>feat/47-feature-request-automatically-bump-major-version-tag-on-release</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>👤 Unassigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/47">#47</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>👤 Assigned an issue <a href="https://github.com/TheDanniCraft/activity-log/issues/47">#47</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>🗣 Commented on issue <a href="https://github.com/TheDanniCraft/activity-log/issues/47">#47</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a>: <a href="https://github.com/TheDanniCraft/activity-log/issues/47#issuecomment-4034000693">View Comment</a></li>
 <li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.14"><code>v0.0.14</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/108">PR #108</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/ad46ba920efb05bffbd2437dc87b8948d22db3cf">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/26c554707393d6dabac7aff4421a77fa07d4a79f">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/108">PR #108</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/2556efccf247e3fbe8db4af6998d3fb723645eb2">TheDanniCraft/activity-log</a></li>
-<li>🚀 Published release <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.13"><code>v0.0.13</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/673b2a95eaa70afcec7a2fc2361df29f15e42017">TheDanniCraft/activity-log</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/107">PR #107</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/9613e0d4da2edaebe1a9b299e0933982e85f9db5">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

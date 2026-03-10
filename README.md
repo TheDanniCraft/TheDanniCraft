@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/93ef63a58b070789f3b03c82ca798026417edd4e">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/877ffad9032fb068aa786817be76102efb2bbf63">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/40d2e6da17a4d0cff454a87b40de6ce356f2fdb7">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0707d85be0e5cd4501ab37713850e32e78acc3b5">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0ce34d662dc6dd70c8ce6fe1da57e69604014f22">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/c8ce2f540b10590ea2632a54ad757946f71bcbab">TheDanniCraft/activity-log</a></li>
+<li>📥 Opened <a href="https://github.com/TheDanniCraft/activity-log/pull/110">PR #110</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
+<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/5dda0ebd1089c6d9e3dfced8d857999e0a7a3a5b">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/f1905332f5e2601bd939b7e675b7e13de64016f1">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/3cc2696d49c4e55cdd9e982f3331f451410771fd">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0a63d93046667c9c314a463b5a770e7288b93441">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/fcc3d5bb0913c6ee892eba3f07b98d3c85e7a099">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/0a63d93046667c9c314a463b5a770e7288b93441">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/4c2a2a0fcd1d58b9722e886e9fe358d196cd7f93">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/30d14433a2b9917e013ea2e2232681a2d4b51866">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to <a href="https://github.com/TheDanniCraft/activity-log/commit/6edd140ee143839952fed0f493bbd0c3eacc94ca">TheDanniCraft/activity-log</a></li>
-<li>🎉 Created a new branch <a href="https://github.com/TheDanniCraft/activity-log/tree/chore/qol-docs-refactor"><code>chore/qol-docs-refactor</code></a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>🔀 Merged <a href="https://github.com/TheDanniCraft/activity-log/pull/109">PR #109</a> in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

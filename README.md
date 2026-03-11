@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/activity-log/commit/f6050f2c730eeccca4303454de35990edf9040f8">TheDanniCraft/activity-log</a></li>
+<li>🔀 Merged PR #112 in <a href="https://github.com/TheDanniCraft/activity-log/pull/112">TheDanniCraft/activity-log</a></li>
+<li>📥 Opened PR #112 in <a href="https://github.com/TheDanniCraft/activity-log/pull/112">TheDanniCraft/activity-log</a></li>
+<li>🎉 Created a new branch fix-typo in <a href="https://github.com/TheDanniCraft/activity-log/tree/fix-typo">TheDanniCraft/activity-log</a></li>
 <li>🚀 Published release v0.0.16 in <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.16">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/activity-log/commit/d3e1ec09f07f30cd4472c34c194f57de6ee0404d">TheDanniCraft/activity-log</a></li>
 <li>🔀 Merged PR #111 in <a href="https://github.com/TheDanniCraft/activity-log/pull/111">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to patch-v0.0.16 in <a href="https://github.com/TheDanniCraft/activity-log/commit/973573cf9087425d7cee4df0c4e967e87f06b01d">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to patch-v0.0.16 in <a href="https://github.com/TheDanniCraft/activity-log/commit/5da54f7cd22e3084f7621e500985e55c33be0510">TheDanniCraft/activity-log</a></li>
 <li>📥 Opened PR #111 in <a href="https://github.com/TheDanniCraft/activity-log/pull/111">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to patch-v0.0.16 in <a href="https://github.com/TheDanniCraft/activity-log/commit/8a4b74d3e23febea5fe985b089431b11abcb8509">TheDanniCraft/activity-log</a></li>
-<li>🎉 Created a new branch patch-v0.0.16 in <a href="https://github.com/TheDanniCraft/activity-log/tree/patch-v0.0.16">TheDanniCraft/activity-log</a></li>
-<li>🚀 Published release v0.0.15 in <a href="https://github.com/TheDanniCraft/activity-log/releases/tag/v0.0.15">TheDanniCraft/activity-log</a></li>
-<li>🗣 Commented on issue #40 in <a href="https://github.com/TheDanniCraft/activity-log/issues/40#issuecomment-4035171044">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

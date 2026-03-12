@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/1599f1b573b71361c68e6cf7f27cac14947dd219">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/bca5944da0f12575cdaa511ace02b807041601d6">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/nextjs-turnstile-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in a private repository</li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/swatch-studio/commit/1f5849285478a5fa5ae69a12c67ef8485cd1a79b">TheDanniCraft/swatch-studio</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/tag-bumper/commit/a6697f5d36ba24cdcdf24eee612811ecad622560">TheDanniCraft/tag-bumper</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/e28ee32225c033fc6882e2bbd81d069cf5fdfcc8">TheDanniCraft/HLTV.JS</a></li>
-<li>📝 Committed to master in a private repository</li>
-<li>📝 Committed to main in <a href="https://github.com/TheDanniCraft/gamerforge-guide/commit/76f6be63a0f8f47641915768109b6a5afaee9acc">TheDanniCraft/gamerforge-guide</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

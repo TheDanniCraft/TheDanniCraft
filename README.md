@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/1273e390af95a5a5883f9256664e5bdeff222a2f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/c091598d3324cda5202a56593b4347b5fe281e2f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/5702fdddb31905fbc68414a4c666c749dbdaca7a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/df0f29b97a54b3f05bf68f5e2d7500575d712ff2">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/3982b1448d38f8c6832eef9a87b8f3e5b03295c1">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/5dfeadf0c95bd21ea054a31b650c056290300a04">TheDanniCraft/clipify</a></li>
 <li>🔎 Created PR #181 in <a href="https://github.com/TheDanniCraft/clipify/pull/181#pullrequestreview-3946922139">TheDanniCraft/clipify</a></li>
-<li>🔎 Created PR #181 in <a href="https://github.com/TheDanniCraft/clipify/pull/181#pullrequestreview-3946920818">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

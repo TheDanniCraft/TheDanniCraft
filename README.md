@@ -87,8 +87,8 @@
 <ol>
 <li>📝 Committed to hotfix-v2.0.3 in <a href="https://github.com/TheDanniCraft/clipify/commit/ec324f372b238e307b7fee6bffbf136e48c48276">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.3 in <a href="https://github.com/TheDanniCraft/clipify/commit/093b37ab8952d825d927f8c31d7d10298faad23f">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7794358006b96538f140dfe92077628d709c9b3d">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.3 in <a href="https://github.com/TheDanniCraft/clipify/commit/cd3d8ee3c9fcf10b6cab1668b4dfa2f595ced2c1">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #180 in <a href="https://github.com/TheDanniCraft/clipify/pull/180">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.3 in <a href="https://github.com/TheDanniCraft/clipify/commit/769de6759620fb8531b0aac6f7cd7ae0254fed16">TheDanniCraft/clipify</a></li>

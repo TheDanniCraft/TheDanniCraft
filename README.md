@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/d890620258ccc13dffffc0612a8e19743b153b75">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/1e1646cbd46f9e2ebeb0dcbb5883268ecc1c3848">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/2b3068c04244f48ba300d8a7aa90ab958043e39d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/307ff355401ca6fccd1e1235478ae006fc103560">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/ddbbd13cf9269a54e1a815428842b9cce02d67ba">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/12e498548f744d3b0ffe27851f5de3689e45508f">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/bc1019911a7cbae8a79f77e202780a445de72284">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/5f291a1530540fcfb4087ba9aa0af6110311096b">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #181 in <a href="https://github.com/TheDanniCraft/clipify/pull/181">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/c5fa443da0458455058609ca8375e03d02916aa4">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/8cfff5ee80698b8bd4dff0cb0268d91ed50b0c98">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-v2.0.4">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

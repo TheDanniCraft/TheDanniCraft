@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/2a7ea03fa2ec9031b474bffa1152c78cc8e476d1">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/b756fe43aa5068c2d586e6048c56bd5ba6b61a40">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/100a244d803687c2aca58d1a9b8644d222b3dae8">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/d890620258ccc13dffffc0612a8e19743b153b75">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/1e1646cbd46f9e2ebeb0dcbb5883268ecc1c3848">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/ddbbd13cf9269a54e1a815428842b9cce02d67ba">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/12e498548f744d3b0ffe27851f5de3689e45508f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/ef5c1914d7ceca4a3308ab5b1b0449893f49053c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/bc1019911a7cbae8a79f77e202780a445de72284">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/5f291a1530540fcfb4087ba9aa0af6110311096b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/196ece0824601ebd299963d4fc3daf612a56b138">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/ddcdc06a7c96036c1b514ee3a6da77e2f4ae94dd">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/f50c37790555f96cacc8fa46f897b867008e0b15">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/637d0c4552bf808d6e45d4ea239fcc65e400a767">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/1273e390af95a5a5883f9256664e5bdeff222a2f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/c091598d3324cda5202a56593b4347b5fe281e2f">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/df0f29b97a54b3f05bf68f5e2d7500575d712ff2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/7de02904e33d109528ad544d912d91cc32458e19">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/a98efa64f9798c729ce91cedfdf7c01f06dee7e3">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/db09c0c75446153e23fd27d13ef4ac567b539106">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/3982b1448d38f8c6832eef9a87b8f3e5b03295c1">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/5dfeadf0c95bd21ea054a31b650c056290300a04">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🎉 Created a new branch patch-v2.0.5 in <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v2.0.5">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/activity-log/commit/10fa0882da5f5d167677d856e6249c23b01cc909">TheDanniCraft/activity-log</a></li>
 <li>🚀 Published release v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fe5ec905d7a5b95de7d48f79c2439e15e841a4a8">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/0db6d9587b2e3ef7f388e2a74ca3905736c6828a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/76e401e3e4f3dca63a1a39a08b685eb6b5527053">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on PR #181 in <a href="https://github.com/TheDanniCraft/clipify/issues/181#issuecomment-4060502189">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.0.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/a2dec8db66bba50f9b182cfb5a7b6da8ccf58d76">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

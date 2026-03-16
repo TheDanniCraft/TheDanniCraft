@@ -85,7 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🚀 Published release v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot/releases/tag/v0.0.1">Template-Pilot/template-pilot</a></li>
+<li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/843cb514959c30a971bc011303415cc9177e3896">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/c59a6f24d476a4481db1a69fd0f71cc293e5c2a8">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>

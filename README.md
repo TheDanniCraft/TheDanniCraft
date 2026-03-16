@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/125450ee08d132be0a5b0414b25d6cdbbe27680c">Template-Pilot/template-pilot</a></li>
 <li>🚀 Published release v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot/releases/tag/v0.0.1">Template-Pilot/template-pilot</a></li>
+<li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/43a95e1e2160a06764bd49820c83a64b87960fd7">Template-Pilot/template-pilot</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/95d5f7481b726893f44d04c13f2da0b3cc29f20f">Template-Pilot/template-pilot</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/125450ee08d132be0a5b0414b25d6cdbbe27680c">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/b841a7583de82903f918125c3ab1a78ed795af1d">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/f93526519589ad9d37180b8b8fd1bba031fcf504">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/be3f039a0545ddf5d3f9dd21c12133fe08abe235">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
-<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/44c9a360f42993e4312e128d19d18b1da98d536f">Template-Pilot/template-pilot</a></li>
-<li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
-<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/843cb514959c30a971bc011303415cc9177e3896">Template-Pilot/template-pilot</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

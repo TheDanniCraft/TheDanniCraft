@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🍴 Forked <a href="https://github.com/coollabsio/jean">coollabsio/jean</a></li>
 <li>🚀 Published release v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot/releases/tag/v0.0.1">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/c38f05032d3159b63351dc8d85728d5dbabe632e">Template-Pilot/template-pilot</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/125450ee08d132be0a5b0414b25d6cdbbe27680c">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/b841a7583de82903f918125c3ab1a78ed795af1d">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/f93526519589ad9d37180b8b8fd1bba031fcf504">Template-Pilot/template-pilot</a></li>
-<li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

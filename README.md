@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/f93526519589ad9d37180b8b8fd1bba031fcf504">Template-Pilot/template-pilot</a></li>
+<li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/be3f039a0545ddf5d3f9dd21c12133fe08abe235">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/44c9a360f42993e4312e128d19d18b1da98d536f">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/c59a6f24d476a4481db1a69fd0f71cc293e5c2a8">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>🚀 Published release v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.6">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch patch-v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #184 in <a href="https://github.com/TheDanniCraft/clipify/pull/184">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e3ee8c16e79dcf4645ced3d37967c2345cbd9a69">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

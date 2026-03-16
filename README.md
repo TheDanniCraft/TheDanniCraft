@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot/releases/tag/v0.0.1">Template-Pilot/template-pilot</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/843cb514959c30a971bc011303415cc9177e3896">Template-Pilot/template-pilot</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/c59a6f24d476a4481db1a69fd0f71cc293e5c2a8">Template-Pilot/template-pilot</a></li>
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>🚀 Published release v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.6">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e3ee8c16e79dcf4645ced3d37967c2345cbd9a69">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #184 in <a href="https://github.com/TheDanniCraft/clipify/pull/184">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch patch-v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v2.0.6">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v2.0.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/34343bf806c9b1c244569f6d7c786e3f77c4be5a">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch patch-v2.0.5 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

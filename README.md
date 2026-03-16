@@ -85,7 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🚀 Published release v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot/releases/tag/v0.0.1">Template-Pilot/template-pilot</a></li>
+<li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>🚀 Published release v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.0.6">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #184 in <a href="https://github.com/TheDanniCraft/clipify/pull/184">TheDanniCraft/clipify</a></li>

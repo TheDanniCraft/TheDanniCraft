@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on issue #175 in <a href="https://github.com/coollabsio/jean/issues/175#issuecomment-4073252995">coollabsio/jean</a></li>
 <li>🎉 Created a new branch tmp in <a href="https://github.com/TheDanniCraft/jean/tree/tmp">TheDanniCraft/jean</a></li>
 <li>📝 Committed to main in <a href="https://github.com/TheDanniCraft/jean/commit/6eec5f2b52e09d91eaf0a271bf889ea1b5754c68">TheDanniCraft/jean</a></li>
 <li>🍴 Forked <a href="https://github.com/coollabsio/jean">coollabsio/jean</a></li>
@@ -94,7 +95,6 @@
 <li>🗑️ Deleted a tag v0.0.1 in <a href="https://github.com/Template-Pilot/template-pilot">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/43a95e1e2160a06764bd49820c83a64b87960fd7">Template-Pilot/template-pilot</a></li>
 <li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/95d5f7481b726893f44d04c13f2da0b3cc29f20f">Template-Pilot/template-pilot</a></li>
-<li>📝 Committed to master in <a href="https://github.com/Template-Pilot/template-pilot/commit/125450ee08d132be0a5b0414b25d6cdbbe27680c">Template-Pilot/template-pilot</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

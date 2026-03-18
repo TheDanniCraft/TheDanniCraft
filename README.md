@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #189 in <a href="https://github.com/TheDanniCraft/clipify/pull/189">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/30a4b44d3846926b8cc9e839374c4b0674d48e71">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/21b62d74acbd173d58482c119cc5dd34f721f448">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b46977bc66c591294148be370d6e6a6875c52988">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/motion-12.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/474f0fd169ea89588840b67340c962ef3cd33bc2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to tmp in <a href="https://github.com/TheDanniCraft/jean/commit/6fac19f8385e390c174217f096afacbccef4e7c6">TheDanniCraft/jean</a></li>
-<li>📝 Committed to tmp in <a href="https://github.com/TheDanniCraft/jean/commit/c47a19326cb2dca2c5302fe0201090b9060be9c0">TheDanniCraft/jean</a></li>
-<li>📝 Committed to tmp in <a href="https://github.com/TheDanniCraft/jean/commit/d2149c86f5af80118490bd7c1aeb82752c55cd10">TheDanniCraft/jean</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

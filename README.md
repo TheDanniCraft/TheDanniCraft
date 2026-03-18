@@ -92,8 +92,8 @@
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/21b62d74acbd173d58482c119cc5dd34f721f448">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b46977bc66c591294148be370d6e6a6875c52988">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/motion-12.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3c39b36641f913a52e121d3145bda2503d9e25e7">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/database-(drizzlepg) in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3c39b36641f913a52e121d3145bda2503d9e25e7">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->

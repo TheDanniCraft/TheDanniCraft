@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/1ee68d70b5b01db9e0f0fcd36fac3cdc4113cd1f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/7409a653cf315ee378d199a9ed056e620035f5a8">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/965b735a276583a47b9dea3ec6038a036ef2221f">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch patch-v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v2.0.6">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/21b62d74acbd173d58482c119cc5dd34f721f448">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b46977bc66c591294148be370d6e6a6875c52988">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/motion-12.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3c39b36641f913a52e121d3145bda2503d9e25e7">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/kunal12203/Codex-CLI-Compact">kunal12203/Codex-CLI-Compact</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e53fb0495bd2e90ef4ba3fc08f3779ea15747f72">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/vercel-nft-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7366310302005cce886f8870ca9fcefb6114cfac">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/a8730ea41b3ba003e3a6859dd8a48de3db6b444b">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/020d0acb657b7d21e093198f55540891c3a40ff3">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/1ee68d70b5b01db9e0f0fcd36fac3cdc4113cd1f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/7409a653cf315ee378d199a9ed056e620035f5a8">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/965b735a276583a47b9dea3ec6038a036ef2221f">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch patch-v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v2.0.6">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/c361155dad078c6fb0afa2ee718d13aba3db8d38">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

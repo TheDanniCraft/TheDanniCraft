@@ -86,14 +86,14 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/5d9bf6bfd81afaaa8bbc0e652a5edcf62031a338">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/eb623f52e64d27dfeca07081bf2be4308ea26843">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/ws-8.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a5f1432801903bd3e63f74808e95b6bffc3fd9cc">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/vercel-nft-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8a5580246580650857c5d47f7fc31768185a3be5">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5afe65651f7f50c95592fa0781ceb4404bb5265b">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->

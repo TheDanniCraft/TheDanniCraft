@@ -91,8 +91,8 @@
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/abc534588583dee54c0edec5adaacabba275456b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/09c59fe01e4e03a1270eec8cffc04b8b79d067c9">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/5d9bf6bfd81afaaa8bbc0e652a5edcf62031a338">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/eb623f52e64d27dfeca07081bf2be4308ea26843">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/ws-8.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a5f1432801903bd3e63f74808e95b6bffc3fd9cc">TheDanniCraft/clipify</a></li>
 </ol>

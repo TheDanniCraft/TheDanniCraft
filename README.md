@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9e2123a5e927f7a0f9f1ad0aee7d8eba00bd324a">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/486d9059aef0c70cddf8d7d0cbcceb052158191b">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/recharts-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/major-stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/40e26e2c0920d7dd8d93eb076c7adc531996f66b">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5bc634a0d1e931e95149aaab81d7f1638d6f69c1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/c9a6c886f55deb5babc0ee10a34f6bb90310ffe2">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #189 in <a href="https://github.com/TheDanniCraft/clipify/pull/189">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/ef987bafb0ab110892df935dc57a7832b16377cf">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/bedb39580c957d8c3e9a378033039b851d6c6d7d">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/5c0539c72d1a51c029ad9b45fb1842d3215149e8">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on PR #189 in <a href="https://github.com/TheDanniCraft/clipify/issues/189#issuecomment-4124842868">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/abc534588583dee54c0edec5adaacabba275456b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.1.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/09c59fe01e4e03a1270eec8cffc04b8b79d067c9">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

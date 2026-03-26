@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to hotfix-migrations in <a href="https://github.com/TheDanniCraft/clipify/commit/4f4f5713f4911231df0ecd8954dbeb5e14354e48">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch hotfix-migrations in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-migrations">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/re2js-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/286fb5eb6d7157b6d39b1ff6c7b94a4b1ab94e75">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0c64e847eac6893b8d22bc287a2eef5974178407">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.2">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch hotfix-v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0298de729c5f6ad425ccd3eb21f4679ab85f8ec5">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #205 in <a href="https://github.com/TheDanniCraft/clipify/pull/205">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify/commit/7886a41bb53eb0b12ed78aeb38d1ba51f4311773">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to hotfix-v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify/commit/a6eb0f50211ae7035cca624d75ba3d1e10ee7a85">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #205 in <a href="https://github.com/TheDanniCraft/clipify/pull/205">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch hotfix-v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-v2.1.2">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a tag v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch hotfix-migrations in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4bfb4c83f0220f28b4cfa2c890437d5b0b84529c">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #207 in <a href="https://github.com/TheDanniCraft/clipify/pull/207">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #207 in <a href="https://github.com/TheDanniCraft/clipify/pull/207">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

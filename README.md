@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🎉 Created a new branch hotfix-migrations in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-migrations">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.2">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch hotfix-v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0298de729c5f6ad425ccd3eb21f4679ab85f8ec5">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📥 Opened PR #205 in <a href="https://github.com/TheDanniCraft/clipify/pull/205">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch hotfix-v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix-v2.1.2">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.1.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.1">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch hotfix-v2.1.1 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

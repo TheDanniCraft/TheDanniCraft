@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #211 in <a href="https://github.com/TheDanniCraft/clipify/pull/211">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to v1.2.3 in <a href="https://github.com/TheDanniCraft/clipify/commit/f6be7ee551d2e5ae064cb17045030d0d62f8008b">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to v1.2.3 in <a href="https://github.com/TheDanniCraft/clipify/commit/3475486756fa1b6587269cef1c5e8263d685372e">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/f48d3d7187ecf5e9628b41d5bc0695cb360d042b">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch v1.2.3 in <a href="https://github.com/TheDanniCraft/clipify/tree/v1.2.3">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/00aae76084613e5b7018d166431b72aad613b988">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/database-(drizzlepg) in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/tabler-icons-react-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a46fc8df7a83f3f9a276a251ba48580a43aaf487">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/re2js-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/286fb5eb6d7157b6d39b1ff6c7b94a4b1ab94e75">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0c64e847eac6893b8d22bc287a2eef5974178407">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.2">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a tag v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch hotfix-migrations in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4bfb4c83f0220f28b4cfa2c890437d5b0b84529c">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

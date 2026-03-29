@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/tabler-icons-react-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a46fc8df7a83f3f9a276a251ba48580a43aaf487">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/286fb5eb6d7157b6d39b1ff6c7b94a4b1ab94e75">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗑️ Deleted a tag v2.1.2 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch hotfix-migrations in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4bfb4c83f0220f28b4cfa2c890437d5b0b84529c">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #207 in <a href="https://github.com/TheDanniCraft/clipify/pull/207">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #207 in <a href="https://github.com/TheDanniCraft/clipify/pull/207">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

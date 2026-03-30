@@ -91,8 +91,8 @@
 <li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/f48d3d7187ecf5e9628b41d5bc0695cb360d042b">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch v1.2.3 in <a href="https://github.com/TheDanniCraft/clipify/tree/v1.2.3">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/00aae76084613e5b7018d166431b72aad613b988">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/database-(drizzlepg) in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/00aae76084613e5b7018d166431b72aad613b988">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/tabler-icons-react-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a46fc8df7a83f3f9a276a251ba48580a43aaf487">TheDanniCraft/clipify</a></li>
 </ol>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/minimatch-10.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0019727faa6791b7efe819696c6377681fd22f4e">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.1.3 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.3">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.2.3 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/57381f1076ba52307189257e805a901b42f5ff55">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗣 Commented on PR #212 in <a href="https://github.com/TheDanniCraft/clipify/issues/212#issuecomment-4153643836">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.2.3 in <a href="https://github.com/TheDanniCraft/clipify/commit/d65b5b331bf617e19c21d7b32bb4e80f114c7889">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #212 in <a href="https://github.com/TheDanniCraft/clipify/pull/212">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch v1.2.3 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>❌ Closed PR #211 in <a href="https://github.com/TheDanniCraft/clipify/pull/211">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

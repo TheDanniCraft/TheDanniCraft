@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/2f8ad34d852d3168e9505752a2d9493cffe6f396">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #219 in <a href="https://github.com/TheDanniCraft/clipify/pull/219">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/tree/v2.1.4">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/activity-log/commit/012095d1bfa75f4c4d42fa2791e3254b5a8e5336">TheDanniCraft/activity-log</a></li>
 <li>⭐ Starred <a href="https://github.com/theOehrly/Fast-F1">theOehrly/Fast-F1</a></li>
-<li>🗑️ Deleted a branch renovate/bun/minimatch-10.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

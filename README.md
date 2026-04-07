@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/901a37ae4a24591d7edb10592c5da1219c8535a1">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/rate-limiter-flexible-11.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8c6982ff7c98c1b5bc16519b44aae13b09b755ad">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/6ad28c68deebbd8d2f8bcb5f90dfbeeafe6c1c13">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/07e5fd46d11e651ff62882b8912b8954b6659858">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/dotenv-17.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/71ba51ce50db2f1ae8bdccc25ff99f2e93879dd9">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/26b14e19f71f3198e4d882a465afb7e583eb7381">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/2f8ad34d852d3168e9505752a2d9493cffe6f396">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #219 in <a href="https://github.com/TheDanniCraft/clipify/pull/219">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/tree/v2.1.4">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

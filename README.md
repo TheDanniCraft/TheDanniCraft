@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d40336c968cf224b08d63fc447a57c149186e81a">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/c5d068186b45cbc7f879e5e3246a2a62f2e0db87">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/349b137fa4e32ffbee29c4d889274346ce750ced">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/major-stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/00dbcd628b67311f8673ff6d5bea7aadd463f1f9">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a050674ca633f313013495ca3cc0a04032b45dcd">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/901a37ae4a24591d7edb10592c5da1219c8535a1">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/rate-limiter-flexible-11.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8c6982ff7c98c1b5bc16519b44aae13b09b755ad">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

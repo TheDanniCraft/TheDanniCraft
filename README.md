@@ -89,8 +89,8 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/901a37ae4a24591d7edb10592c5da1219c8535a1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/rate-limiter-flexible-11.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8c6982ff7c98c1b5bc16519b44aae13b09b755ad">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/6ad28c68deebbd8d2f8bcb5f90dfbeeafe6c1c13">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/07e5fd46d11e651ff62882b8912b8954b6659858">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/dotenv-17.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>

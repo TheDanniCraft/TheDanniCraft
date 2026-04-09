@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/css-tooling in a private repository</li>
+<li>📝 Committed to master in a private repository</li>
 <li>🚀 Published release v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.4">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #219 in <a href="https://github.com/TheDanniCraft/clipify/pull/219">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗣 Commented on PR #219 in <a href="https://github.com/TheDanniCraft/clipify/issues/219#issuecomment-4216634930">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/commit/a047e727ec86204ca3b632e4d823c03beb602584">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/09a3117c681384d6f6bf64c3278ad20e24fe22b7">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on PR #219 in <a href="https://github.com/TheDanniCraft/clipify/issues/219#issuecomment-4210301330">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

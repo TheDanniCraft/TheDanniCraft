@@ -90,8 +90,8 @@
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/09a3117c681384d6f6bf64c3278ad20e24fe22b7">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on PR #219 in <a href="https://github.com/TheDanniCraft/clipify/issues/219#issuecomment-4210301330">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/major-nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d5d35247b66d32609c4e7145c14df6a28492c9af">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/major-nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to renovate/bun/major-nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify/commit/1095772f1aa453bd25033299c5b115595994a95c">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3489bd46c9fdfaec298421bd45a74ac98335ef3e">TheDanniCraft/clipify</a></li>

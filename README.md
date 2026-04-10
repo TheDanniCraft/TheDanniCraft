@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d5f8e941acff72bef0347937ca3905d8e505c11a">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch add-grafana-daashbaords in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/040b0894cb43553b743a2d76dec7574828a76b62">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #231 in <a href="https://github.com/TheDanniCraft/clipify/pull/231">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗑️ Deleted a branch renovate/bun/css-tooling in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 <li>🚀 Published release v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.1.4">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch v2.1.4 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #219 in <a href="https://github.com/TheDanniCraft/clipify/pull/219">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

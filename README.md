@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/dotenv-17.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2732c135351dd419470eeac8cc2b15b5bdaa76c1">TheDanniCraft/clipify</a></li>
 <li>🍴 Forked <a href="https://github.com/formbricks/n8n-node">formbricks/n8n-node</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/211dc9948d64b35e4325401e16d28464321fadcb">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/af3f52137617dd35daa97b8058489a46754905b3">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/activity-log/commit/305b8874456b1c4a01b02dde9a9ec4e408fce56f">TheDanniCraft/activity-log</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

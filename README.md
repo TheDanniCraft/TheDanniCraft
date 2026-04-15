@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/0d6ce625c94267e139485a1f4739aba3a6dfe4cc">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/05ef1d407d357b219767e05bf5c372336298a79c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/a29cb9b3f0002630394d16fb829f473b2d284d05">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #236 in <a href="https://github.com/TheDanniCraft/clipify/pull/236">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>🍴 Forked <a href="https://github.com/formbricks/n8n-node">formbricks/n8n-node</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/211dc9948d64b35e4325401e16d28464321fadcb">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/tree/rewrite-portfolio">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/a329ee8bc4224ff20232bf11e71c9573b71e4814">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/51057e9d47d9206a947e61ea47ba2515f562685a">TheDanniCraft/clipify</a></li>
 <li>🗣 Commented on PR #236 in <a href="https://github.com/TheDanniCraft/clipify/issues/236#issuecomment-4266913244">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/c327f6b2d20520e026d99e0c52f7237c09308b5c">TheDanniCraft/clipify</a></li>
@@ -92,9 +93,8 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/846c7d3bc8427ef5d88b17375842dfb48fb7b84d">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/f4286983eab23397bbc49ad9d2e1717b6e1015ed">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8a1eec9ace9d4aa8d2290dcdc5e1537bf1f6ec80">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify/commit/f2fe085b623b6457c7d2aa2123c8cffd71911f77">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8a1eec9ace9d4aa8d2290dcdc5e1537bf1f6ec80">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

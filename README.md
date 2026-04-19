@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #243 in <a href="https://github.com/TheDanniCraft/clipify/pull/243">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/commit/99a52a791f8d23ffba798d711528cab9afb1ee7e">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/commit/63cdac7f84a8767093b3c250cb5005624229d820">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8780e0268a5124acd30268d25c99055fd8ade630">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/rate-limiter-flexible-11.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/tree/patch-v2.2.1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.0.6 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e59fdd25096e483c7ac4a03f444c68df4fb1085b">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #236 in <a href="https://github.com/TheDanniCraft/clipify/pull/236">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9721b4963f205ff4511e9bb06893b2f9b5c214e4">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/f6fea6df9450984190b52dd766fd4ff27f20a0f2">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/c0a9f63ef8e474d5fc180f25922c5c8f2a81e598">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.2.0 in <a href="https://github.com/TheDanniCraft/clipify/commit/a329ee8bc4224ff20232bf11e71c9573b71e4814">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

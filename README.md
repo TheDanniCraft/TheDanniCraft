@@ -87,8 +87,8 @@
 <ol>
 <li>🗑️ Deleted a branch renovate/github-actions/major-github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/31adf36a1f3a7986b1f1553fe9f86a212cea5bd8">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch grafana-dashbaord-sync in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/41bf464edca7fa21532c1ef71c2df0cb2c1e4bb9">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch grafana-dashbaord-sync in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #246 in <a href="https://github.com/TheDanniCraft/clipify/pull/246">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to grafana-dashbaord-sync in <a href="https://github.com/TheDanniCraft/clipify/commit/1b58caf05ef173ee76432116a0f7a619e3125ce1">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in a private repository</li>

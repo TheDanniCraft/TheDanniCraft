@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/commit/b5dae2e7b426696de1dc06ab88979e8c170835d9">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/github-actions/major-github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/31adf36a1f3a7986b1f1553fe9f86a212cea5bd8">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch grafana-dashbaord-sync in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to grafana-dashbaord-sync in <a href="https://github.com/TheDanniCraft/clipify/commit/d7895da5c118119f164223dfdb9119f61f080103">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #246 in <a href="https://github.com/TheDanniCraft/clipify/pull/246">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch grafana-dashbaord-sync in <a href="https://github.com/TheDanniCraft/clipify/tree/grafana-dashbaord-sync">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

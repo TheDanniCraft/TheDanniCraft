@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a7afbf35c8b428bef365f7d1a1d47c51597b7c40">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/92110ccc24764382d2f60e0476914c9fac5be5e8">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e851c38a62dce930a571a4a90fd32c633286c644">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d25d2c4300292af25cc566516e81d253b5bee684">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #243 in <a href="https://github.com/TheDanniCraft/clipify/pull/243">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/commit/73ca5a2fe16c9ec6c34a87fc06ff91f1a295a5c4">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/commit/fca979661da8702196f3fd2d473eaf54d5e9b347">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/commit/b5dae2e7b426696de1dc06ab88979e8c170835d9">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/github-actions/major-github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/31adf36a1f3a7986b1f1553fe9f86a212cea5bd8">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch grafana-dashbaord-sync in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

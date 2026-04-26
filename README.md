@@ -94,7 +94,7 @@
 <li>🚀 Published release v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d25d2c4300292af25cc566516e81d253b5bee684">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #243 in <a href="https://github.com/TheDanniCraft/clipify/pull/243">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/commit/73ca5a2fe16c9ec6c34a87fc06ff91f1a295a5c4">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

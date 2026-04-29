@@ -86,15 +86,15 @@
   <!--START_SECTION:activity-->
 <ol>
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d536a6a5f3c8e2b8a520b5dde6b733a8b5ff4acc">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/bfef6e321b9e1d394b7dc1074b4cf9f4f0af89d3">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a7afbf35c8b428bef365f7d1a1d47c51597b7c40">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/92110ccc24764382d2f60e0476914c9fac5be5e8">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e851c38a62dce930a571a4a90fd32c633286c644">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.1">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch patch-v2.2.1 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

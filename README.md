@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/67d3c8bf19223498bd9bb802f3f7aecc3d230c09">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b9dddac90d2406248455f749e5f03792b1941a3d">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/ac734809a49738a17213cd52843fb1c4809854a8">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/commit/2ffaddc734a52213dcc6d27294144d3ae4b9514c">TheDanniCraft/Portfolio</a></li>
 <li>⭐ Starred <a href="https://github.com/webadderallorg/Recordly">webadderallorg/Recordly</a></li>
 <li>🍴 Forked <a href="https://github.com/cmauf/kumadb-migrator">cmauf/kumadb-migrator</a></li>
 <li>🗣 Commented on issue #310624 in <a href="https://github.com/microsoft/vscode/issues/310624#issuecomment-4364747269">microsoft/vscode</a></li>
-<li>📝 Committed to rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/commit/90406bc786d66a2eadefbb9801838098d879dc44">TheDanniCraft/Portfolio</a></li>
-<li>🗑️ Deleted a branch renovate/npm/eslint in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/1a724e20a73c00c6d9ce1d88408e551db01364f6">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/746325e3e4ac2b31cc55b55cbd521d406a9c7950">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/8b0cd8777f9b33addbf8fb13cac0eaca98b793d4">TheDanniCraft/Portfolio</a></li>
-<li>🗑️ Deleted a branch renovate/npm/npm-next-vulnerability in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

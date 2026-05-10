@@ -93,8 +93,8 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cc7730b13fe3c7442dde77e259de5be3f9c9cac5">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/51b231f14a98dbc3c8599458028e9ad25cc8d3ac">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e7046e4770a52f4008af1eab96d5bdf00b39518b">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e7046e4770a52f4008af1eab96d5bdf00b39518b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

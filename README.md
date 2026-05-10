@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #265 in <a href="https://github.com/TheDanniCraft/clipify/pull/265">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/commit/99737c59862098c6baaf90e19b0479538ac67964">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/tree/security/patch-findings">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cfab41885502534bc1a0e70a07fa8ab1be223cc1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/jest-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b9939d676299b7bba07e8510e3e213e31e18c6e9">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/tailwind in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e10b3033dc9e673a7c4c59ad3f47cffcc07ad4ff">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/rate-limiter-flexible-11.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/107d02ca99b711b359ae8cb534990673124223aa">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/c6e01995b8261fa317a2c50ca6d8f429080d3d5d">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/tabler-icons-react-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cc7730b13fe3c7442dde77e259de5be3f9c9cac5">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

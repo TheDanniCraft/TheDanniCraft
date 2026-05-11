@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/commit/3f899d39838f9804bc4ee016e0cce1c79547ef7f">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #265 in <a href="https://github.com/TheDanniCraft/clipify/pull/265">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/commit/99737c59862098c6baaf90e19b0479538ac67964">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/tree/security/patch-findings">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b9939d676299b7bba07e8510e3e213e31e18c6e9">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/tailwind in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e10b3033dc9e673a7c4c59ad3f47cffcc07ad4ff">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/rate-limiter-flexible-11.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

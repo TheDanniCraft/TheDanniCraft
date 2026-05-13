@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/515c7164979f7f3f511f91ffb1377f99117a8730">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/874618baccff6e12e839b50dab5b7b29b6b4d833">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d30ed2c2e3b38cc4f2f977c0417fea7fcc32d771">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/ws-8.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d37bc113c5f28c5fa99a27a9b60794650dd821e4">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fa8d179d7ade53290c233519c2750faab1fe968f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify/commit/c04bf085e904872161d3aaee0968e6a843a21b70">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/184645d5fb701b1a657ed8dcbedcab5808899ab0">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #265 in <a href="https://github.com/TheDanniCraft/clipify/pull/265">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/commit/3f899d39838f9804bc4ee016e0cce1c79547ef7f">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #265 in <a href="https://github.com/TheDanniCraft/clipify/pull/265">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/commit/99737c59862098c6baaf90e19b0479538ac67964">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/tree/security/patch-findings">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

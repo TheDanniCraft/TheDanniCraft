@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fa8d179d7ade53290c233519c2750faab1fe968f">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify/commit/c04bf085e904872161d3aaee0968e6a843a21b70">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/184645d5fb701b1a657ed8dcbedcab5808899ab0">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #265 in <a href="https://github.com/TheDanniCraft/clipify/pull/265">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/commit/3f899d39838f9804bc4ee016e0cce1c79547ef7f">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #265 in <a href="https://github.com/TheDanniCraft/clipify/pull/265">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/commit/99737c59862098c6baaf90e19b0479538ac67964">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch security/patch-findings in <a href="https://github.com/TheDanniCraft/clipify/tree/security/patch-findings">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cfab41885502534bc1a0e70a07fa8ab1be223cc1">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/jest-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b9939d676299b7bba07e8510e3e213e31e18c6e9">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/tailwind in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e10b3033dc9e673a7c4c59ad3f47cffcc07ad4ff">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

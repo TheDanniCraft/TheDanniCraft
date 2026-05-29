@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>⭐ Starred <a href="https://github.com/safishamsi/graphify">safishamsi/graphify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2193567d0adf1d39f0d5870f0073e26ce448a4c3">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/ws-8.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2cb483f9b2aa5da8a3c7c6f013f738bafc926011">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>🗑️ Deleted a branch renovate/bun/motion-12.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4f6bc630579235acb43a6e8e4d2c762fc7a80d40">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/vercel-nft-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a0c936ca1b3c9c612ac0d9e6a21273db6bb0d3d6">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

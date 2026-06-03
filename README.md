@@ -90,8 +90,8 @@
 <li>🗑️ Deleted a branch renovate/bun/ws-8.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2cb483f9b2aa5da8a3c7c6f013f738bafc926011">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/github-actions/github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0e417313afe5f62dfae61dc94bab0ce3a84f5cb5">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/github-actions/github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/motion-12.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4f6bc630579235acb43a6e8e4d2c762fc7a80d40">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/vercel-nft-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>

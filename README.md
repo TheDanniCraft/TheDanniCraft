@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v2.2.3 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.3">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/tailwind in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/6ce332c2b51c7c35657a56a3b037f4cdc33cd276">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch improve-code-quality in <a href="https://github.com/TheDanniCraft/clipify/tree/improve-code-quality">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/edbeecab63518da50fb9336b1f0502694767e246">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5a02fc1b385b6cdcf0822dbe72a67f27a0c19e49">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3f1089d20286e3b18202dea7f5cd103d5cd4f05a">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/rate-limiter-flexible-11.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a82289a422a5d18aec1ec6275d1e31a2423aea79">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

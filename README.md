@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/commit/8c352867e959fe40dd56f4f8f5f3aef1cef07e52">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/commit/6c42ae1c7feef564b9e4246e98a8f2cbc576b4f4">TheDanniCraft/Portfolio</a></li>
 <li>🚀 Published release v2.2.3 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.3">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/tailwind in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/edbeecab63518da50fb9336b1f0502694767e246">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5a02fc1b385b6cdcf0822dbe72a67f27a0c19e49">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

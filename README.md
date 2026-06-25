@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/commit/c8130a990a9f95c086b463f8c12680318ffb380e">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/commit/ba9aa638afecafd5c5f4f6d8dc9a664790dab5d2">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch renovate/bun/vercel-ncc-0.x in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/activity-log/commit/0667911356c0cf65b3bc089838fd3b5fb9872ec5">TheDanniCraft/activity-log</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7d53137dc3fd222cb57fbe90aae6c12474338722">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/activity-log">TheDanniCraft/activity-log</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/activity-log/commit/e10ee8e6bcd7386ff79836481c86a2b29e2010ba">TheDanniCraft/activity-log</a></li>
-<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

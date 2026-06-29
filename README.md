@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🎉 Created a new branch feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/community-cache-refresh">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/motion-12.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/ce1d1aea0e00656f6cc3d1d7887cb26948b145b6">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/axios-1.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2c5eb1c81cb10fcee12c2f88130ef0c75e381a77">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/recharts-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/22eda4959998412701f661f89a92caf01f0aa5e5">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/1d154982ef9b711af6dfc535e1796090a979a89b">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v2.2.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.4">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a tag v2.2.4 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d0b28f5a34f68b0958c62e62531fba75dedd3aaf">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #304 in <a href="https://github.com/TheDanniCraft/clipify/pull/304">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2a054f68d55dfb00ceb650530fc10fc60631cdad">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify/commit/77b64dd7f24824a1cd188a73f62ff6f8439d586f">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #304 in <a href="https://github.com/TheDanniCraft/clipify/pull/304">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify/commit/1fc49a69326ae8c78e1cee37d87fd91bb99a3690">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify/commit/0f8ff92e02ca0399ce7a1e20a356fc968d70c307">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

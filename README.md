@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v2.2.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.6">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/fix-data-laoding in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/afeb6c83248f3c11051c5345e436f15a8b672027">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #306 in <a href="https://github.com/TheDanniCraft/clipify/pull/306">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #306 in <a href="https://github.com/TheDanniCraft/clipify/pull/306">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/fix-data-laoding in <a href="https://github.com/TheDanniCraft/clipify/commit/d76607307a1db9c19f0768ad2a58e9ac0aa9fbac">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/fix-data-laoding in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/fix-data-laoding">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.2.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.5">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feat/small-qol-improvments in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9cf48455076357d55ce93b0e2e6e5b89a667195d">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #305 in <a href="https://github.com/TheDanniCraft/clipify/pull/305">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/small-qol-improvments in <a href="https://github.com/TheDanniCraft/clipify/commit/33e06ffb882163092897407071abee5e1efdd821">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #305 in <a href="https://github.com/TheDanniCraft/clipify/pull/305">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch feat/small-qol-improvments in <a href="https://github.com/TheDanniCraft/clipify/tree/feat/small-qol-improvments">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v2.2.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.4">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a tag v2.2.4 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d0b28f5a34f68b0958c62e62531fba75dedd3aaf">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

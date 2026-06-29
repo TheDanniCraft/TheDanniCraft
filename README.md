@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v2.2.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.5">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch feat/small-qol-improvments in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9cf48455076357d55ce93b0e2e6e5b89a667195d">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #305 in <a href="https://github.com/TheDanniCraft/clipify/pull/305">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/small-qol-improvments in <a href="https://github.com/TheDanniCraft/clipify/commit/33e06ffb882163092897407071abee5e1efdd821">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #305 in <a href="https://github.com/TheDanniCraft/clipify/pull/305">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch feat/small-qol-improvments in <a href="https://github.com/TheDanniCraft/clipify/tree/feat/small-qol-improvments">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.2.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.4">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a tag v2.2.4 in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d0b28f5a34f68b0958c62e62531fba75dedd3aaf">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #304 in <a href="https://github.com/TheDanniCraft/clipify/pull/304">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2a054f68d55dfb00ceb650530fc10fc60631cdad">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify/commit/77b64dd7f24824a1cd188a73f62ff6f8439d586f">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #304 in <a href="https://github.com/TheDanniCraft/clipify/pull/304">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify/commit/1fc49a69326ae8c78e1cee37d87fd91bb99a3690">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/community-cache-refresh in <a href="https://github.com/TheDanniCraft/clipify/commit/0f8ff92e02ca0399ce7a1e20a356fc968d70c307">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

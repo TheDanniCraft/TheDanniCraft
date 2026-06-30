@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/recharts-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d9ec50ff56c05bb182b1173213967ea00827da73">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.2.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.6">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/fix-data-laoding in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/afeb6c83248f3c11051c5345e436f15a8b672027">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to fix/fix-data-laoding in <a href="https://github.com/TheDanniCraft/clipify/commit/d76607307a1db9c19f0768ad2a58e9ac0aa9fbac">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/fix-data-laoding in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/fix-data-laoding">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v2.2.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v2.2.5">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feat/small-qol-improvments in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9cf48455076357d55ce93b0e2e6e5b89a667195d">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

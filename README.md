@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/cdf81502fc50fdd629b2325f483ab135e97f2a83">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/8b1bf6492b82b60f72b7d889e960adfb8a23fe51">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/4b69f3e194c19baadc9ef165a8be3ca7a8b6a370">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/1b14211259ead9fa16af9322bea94cf9d5d89780">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/0d7d911bc9ed4e533899edeb64894e6c04021706">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/2bd749f9c4076fa3364c77caab35bb2b00f985cb">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/d00e6ba63a4a63cbd8b54064fcedd35b5cc580b4">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/efc2e64f19f3e6eee6cd0d125bc6ab86652163a6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/502400ab950d971f1b62e8514f00680c8938bc12">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/44929f5b1d155a0175dd48606611659068b241fd">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/46f907bcc5d0604d838ac303d50a8b0272487434">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/62876d0db099108179b10b16fa5ef1947b4be1f6">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #315 in <a href="https://github.com/TheDanniCraft/clipify/pull/315">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/tree/migrate-v3">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4384b47fa9db9b5c025e04d9f066a3b3b929a46f">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/44929f5b1d155a0175dd48606611659068b241fd">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/46f907bcc5d0604d838ac303d50a8b0272487434">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/62876d0db099108179b10b16fa5ef1947b4be1f6">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #315 in <a href="https://github.com/TheDanniCraft/clipify/pull/315">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/tree/migrate-v3">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4384b47fa9db9b5c025e04d9f066a3b3b929a46f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e6fc20ee029907e8de7068fb4cf84ea92a9e9f58">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e6fc20ee029907e8de7068fb4cf84ea92a9e9f58">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/motion-12.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2dbefd008f57b2152f3e307f002bd08980daf9c4">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/recharts-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b75ceea8442250f23b7a6b95af7edabaaf352d34">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

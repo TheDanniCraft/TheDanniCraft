@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/91c5e738b279de959e3e6f2885cb2f6d31f9205f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/e956e9afcbd63673258d86f2c8a8e31c3b5ec6b6">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/f3dc4a77c056aa64ec1d79fe47b2284dff86d23f">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/37e60b5425128a264b2d71cc33b4b0750a76eabd">TheDanniCraft/clipify</a></li>
-<li>🔎 Created PR #316 in <a href="https://github.com/TheDanniCraft/clipify/pull/316#pullrequestreview-4632214049">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/cdf81502fc50fdd629b2325f483ab135e97f2a83">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/8b1bf6492b82b60f72b7d889e960adfb8a23fe51">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/4b69f3e194c19baadc9ef165a8be3ca7a8b6a370">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/1b14211259ead9fa16af9322bea94cf9d5d89780">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/poetry/major-websockets in <a href="https://github.com/Wiresense/wiresense.py">Wiresense/wiresense.py</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Wiresense/wiresense.py/commit/ce8d41d16a31592b90607e3a0604993e69cae0e3">Wiresense/wiresense.py</a></li>
+<li>🗑️ Deleted a branch renovate/github-actions/major-checkout-action in <a href="https://github.com/Wiresense/wiresense.py">Wiresense/wiresense.py</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Wiresense/wiresense.py/commit/2553e7402516f57f0bfca44f343bdb746ee964f8">Wiresense/wiresense.py</a></li>
+<li>🗑️ Deleted a branch renovate/poetry/aiohttp in <a href="https://github.com/Wiresense/wiresense.py">Wiresense/wiresense.py</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Wiresense/wiresense.py/commit/d1d994c23e13974d69836af4ecb6911ea82a26ec">Wiresense/wiresense.py</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Wiresense/wiresense.js/commit/244d6e3b3230126996e4d81671f7b38e6bc5ae89">Wiresense/wiresense.js</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Wiresense/wiresense.js/commit/0decfcf6bde85ee183d1241bac7f4ec42258e699">Wiresense/wiresense.js</a></li>
+<li>📝 Committed to master in <a href="https://github.com/Wiresense/wiresense.js/commit/2c9630821fcb521284515306932fde6798742166">Wiresense/wiresense.js</a></li>
+<li>🗑️ Deleted a branch renovate/github-actions/major-github-actions-(node) in <a href="https://github.com/Wiresense/wiresense.js">Wiresense/wiresense.js</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

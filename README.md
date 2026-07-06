@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/91c5e738b279de959e3e6f2885cb2f6d31f9205f">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/e956e9afcbd63673258d86f2c8a8e31c3b5ec6b6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/f3dc4a77c056aa64ec1d79fe47b2284dff86d23f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/re2js-2.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/37e60b5425128a264b2d71cc33b4b0750a76eabd">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/8b1bf6492b82b60f72b7d889e960adfb8a23fe51">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/4b69f3e194c19baadc9ef165a8be3ca7a8b6a370">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/1b14211259ead9fa16af9322bea94cf9d5d89780">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/0d7d911bc9ed4e533899edeb64894e6c04021706">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to migrate-v3 in <a href="https://github.com/TheDanniCraft/clipify/commit/2bd749f9c4076fa3364c77caab35bb2b00f985cb">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

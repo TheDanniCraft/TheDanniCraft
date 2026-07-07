@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/2068f3ada5703755ef2bc89af7a0317b1073bad5">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/4a9c262da941f7625a6157d361840c097f9ffd08">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/94acda049f394c7beb9d552031777424973e3878">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/heroui-react-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>🔀 Merged PR #315 in <a href="https://github.com/TheDanniCraft/clipify/pull/315">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/65419bcb12bf5afae15e0a5d1e6a87d3fd8bf780">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/poetry/major-websockets in <a href="https://github.com/Wiresense/wiresense.py">Wiresense/wiresense.py</a></li>
-<li>📝 Committed to master in <a href="https://github.com/Wiresense/wiresense.py/commit/ce8d41d16a31592b90607e3a0604993e69cae0e3">Wiresense/wiresense.py</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

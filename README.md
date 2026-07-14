@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/9b2512285724e9c82e9a27873acbfad803b08afb">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/40247aebd7d68b8fb8c0c4f4a5627384f6871720">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/ws-8.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/6f72a93b7b4389dc96d71cce65bc8f47a4547db4">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/a23c3d6d56e20b8cc2d9fb3070c47e222ba6795c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/255e30c11ee8c0576ab05d3d9b93dfc9ea068612">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/c50de860387a7f5a7e330be9ab0cd32a1386cd4d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/5ff9507e001c6d064f939d62932b7556cb5848f0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/9af48256676e2a5fb9c92ffb5f47fbb37733598a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/d9a2487abf00acdd693def6aa67e99c5c4b85e3a">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/b20884ba2e66d07c41daed933f2573ba7b0e4218">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #326 in <a href="https://github.com/TheDanniCraft/clipify/pull/326">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/356cfebc0b15da9bed86a5c9d37b384bc029cc1c">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

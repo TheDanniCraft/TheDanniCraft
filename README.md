@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/c50de860387a7f5a7e330be9ab0cd32a1386cd4d">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/5ff9507e001c6d064f939d62932b7556cb5848f0">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/9af48256676e2a5fb9c92ffb5f47fbb37733598a">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/d9a2487abf00acdd693def6aa67e99c5c4b85e3a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/b20884ba2e66d07c41daed933f2573ba7b0e4218">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #326 in <a href="https://github.com/TheDanniCraft/clipify/pull/326">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/356cfebc0b15da9bed86a5c9d37b384bc029cc1c">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/24a70dbf1ac2523a88c96b24dce9101c8fd7d60f">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/linting in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8f5e8a29e6d9884246e3f028226e297a6968c618">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5ff7933399f073c4d7379b7d58945021e256dd98">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

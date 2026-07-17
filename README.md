@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7e3b6ad5f2161e1745e5b7ede9f5fce82f4c9520">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/610ac25b35d02599f41e1b674ba4fd8939c64d0e">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/tailwind in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/sentry-javascript-monorepo in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9459012ecedc39955814a15d57f6e4d60767093f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/80340bed8dc5217933d783bbfccf6d27f2894370">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/05b294bd4d177fe69c2221783dad8948331ea77c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/4f68e3248378ee4172d5950d78c420f873bc1550">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/50b63023607a0938f62b4d1f04051a2a7897d766">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/33ff9c73a66fbc308c3fd304c0e1edd5efcfd320">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/cb0799f51a8fdc58dcb2d218a500c2f308f079fb">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/064cece1eb74ab24ba111146370201efab8e9bea">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/8c346045e1f1b4cd8834ac54a9736be956462580">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/7fa73eafa0b88c5046bd0f489f0eb7323168bd2a">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/8929ace00b38283786bd7b32a300773866af8a48">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

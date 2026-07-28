@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/2919260116409a92a699c57faf8a8ca14e318c7a">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/ccf1190be8f9c283179070f03e76ff31b7bd1842">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/791bb1bdebfb577450d1c9f1183960d2145dd125">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/f9a3d02eba0388c84199acff3889094b0cd1c655">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/b1acd2d1924b86de3acb7cd1b47c3c6031f64d70">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/4f485c17bcb32f12c1184a99d13997e04c5aaa24">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/a60c9d5a01e6fe2ab0af2e1fbda66250ce78b296">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/preloading-regression in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4e8666987fa050e3aae7c157694d349dcbca8d5f">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #345 in <a href="https://github.com/TheDanniCraft/clipify/pull/345">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on PR #345 in <a href="https://github.com/TheDanniCraft/clipify/issues/345#issuecomment-5104196153">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on PR #345 in <a href="https://github.com/TheDanniCraft/clipify/issues/345#issuecomment-5103913019">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

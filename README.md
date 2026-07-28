@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/4f485c17bcb32f12c1184a99d13997e04c5aaa24">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/4a649b67666e50a3a770552ee7ea86abce720a6b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/self-hosted-runner in <a href="https://github.com/TheDanniCraft/clipify/commit/a60c9d5a01e6fe2ab0af2e1fbda66250ce78b296">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/preloading-regression in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4e8666987fa050e3aae7c157694d349dcbca8d5f">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗣 Commented on PR #345 in <a href="https://github.com/TheDanniCraft/clipify/issues/345#issuecomment-5103913019">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/preloading-regression in <a href="https://github.com/TheDanniCraft/clipify/commit/5355998d392a5064965430f2f599d706328ba016">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #345 in <a href="https://github.com/TheDanniCraft/clipify/pull/345">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7ef9a0869d65c92098d08aa13b552d1eab7538b7">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

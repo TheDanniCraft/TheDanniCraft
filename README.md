@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #355 in <a href="https://github.com/TheDanniCraft/clipify/pull/355">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/1c2e50f4d22e17fae950b4d823651808fcf55f11">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/puppeteer in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/regex/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9119f6de8c20cbd040a1b8f7c750a0c48c69818c">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/v3.0.1-release-followups in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/v3.0.1-release-followups">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify/commit/20c87437a84c0093b082c58f51ab7a4ddaf26ace">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/runner-manifest-verification">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v3.0.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.0.0">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #352 in <a href="https://github.com/TheDanniCraft/clipify/pull/352">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3325a5e4e113c5dc1b7326e291b5eff3bb566c1e">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify/commit/430785488de37586f82cd304f51bbf25c32ecc36">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify/commit/c113bd55beb572bacc811a90add4257d097616e9">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a26ae4e36107006710bc4bde64f11f38279b61aa">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

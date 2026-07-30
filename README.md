@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📥 Opened PR #13 in <a href="https://github.com/payloadbay/.github/pull/13">payloadbay/.github</a></li>
-<li>❌ Closed PR #12 in <a href="https://github.com/payloadbay/.github/pull/12">payloadbay/.github</a></li>
-<li>🗑️ Deleted a branch docs/organization-profile in <a href="https://github.com/payloadbay/.github">payloadbay/.github</a></li>
-<li>🎉 Created a new branch docs/11-organization-profile in <a href="https://github.com/payloadbay/.github/tree/docs/11-organization-profile">payloadbay/.github</a></li>
-<li>📥 Opened PR #12 in <a href="https://github.com/payloadbay/.github/pull/12">payloadbay/.github</a></li>
-<li>🎉 Created a new branch docs/organization-profile in <a href="https://github.com/payloadbay/.github/tree/docs/organization-profile">payloadbay/.github</a></li>
-<li>👤 Assigned issue #11 in <a href="https://github.com/payloadbay/.github/issues/11">payloadbay/.github</a></li>
-<li>🏷️ Added a label to issue #11 in <a href="https://github.com/payloadbay/.github/issues/11">payloadbay/.github</a></li>
-<li>🆕 Opened issue #11 in <a href="https://github.com/payloadbay/.github/issues/11">payloadbay/.github</a></li>
-<li>🗑️ Deleted a branch feat/6-logo-surface-variants in <a href="https://github.com/payloadbay/brand">payloadbay/brand</a></li>
+<li>📝 Committed to docs/8-brand-guidelines in <a href="https://github.com/payloadbay/brand/commit/232ef40f7893a768e170fe28abcc9cab45ab639b">payloadbay/brand</a></li>
+<li>📝 Committed to docs/8-brand-guidelines in <a href="https://github.com/payloadbay/brand/commit/78a0f6938d4fa19a54546d0988ebe2fd8e711be4">payloadbay/brand</a></li>
+<li>📥 Opened PR #9 in <a href="https://github.com/payloadbay/brand/pull/9">payloadbay/brand</a></li>
+<li>🎉 Created a new branch docs/8-brand-guidelines in <a href="https://github.com/payloadbay/brand/tree/docs/8-brand-guidelines">payloadbay/brand</a></li>
+<li>❌ Closed issue #8 in <a href="https://github.com/payloadbay/brand/issues/8">payloadbay/brand</a></li>
+<li>👤 Assigned issue #8 in <a href="https://github.com/payloadbay/brand/issues/8">payloadbay/brand</a></li>
+<li>🏷️ Added a label to issue #8 in <a href="https://github.com/payloadbay/brand/issues/8">payloadbay/brand</a></li>
+<li>🆕 Opened issue #8 in <a href="https://github.com/payloadbay/brand/issues/8">payloadbay/brand</a></li>
+<li>🗑️ Deleted a branch docs/11-organization-profile in <a href="https://github.com/payloadbay/.github">payloadbay/.github</a></li>
+<li>📝 Committed to master in <a href="https://github.com/payloadbay/.github/commit/0b3d7788129a2cffc9ee76fea3dd2fe2343be5b4">payloadbay/.github</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

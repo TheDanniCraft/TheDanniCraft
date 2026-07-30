@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📥 Opened PR #355 in <a href="https://github.com/TheDanniCraft/clipify/pull/355">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/1c2e50f4d22e17fae950b4d823651808fcf55f11">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/puppeteer in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/regex/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9119f6de8c20cbd040a1b8f7c750a0c48c69818c">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/v3.0.1-release-followups in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/v3.0.1-release-followups">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify/commit/20c87437a84c0093b082c58f51ab7a4ddaf26ace">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/runner-manifest-verification in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/runner-manifest-verification">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v3.0.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.0.0">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v3.0.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.0.1">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/48b9f3d9314714c25d5741a148f39f1d7e0784ff">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/github-actions/major-github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/218ef171d037d8fbe0d15a2629954c9aeb7d3183">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/v3.0.1-release-followups in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4d4363686d9de4f26b903f7e4fb0cce558f97f2e">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #355 in <a href="https://github.com/TheDanniCraft/clipify/pull/355">TheDanniCraft/clipify</a></li>
+<li>🗣 Commented on PR #112 in <a href="https://github.com/TheDanniCraft/clipify/issues/112#issuecomment-5124504991">TheDanniCraft/clipify</a></li>
+<li>🗣 Commented on PR #320 in <a href="https://github.com/TheDanniCraft/clipify/issues/320#issuecomment-5124504875">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🎉 Created a new branch docs/18-organization-profile in <a href="https://github.com/payloadbay/.github/tree/docs/18-organization-profile">payloadbay/.github</a></li>
-<li>📥 Opened PR #19 in <a href="https://github.com/payloadbay/.github/pull/19">payloadbay/.github</a></li>
-<li>🗑️ Deleted a branch docs/2-product-landing-readme in <a href="https://github.com/payloadbay/payloadbay">payloadbay/payloadbay</a></li>
-<li>📝 Committed to master in <a href="https://github.com/payloadbay/payloadbay/commit/e2ced5dc8a15771e78e477f0f872fc033f3a2174">payloadbay/payloadbay</a></li>
-<li>❌ Closed issue #2 in <a href="https://github.com/payloadbay/payloadbay/issues/2">payloadbay/payloadbay</a></li>
-<li>🔀 Merged PR #3 in <a href="https://github.com/payloadbay/payloadbay/pull/3">payloadbay/payloadbay</a></li>
-<li>📝 Committed to docs/2-product-landing-readme in <a href="https://github.com/payloadbay/payloadbay/commit/657d20b006a03f1daad68db761cf27af2d15d2a5">payloadbay/payloadbay</a></li>
-<li>📝 Committed to docs/2-product-landing-readme in <a href="https://github.com/payloadbay/payloadbay/commit/50a77ba6f2051a9a1a9cfa634be0ae950a3791ef">payloadbay/payloadbay</a></li>
-<li>📝 Committed to docs/2-product-landing-readme in <a href="https://github.com/payloadbay/payloadbay/commit/7ef4419e2119485597d2b9ec9d62277dc781e8c8">payloadbay/payloadbay</a></li>
-<li>📥 Opened PR #3 in <a href="https://github.com/payloadbay/payloadbay/pull/3">payloadbay/payloadbay</a></li>
+<li>📝 Committed to docs/52-core-agent-guidance in <a href="https://github.com/payloadbay/payloadbay/commit/5dbd495269ed90d17722370d3e49d7c2a0f7eeb0">payloadbay/payloadbay</a></li>
+<li>📥 Opened PR #4 in <a href="https://github.com/payloadbay/payloadbay/pull/4">payloadbay/payloadbay</a></li>
+<li>🎉 Created a new branch docs/52-core-agent-guidance in <a href="https://github.com/payloadbay/payloadbay/tree/docs/52-core-agent-guidance">payloadbay/payloadbay</a></li>
+<li>🗑️ Deleted a branch docs/52-agent-baseline in <a href="https://github.com/payloadbay/.github">payloadbay/.github</a></li>
+<li>🔀 Merged PR #20 in <a href="https://github.com/payloadbay/.github/pull/20">payloadbay/.github</a></li>
+<li>📝 Committed to master in <a href="https://github.com/payloadbay/.github/commit/e28e081bee13a7abc5c15afdf5612bd489209ebf">payloadbay/.github</a></li>
+<li>📝 Committed to docs/52-agent-baseline in <a href="https://github.com/payloadbay/.github/commit/ffafe88d722afb119da5556ba3f7db4ee77abf4e">payloadbay/.github</a></li>
+<li>📝 Committed to docs/52-agent-baseline in <a href="https://github.com/payloadbay/.github/commit/762275f8a6f092ea8f4efab0cc3890dc81f81ae0">payloadbay/.github</a></li>
+<li>📝 Committed to docs/52-agent-baseline in <a href="https://github.com/payloadbay/.github/commit/684c1c3d110573455cf642e6ce493ae00ae52bf3">payloadbay/.github</a></li>
+<li>📥 Opened PR #20 in <a href="https://github.com/payloadbay/.github/pull/20">payloadbay/.github</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

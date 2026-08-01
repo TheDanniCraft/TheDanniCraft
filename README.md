@@ -89,10 +89,10 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/ed14f3b08203f6702aecef8dfbc6b3b1ab308b72">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/heroui-react-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/c22f8c2a74470346ef45af7ef508c1382d447e0d">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/bun/lint-staged-17.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/68e4c0ff70ec0c55f2ad88d42dde3a6306ff97b1">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3f0e658e999ef2326540832af10d87e0f5f80789">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/bun/lint-staged-17.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/bun/heroui-styles-3.x in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3f0e658e999ef2326540832af10d87e0f5f80789">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/github-actions/github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/bbe69b84d1faddf59f8583528291fb651a3da6d6">TheDanniCraft/clipify</a></li>
 </ol>

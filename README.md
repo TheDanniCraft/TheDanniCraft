@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/560f68576e3ec98f351fd233f61f2f439190740e">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/esbuild-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@testing-libraryjest-dom-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8bcdf71a489b0d8f893540e90067e880ebf00739">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@herouistyles-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/461cc8a3608786d51c90c19f28c9a0cb8c2a6cb2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/89ae62b6f70104383e921962df811de126e29ac0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8211c1aef258b788d0678800747b1fdf333d4d25">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/ec811804eb90443659f836f9886aa98d459ea8ab">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@puppeteerbrowsers-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

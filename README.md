@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/95cd9fd468feb467d1fd87c53d75c7dd06650afc">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/puppeteer-core-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d63a66256a2b08213ecea4dd4912e4881c794051">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/major-motion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/npm/major-motion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify/commit/9ff9666ff9ec07dd3e0cab1f61e179a49a5697f5">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/stripe in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/70bb79b3d6aa05ceb79ea13e7c7508b9dc3d0463">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/25e70780d59abec6d7609669b942b8f19c78a0b1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@sentrynextjs-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/af0b9148e75d4e24046ffe4f1f324ab2f6e14371">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/database-(drizzlepg) in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #383 in <a href="https://github.com/TheDanniCraft/clipify/pull/383">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/560f68576e3ec98f351fd233f61f2f439190740e">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/esbuild-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@testing-libraryjest-dom-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8bcdf71a489b0d8f893540e90067e880ebf00739">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@herouistyles-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

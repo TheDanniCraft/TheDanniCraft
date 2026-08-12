@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/d4a9a8a5301b5262a2fc7bcb2d7f4d3ef5c6d5ce">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/671cb0238d3ec34ecf2a9122c3788e9aed7ff2e7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/e36ac3a52712317bd6171a99804159e286ccc14c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/926a966f665de74f151cf23a2516eca97aa24e10">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>⭐ Starred <a href="https://github.com/0xnyn/airship">0xnyn/airship</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@puppeteerbrowsers-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2465fa41cbff78ff9f9cc82328889aa042770f7e">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/95cd9fd468feb467d1fd87c53d75c7dd06650afc">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

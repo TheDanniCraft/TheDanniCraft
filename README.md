@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/b98c3125919f1d92e5a72667e2ca23201b4726b8">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/fd97186208050384e21c8dbe116864c5e22206e8">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/0999c1414f20ccda3bf3fec908c37fcc922cedb3">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/b98c3125919f1d92e5a72667e2ca23201b4726b8">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/be81542309ac4281b7f4ee171a411b16d0c13d41">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/faa83010a7a5353c23de2c5dfc14bc87113b6f71">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/26846f003e3ef4a6642dae05b744d1fcc0a3db7c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/25745a128983377227e6edebd28315c795b4a4f1">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/764c193bc969c845945ff1a651bafe5d1105d6d9">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/4937d478d50828c2b5fe6bd13448e490927a4a6b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/98298082e875173153f0f61cdf7f27e30a4d0c53">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/85fade54b9c4202dd0144193e66114782cf6a851">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/0c37226499b60ea30778c5c00c12a2a1be0ed5b5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/d5a3450b74a3a17cd570d0ac3bc2130a7d93adb2">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/9dfa59dc30482e40cb5664799630118379a7201b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

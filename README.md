@@ -94,7 +94,7 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cf11e77cc38d531dcfdf9dfd6c9f8f4cd467e37c">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/05fa8bdcf367ddc67419aea217d9d14d147c1eb2">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/@puppeteerbrowsers-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

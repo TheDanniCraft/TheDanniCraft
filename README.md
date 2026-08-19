@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/ac502996cd30fcc71c2ca2ae739f2f41db53c57e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/df33a729c53080329d443cea0b9ccda431ba448e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/15faf8960848691ba2c0bf8160589b3b75a4bfbe">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/5d3483189898ed864c0b46497b002e4889a3b9f9">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8ab164348f18a5d6f130d1fd5b9accd31c46872f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/puppeteer-core-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/efb1a4438daca7bbd55699962c960194c29faa1b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7ded6598258964ab51f53fe1309ad05a4b7481af">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

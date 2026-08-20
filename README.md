@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/751f8ddce9285f1d00e5614b25bf0bc7731458e9">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/8f16d5d331636227df7d1b013598549273165475">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/6ab755ce7fffa18076459ca28a0f7bc381cd134e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/ac502996cd30fcc71c2ca2ae739f2f41db53c57e">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/75c81c9143606d12347802d8406b2adcd12c0e32">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@swccore-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/f283d78a6fc7f6179ed197943f1198e45bf5e3f4">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8ab164348f18a5d6f130d1fd5b9accd31c46872f">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

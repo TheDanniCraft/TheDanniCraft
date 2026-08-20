@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/npm/motion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cf8877ba4a0ee1ad0b2064c2514449cceceab7fb">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d8898766986fb9f55f2645216abc150802917a27">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #409 in <a href="https://github.com/TheDanniCraft/clipify/pull/409">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #409 in <a href="https://github.com/TheDanniCraft/clipify/pull/409">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/bf88e964a5b636afa3f466f10b8d0e2f875b9efa">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #383 in <a href="https://github.com/TheDanniCraft/clipify/pull/383">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/c788e3b3a2c978cc34f3cb3c0dafd4dd13638c74">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/990323746022483edf0fa3eba6d0ba735f87a278">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/95b83778c32fcbd51cf4c02b42187921f6488a6f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/deb6f15e18da87ae0b5c3dff20aaffcdcd5c80e4">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

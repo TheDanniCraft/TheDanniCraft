@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/bf88e964a5b636afa3f466f10b8d0e2f875b9efa">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #383 in <a href="https://github.com/TheDanniCraft/clipify/pull/383">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/c788e3b3a2c978cc34f3cb3c0dafd4dd13638c74">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/990323746022483edf0fa3eba6d0ba735f87a278">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/964fe57a7033bf15c81b304a0c3c9b9dfd832c25">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@swccore-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@vercelnft-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/751f8ddce9285f1d00e5614b25bf0bc7731458e9">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

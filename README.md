@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🗑️ Deleted a branch fix/manual-migration-dispatch in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@tiptappm-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/heroui-token-workflows in <a href="https://github.com/TheDanniCraft/clipify/commit/c6953b3c14a7cb3f7db94f9e03fbde433f729227">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/npm-marked-vulnerability in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v3.1.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.1.0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/heroui-token-workflows in <a href="https://github.com/TheDanniCraft/clipify/commit/fd34fb891ff00f659ed287fabca8b9abbd9e389c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9da5f1d70a6118db0c6bc489cf568a12960df416">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/remark-gfm-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d621fb2a4b4a9d73fe6f7aeef1e6985c4221d2d7">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #414 in <a href="https://github.com/TheDanniCraft/clipify/pull/414">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/41443ce9abb1a416d576b95f1235a1eef8a4edd1">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/c8ce353dfdfd791b98712a00c7cb1edf0719f3db">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d45be35eae9e901ee40b3da07c48285b6af38d12">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d7bed1e267d8483f9f52329ee44c63ef57490337">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/@tiptapextensions-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/manual-migration-dispatch in <a href="https://github.com/TheDanniCraft/clipify/commit/de1ca4e93638ff6c2eeb2ff8a6ef796211fa804a">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7e83bd74a1ad15d43265e2bded685903de09ad15">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d4ecf838589c25ad80170e190f9e3430add6e277">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/403f392a2f26bc7f38fff85c6bd5540f8e844359">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/marked-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

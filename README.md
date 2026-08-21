@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🗑️ Deleted a branch renovate/npm/motion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cf8877ba4a0ee1ad0b2064c2514449cceceab7fb">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d8898766986fb9f55f2645216abc150802917a27">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #409 in <a href="https://github.com/TheDanniCraft/clipify/pull/409">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #409 in <a href="https://github.com/TheDanniCraft/clipify/pull/409">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/8c88a2c4125f7866b567f4bea3fe8b987b6b40f1">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/bf88e964a5b636afa3f466f10b8d0e2f875b9efa">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #383 in <a href="https://github.com/TheDanniCraft/clipify/pull/383">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/add-gallery-feature in <a href="https://github.com/TheDanniCraft/clipify/commit/c788e3b3a2c978cc34f3cb3c0dafd4dd13638c74">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/manual-migration-dispatch in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/@tiptappm-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/heroui-token-workflows in <a href="https://github.com/TheDanniCraft/clipify/commit/c6953b3c14a7cb3f7db94f9e03fbde433f729227">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/npm-marked-vulnerability in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v3.1.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.1.0">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/heroui-token-workflows in <a href="https://github.com/TheDanniCraft/clipify/commit/fd34fb891ff00f659ed287fabca8b9abbd9e389c">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9da5f1d70a6118db0c6bc489cf568a12960df416">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/remark-gfm-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d621fb2a4b4a9d73fe6f7aeef1e6985c4221d2d7">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #414 in <a href="https://github.com/TheDanniCraft/clipify/pull/414">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

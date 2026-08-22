@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/npm/react-resizable-panels-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/c91d7ff91936794cc032ba832660310a6b74ccf4">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/@tiptapsuggestion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/504c3098930c8dbe57ef8f2a743c558a84ba5bf0">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/shiki-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/571e38dd7931541a9544dacca52e7ee76ad7803b">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5af4b5c9e4a2be01368aa0ea5b98c5e0da55d40b">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/react-aria-components-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/77574feb3cd4f3d9a50ea01335ab6cd1ea4d83b5">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/dockerfile/docker-images in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/6897a5e54557996e033fb93f2b432680c5931b98">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/maplibre-gl-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9b841150322781e8ac6fc0f1e3b24446f4c9ff65">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

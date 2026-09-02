@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/npm/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4e5bde2dee00cd191af602785caef5018a750119">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@tiptapsuggestion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@testing-libraryreact-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2cd3365395fd978eed7f3a103eb609e6c985d2a8">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗑️ Deleted a branch renovate/npm/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/66b1bd04be189927882228171d333c533aba1f6e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a89d2b23c5a6378cacc761312f526bae4c69d05f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b7e2accb43a98be6d52e04b8541e2f47e8307437">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/f803e74074fe9ff7239df9b1ca1db843eb9d214b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/npm/@tiptapextensions-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0f454357583ecc50e500be4100ce1247208438db">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5a065a12b267bb5e9a98fa015558908fff4f4944">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5fbc0dbdfe71271d910171b21c77dc6e24bc63e6">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/member-badges">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/axios-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>🗑️ Deleted a branch renovate/npm/@tiptapreact-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fdbce269199b6647218625403c382d275a7c4231">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3e0a5b5d754c08932e8e8dd37f1ccf42cb442f6b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/29a81b4b77a126ccc5d78cf0db9ceb2301471da6">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/41dfa2959cf62133469f98a85a0f0443ed69e19e">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@sentrynextjs-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5fbc0dbdfe71271d910171b21c77dc6e24bc63e6">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/member-badges">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/axios-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@tiptapreact-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fdbce269199b6647218625403c382d275a7c4231">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3e0a5b5d754c08932e8e8dd37f1ccf42cb442f6b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/29a81b4b77a126ccc5d78cf0db9ceb2301471da6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/41dfa2959cf62133469f98a85a0f0443ed69e19e">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@sentrynextjs-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a07e020ca3461f824e2bcb5823748e830945d268">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/marked-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@tiptapcore-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0e8aaf93e0c71be902f0f703632776f6758ef71f">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

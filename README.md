@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/68265e85b2f398cda76baa1ba3a51982d46ddd24">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/d5073df2c14f063a6e4355f92d55858391ba8b29">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/lint-staged-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@tiptapstarter-kit-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5fbc0dbdfe71271d910171b21c77dc6e24bc63e6">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/member-badges">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/axios-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

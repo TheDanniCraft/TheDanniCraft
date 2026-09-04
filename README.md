@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/933ffabce56805e75ec2c71a36941087d2187087">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3a0de2c56ed4b6007e87029c58a8b386d8e51c78">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/94f628cda48956344e6066832218e60f2652df82">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/92b163fceec8300144265792762c951163e54b28">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/b92d96dbd3b290ce10a2d97ff31600366b630f7d">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/dockerfile/docker-images in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4341ebc32804e23e251e2381f7bfc9e74e51d5ef">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/63e8e18e06e75688aeabe4aa3db364f9028d2ac0">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/github-actions/github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fa011f7cba1686f4f463eebb2be2404b02474d2d">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/63c5f3b53934737cbc6f146375b2084f759b1062">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v3.2.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.2.0">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #443 in <a href="https://github.com/TheDanniCraft/clipify/pull/443">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #472 in <a href="https://github.com/TheDanniCraft/clipify/pull/472">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/jest-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

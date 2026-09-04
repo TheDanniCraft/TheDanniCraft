@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/npm/@tiptapcore-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8e8a9676c1119c7c15a76f21f97daef795ba2c17">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/puppeteer-core-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/maplibre-gl-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b77f65e1510c706896d66c08c308bbe9c6fbc442">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/motion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/39fa7f19975eeacaca77144729ce11dac35f5d18">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/0a6a26c0ca9116422872f21d85c4220b9a59ae08">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@tiptappm-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/933ffabce56805e75ec2c71a36941087d2187087">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/3a0de2c56ed4b6007e87029c58a8b386d8e51c78">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/94f628cda48956344e6066832218e60f2652df82">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/92b163fceec8300144265792762c951163e54b28">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/b92d96dbd3b290ce10a2d97ff31600366b630f7d">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/dockerfile/docker-images in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4341ebc32804e23e251e2381f7bfc9e74e51d5ef">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

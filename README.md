@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/42e3d46274e209fb6bf2246efac3d8c0384ec586">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/733ba5f1f946c1d9adaa89d8db360142caee858b">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/693dca1ce15dcc42f1ba7cf294e26f60bdb2549d">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/resedit-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/tree/gamescom-improvements">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>🗑️ Deleted a branch renovate/npm/@tiptappm-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/fb3e9acd534e99edd7aadc856d6cec76fd438f32">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/84d373c5e2931ed5fe3a1dfc7d24de872e51a9d7">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a0b277efeb8d4371d4f4d9118963a9ec1373e975">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/d00f349003ee96287dc6293941664c5c918c6e69">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@tiptapextensions-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

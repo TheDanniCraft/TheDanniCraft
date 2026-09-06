@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d696fa422bf3626a9b6d92cf5ced48c92cddd7be">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/4a7b66f26743f77a73526c48a57ec1b5a125ef51">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/90f51925236ffcaa4c40b3f12292270bda818a03">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9a5238553c9a393d1a91055a6a7459ca12471c9d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fae8674c975c544950af33df3ccadbaedf98e116">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/4772caccebe08b8fb9e1ffff8b0404bb7a8a57e7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/d0efc798f47a64af94dba25d0cb352a4ac449434">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@tiptapextension-underline-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@puppeteerbrowsers-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

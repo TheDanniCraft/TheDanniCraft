@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/90f51925236ffcaa4c40b3f12292270bda818a03">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9a5238553c9a393d1a91055a6a7459ca12471c9d">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/fae8674c975c544950af33df3ccadbaedf98e116">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/@tiptapsuggestion-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/@tiptapstarter-kit-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/4772caccebe08b8fb9e1ffff8b0404bb7a8a57e7">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/d0efc798f47a64af94dba25d0cb352a4ac449434">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/nextreact-ecosystem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@tiptapextension-underline-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/@puppeteerbrowsers-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/fa0969f720c94de74fd2f336a1f75fb0cb6968b8">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/react-aria-components-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/044cfea02ac97fe5e420aae8e5c58215737269ec">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/@tiptapreact-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b16f2a26049adc7c4c5cbae974b3aaf0c3e95f9b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/41307c06101045f5fa19f291365b56f56fb1ef3b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/084381fa239464fde044fa13d49c1c491869d4b1">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/member-badges in <a href="https://github.com/TheDanniCraft/clipify/commit/c5d22d1ebda311e5eb4c2e1f0431965542af4efe">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/github-actions/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 <li>🎉 Created a new branch master in a private repository</li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in a private repository</li>
 <li>❌ Closed PR in a private repository</li>
 <li>🗑️ Deleted a branch main in a private repository</li>
-<li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/3cb41be29da2df68990b471910dd0939b2074d7f">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

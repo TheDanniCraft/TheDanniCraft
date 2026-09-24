@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on PR #472 in <a href="https://github.com/TheDanniCraft/clipify/issues/472#issuecomment-5811082399">TheDanniCraft/clipify</a></li>
+<li>🗣 Commented on PR #472 in <a href="https://github.com/TheDanniCraft/clipify/issues/472#issuecomment-5810795367">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/7691e32b7cfa936b007342c404ad23a1e9a5f060">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/65c49805e68118dbaa62187b56305950355ad2b6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/32494a1cd17009f09c70e28e2d6c000bdcd074fb">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/1a36ac44f77af684800400d038399e62325f372c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/9b52dc33935a9f70b499e1a1549f7f25630d3fd8">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/c254255d228c2f9f3b0b2fb5f858577c6620b050">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/c14179314a8c09b2de9bf9c3418bbfaf1be7fe73">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/255be3c1590a3b5cbbcf3971008e7987f4a25427">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

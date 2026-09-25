@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in a private repository</li>
 <li>🗣 Commented on PR #472 in <a href="https://github.com/TheDanniCraft/clipify/issues/472#issuecomment-5832786689">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/aff183af2a59557132b7a91dc1649e482e680083">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in a private repository</li>
@@ -93,7 +94,6 @@
 <li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/e4bcc404472aad16583f80ad12c4e224da01fe64">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 </ol>
 <!--END_SECTION:activity-->

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v3.3.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.3.0">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #472 in <a href="https://github.com/TheDanniCraft/clipify/pull/472">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/b27ba6f004c1be1f0f900b2151aa5d37903d4c6a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in a private repository</li>
 <li>🗣 Commented on PR #472 in <a href="https://github.com/TheDanniCraft/clipify/issues/472#issuecomment-5832786689">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/aff183af2a59557132b7a91dc1649e482e680083">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/218692f631219496e45c6255314a9e86338aee9b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in a private repository</li>
-<li>📝 Committed to master in a private repository</li>
-<li>📝 Committed to gamescom-improvements in <a href="https://github.com/TheDanniCraft/clipify/commit/e4bcc404472aad16583f80ad12c4e224da01fe64">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in a private repository</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify/commit/3b8c734b92d4297dbd8a4f7179a5cccee041429b">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #483 in <a href="https://github.com/TheDanniCraft/clipify/pull/483">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/dockerfile/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4370bc9dfed9741dfae579d1383959ccfff2a54d">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>🎉 Created a new branch feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/video-engine">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v3.3.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.3.2">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #481 in <a href="https://github.com/TheDanniCraft/clipify/pull/481">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/23f5b3d039f2d9781bb16aa44f3f58bc5e557564">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

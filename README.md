@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v3.3.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.3.2">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #481 in <a href="https://github.com/TheDanniCraft/clipify/pull/481">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/23f5b3d039f2d9781bb16aa44f3f58bc5e557564">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/a0055e7027eb90097b9b553742f901cd27845da3">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/51945f72440b638c781308b2b37a6097f0d8c2ae">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch codex/hotfix-production-errors in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/hotfix-production-errors">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/sentry-health-signals in <a href="https://github.com/TheDanniCraft/clipify/commit/3438d9333f92a9778ca8b06696ad1cbc2bd3ba2d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/sentry-health-signals in <a href="https://github.com/TheDanniCraft/clipify/commit/a51c222df431030149ec22f231f99b2537f33c91">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/sentry-health-signals in <a href="https://github.com/TheDanniCraft/clipify/commit/27ed413baaf4c35791530a3a443800ff8e3efbff">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/sentry-health-signals in <a href="https://github.com/TheDanniCraft/clipify/commit/6deeeee9e5b78b2242bdd56f65dcaabd58920398">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #481 in <a href="https://github.com/TheDanniCraft/clipify/pull/481">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/563dd6a30465d97016c6708a69bc7dcf59aedbba">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/62963f375ff24b34b3af30974d74cccf34bb684e">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

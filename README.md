@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/e58a03fc74c78c3750715aa22d45edfc7d02038b">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/92cedcb6c6de69319d1dc747c849a67042892b38">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/auth-engine-rewrite">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify/commit/3b8c734b92d4297dbd8a4f7179a5cccee041429b">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #483 in <a href="https://github.com/TheDanniCraft/clipify/pull/483">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/dockerfile/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to feature/sentry-health-signals in <a href="https://github.com/TheDanniCraft/clipify/commit/4c0bf2fdaa70bcba83a7d1fa485a228c098fcab4">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feature/sentry-health-signals in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch feature/sentry-health-signals in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/sentry-health-signals">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/video-engine">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v3.3.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v3.3.2">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #481 in <a href="https://github.com/TheDanniCraft/clipify/pull/481">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

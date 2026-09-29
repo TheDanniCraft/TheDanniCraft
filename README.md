@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/8073da8e953c3c2e00ba1b01e97c943b3db70617">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/20a8b9c0114b7b3bea713cc47a71fe05ba8f8852">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/ff1b7005c818908dcad8d9af93612f56a2f718c2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/c0101a5d624aeb97c96b21ca461d845a69d60bec">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/2c04bfbb58ffde4599dbbd6bd19bdf5be2e94c89">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/b4b7e07e70a9faa3bb69a66d28e5e1ccfcdd4111">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/c89ba1c171adcaa82221ccd234d063d1dc5128f0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/f0b0faa0697fabcd647f24738d0410ae9ef25f23">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

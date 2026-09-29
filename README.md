@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify/commit/37827a6b44eba1ab40262743e2b03f002b850ca9">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #483 in <a href="https://github.com/TheDanniCraft/clipify/pull/483">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify/commit/bb6976bfdda7642662bcb69202d5dba2c0874589">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/99e48ab39b06e4a3ff346406df6a423e8695f9c3">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/d320c16c375cb530e2ba3626afe0292cb8971af1">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/65ec7fdc906c24c0bb8579b01f731398c364119b">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/4046802027afaaecc54a53085265faf90d3546af">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/bc989fd1cffe5a1465a1930487fc7ef0b9a8f7f6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/8073da8e953c3c2e00ba1b01e97c943b3db70617">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/20a8b9c0114b7b3bea713cc47a71fe05ba8f8852">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/ff1b7005c818908dcad8d9af93612f56a2f718c2">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/c0101a5d624aeb97c96b21ca461d845a69d60bec">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/5da1adbf4c6be01ba6fe11d30617495ac8858d27">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/4a739f2ef549a3c877d443c167f5d2ecf521652f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/61d710f692a2124de39262bffbf9403d88de0ef8">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/2c04bfbb58ffde4599dbbd6bd19bdf5be2e94c89">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/b4b7e07e70a9faa3bb69a66d28e5e1ccfcdd4111">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged PR #487 in <a href="https://github.com/TheDanniCraft/clipify/pull/487">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #487 in <a href="https://github.com/TheDanniCraft/clipify/pull/487">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #486 in <a href="https://github.com/TheDanniCraft/clipify/pull/486">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #486 in <a href="https://github.com/TheDanniCraft/clipify/pull/486">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/sentry-runtime-issues in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/sentry-runtime-issues">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/npm/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify/commit/f13530ee20e44e4af6b5382f1b53ff5130ee86fa">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8059e1d746bffad6475e94a9b1ec108d18376cff">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2f93340598d1fde1e7dc1fce8a39048d86cb0c40">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to renovate/npm/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify/commit/420886f021dfc6ae7d4ce97fa0a724bfebe58022">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in a private repository</li>
-<li>🗑️ Deleted a tag v1.0.0 in a private repository</li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/516bfc3c1f29df68a3e5cea9ce244be28c4d8d03">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/video-engine in <a href="https://github.com/TheDanniCraft/clipify/commit/37827a6b44eba1ab40262743e2b03f002b850ca9">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #483 in <a href="https://github.com/TheDanniCraft/clipify/pull/483">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

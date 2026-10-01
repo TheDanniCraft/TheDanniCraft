@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/9ddb6e249f1f7b63aa37f52f233b52d541661f19">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #489 in <a href="https://github.com/TheDanniCraft/clipify/pull/489">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.0.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/43dd86fd25d3a6e17d2f65c76dda47e0961b8e36">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📥 Opened PR #488 in <a href="https://github.com/TheDanniCraft/clipify/pull/488">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/major-dotenv-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to renovate/npm/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify/commit/bb77fe501103dad17951ecd7c53b4e0e8b77e7dc">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a tag v1.0.0 in a private repository</li>
-<li>📝 Committed to renovate/npm/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify/commit/e129b2619fc6bce2c371e03c47ca83cddc5c1ad8">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

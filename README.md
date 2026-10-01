@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to fix/privacy-copy-footer-fixes in <a href="https://github.com/TheDanniCraft/clipify/commit/9ccf7587d949df9c046437011eb5e3fac5acd88d">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/privacy-copy-footer-fixes in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/privacy-copy-footer-fixes">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/c293f494ec3826ae0fe148c5ca14e29780f61297">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/a1047722f333b4c4f95c5e341c9d020da404fa3a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/be53e0db7426f955b7cd004bf3b8f3123f5ba76f">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feature/increase-user-understanding in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/ab15b0707728776f38c9ae2ad3dc7c831af10241">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/privacy-copy-footer-fixes in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/a17b4551a930e5db03c15804129fe464d7e2aea8">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch improve-code-quality in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/cf15b657e83054589cd0e07a744fa3edb2b51bfa">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/sentry-runtime-issues in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #487 in <a href="https://github.com/TheDanniCraft/clipify/pull/487">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #487 in <a href="https://github.com/TheDanniCraft/clipify/pull/487">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

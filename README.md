@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v4.0.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.0">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/43dd86fd25d3a6e17d2f65c76dda47e0961b8e36">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #488 in <a href="https://github.com/TheDanniCraft/clipify/pull/488">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in a private repository</li>
+<li>📥 Opened PR #488 in <a href="https://github.com/TheDanniCraft/clipify/pull/488">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/major-dotenv-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to renovate/npm/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify/commit/bb77fe501103dad17951ecd7c53b4e0e8b77e7dc">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a tag v1.0.0 in a private repository</li>
 <li>📝 Committed to renovate/npm/major-typescript-and-types in <a href="https://github.com/TheDanniCraft/clipify/commit/e129b2619fc6bce2c371e03c47ca83cddc5c1ad8">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/privacy-copy-footer-fixes in <a href="https://github.com/TheDanniCraft/clipify/commit/9ccf7587d949df9c046437011eb5e3fac5acd88d">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/privacy-copy-footer-fixes in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/privacy-copy-footer-fixes">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/c293f494ec3826ae0fe148c5ca14e29780f61297">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/a1047722f333b4c4f95c5e341c9d020da404fa3a">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/be53e0db7426f955b7cd004bf3b8f3123f5ba76f">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feature/increase-user-understanding in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

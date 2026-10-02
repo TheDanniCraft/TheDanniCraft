@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/19851a6a5b23d11e9f5b6ff008db6ab371f8f59a">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/ec7c9351516fd3c83e34f8095ca2a0b3e9d51e15">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/a349de3e23f32947f6d9c9547b8612dc20078c2e">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/233a8cb9ad58333a2b3742a673feb7a3d2d62b40">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/ae7ad591f5162c25d0fb098495ba05b273eae7e7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/add0d690813414f25024aad363ca656f04e7d6f0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/550575200e2af32917af2505f66cf062a6287eba">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/bfb1ef440231b40b9de7e618ac791d85756440be">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/5a9467ef733226dd190109d3ea4a7aae0b01c236">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/dd429c93133771ece375bdad42980497cc83bf41">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/auth-cutover-polish">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/d2b04bebb7fa7e25983fd9883230aef9675ab95c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/e08939d2a4827759ffbdb4fe18827e3b83e0cd7c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/sentry-runtime-issues in <a href="https://github.com/TheDanniCraft/clipify/commit/4a0fda417f7f36d76b49691428bcf9319a04e992">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

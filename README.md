@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/0f4b115ba71b2eb5557f7f6dcc56d1d5696b3fab">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/fba69360b5f62c65c923e796259b51a1a9bd9040">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/ba194c5957ab15787127edfbec0f5263dfa291f8">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/27fc69e60e3b13799dda2176e544e734f9ebf0ba">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/bcf8c995483cd056d102bf70165b99b7f4eab144">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/264edb043bd165d0057dc170271787c97ee4b024">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/e89a34c2bb66bae83e6ae013aecee524c9d4a0ef">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v1.0.0 in a private repository</li>
 <li>🗑️ Deleted a tag v1.0.0 in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/6816927fb8b5bde2a098afda6bbcb8b1f23640e5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/19851a6a5b23d11e9f5b6ff008db6ab371f8f59a">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/ec7c9351516fd3c83e34f8095ca2a0b3e9d51e15">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/a349de3e23f32947f6d9c9547b8612dc20078c2e">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

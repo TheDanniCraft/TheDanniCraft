@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/0f4b115ba71b2eb5557f7f6dcc56d1d5696b3fab">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/fba69360b5f62c65c923e796259b51a1a9bd9040">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/auth-engine-rewrite in <a href="https://github.com/TheDanniCraft/clipify/commit/ba194c5957ab15787127edfbec0f5263dfa291f8">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/27fc69e60e3b13799dda2176e544e734f9ebf0ba">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/bcf8c995483cd056d102bf70165b99b7f4eab144">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/264edb043bd165d0057dc170271787c97ee4b024">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/e89a34c2bb66bae83e6ae013aecee524c9d4a0ef">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v1.0.0 in a private repository</li>
-<li>🗑️ Deleted a tag v1.0.0 in a private repository</li>
-<li>📝 Committed to master in a private repository</li>
+<li>🗑️ Deleted a branch renovate/npm/major-@sentrynextjs-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #492 in <a href="https://github.com/TheDanniCraft/clipify/pull/492">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch codex/auth-dialog-spacing in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/auth-dialog-spacing">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.0.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.1">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/missing-auth-cleanup-migration in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #491 in <a href="https://github.com/TheDanniCraft/clipify/pull/491">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #491 in <a href="https://github.com/TheDanniCraft/clipify/pull/491">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/missing-auth-cleanup-migration in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/missing-auth-cleanup-migration">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/42efb36cd6577904e1345eeb87fcce51a1a692b0">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #489 in <a href="https://github.com/TheDanniCraft/clipify/pull/489">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📥 Opened PR #493 in <a href="https://github.com/TheDanniCraft/clipify/pull/493">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/5962b4ecb24e5adcdf72ccd78c7c5d2077c399a5">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/e39ad3c82eb6813dcea50485daa6b7397f261a98">TheDanniCraft/Portfolio</a></li>
-<li>🎉 Created a new branch codex/fix-plausible-proxy-path in <a href="https://github.com/TheDanniCraft/Portfolio/tree/codex/fix-plausible-proxy-path">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to rewrite-portfolio in <a href="https://github.com/TheDanniCraft/Portfolio/commit/8d8c0360638990205919f7ab4dc2afe154705e6d">TheDanniCraft/Portfolio</a></li>
-<li>🎉 Created a new branch codex/verify-renovate-signatures in <a href="https://github.com/TheDanniCraft/Portfolio/tree/codex/verify-renovate-signatures">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/e9c2c3da2010b88c198b740ca1a6978cc799c7af">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/e327c2333ae886a10bad13ff9927c38a320378e5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/7ff1ec790fb9ee14c86b5ac9f398b34adeae8d54">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to codex/auth-dialog-spacing in <a href="https://github.com/TheDanniCraft/clipify/commit/b8dcf173c8d45c64b43c455b4ee057c7d6613d31">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/593ece79484fcca11a71a5a3286e69e17f6938fa">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged PR #202 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/202">TheDanniCraft/Portfolio</a></li>
+<li>📥 Opened PR #202 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/202">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/79cd79ad638576256a6ca72601edf8f5182e44bf">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.0.3 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.3">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #493 in <a href="https://github.com/TheDanniCraft/clipify/pull/493">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/commit/df3a856413d39ec628e35507b7b64d5b541d572c">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/commit/68a2470fa99763ba8d1df906b1c1daf586cb05e2">TheDanniCraft/clipify</a></li>
+<li>🗣 Commented on PR #493 in <a href="https://github.com/TheDanniCraft/clipify/issues/493#issuecomment-5980154690">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

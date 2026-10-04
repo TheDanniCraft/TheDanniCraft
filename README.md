@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🔀 Merged PR #196 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/196">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8fd3d070574861e096d06d62ab0ed860929bad51">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #196 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/196">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/b18ba3d7e9b319f27b034d979a4bd08360ead232">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/988b7e9a525366821328722dac879dc6b21aff87">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/07bbbfe3b1a816fde5ef6169a32d3b490468e0d0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/baaf87db674bf47115efe6e028b5826b3745b846">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/30c40ee15373da453b9077be996a33fca5b8ba7c">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/major-@sentrynextjs-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #492 in <a href="https://github.com/TheDanniCraft/clipify/pull/492">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to codex/auth-dialog-spacing in <a href="https://github.com/TheDanniCraft/clipify/commit/b8dcf173c8d45c64b43c455b4ee057c7d6613d31">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/eslint-monorepo in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
+<li>❌ Closed PR #201 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/201">TheDanniCraft/Portfolio</a></li>
+<li>🗣 Commented on PR #201 in <a href="https://github.com/TheDanniCraft/Portfolio/issues/201#issuecomment-5975678178">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/2fba07d8e5556c64e2c8bafa5e294225742fdfd4">TheDanniCraft/Portfolio</a></li>
+<li>🚀 Published release v4.0.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.2">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/775c3f83235a3fefa61f6c4df43629cdad28e7b7">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged PR #199 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/199">TheDanniCraft/Portfolio</a></li>
+<li>🗑️ Deleted a branch codex/auth-dialog-spacing in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #492 in <a href="https://github.com/TheDanniCraft/clipify/pull/492">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

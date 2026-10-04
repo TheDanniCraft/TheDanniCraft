@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged PR #196 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/196">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8fd3d070574861e096d06d62ab0ed860929bad51">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #196 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/196">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/b18ba3d7e9b319f27b034d979a4bd08360ead232">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/988b7e9a525366821328722dac879dc6b21aff87">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/07bbbfe3b1a816fde5ef6169a32d3b490468e0d0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/baaf87db674bf47115efe6e028b5826b3745b846">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/30c40ee15373da453b9077be996a33fca5b8ba7c">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/major-@sentrynextjs-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #492 in <a href="https://github.com/TheDanniCraft/clipify/pull/492">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch codex/auth-dialog-spacing in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/auth-dialog-spacing">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.0.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.1">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/missing-auth-cleanup-migration in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #491 in <a href="https://github.com/TheDanniCraft/clipify/pull/491">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

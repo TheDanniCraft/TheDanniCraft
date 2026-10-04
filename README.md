@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/593ece79484fcca11a71a5a3286e69e17f6938fa">TheDanniCraft/Portfolio</a></li>
-<li>🔀 Merged PR #202 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/202">TheDanniCraft/Portfolio</a></li>
-<li>📥 Opened PR #202 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/202">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/79cd79ad638576256a6ca72601edf8f5182e44bf">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.0.3 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.3">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #493 in <a href="https://github.com/TheDanniCraft/clipify/pull/493">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/commit/df3a856413d39ec628e35507b7b64d5b541d572c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/commit/68a2470fa99763ba8d1df906b1c1daf586cb05e2">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on PR #493 in <a href="https://github.com/TheDanniCraft/clipify/issues/493#issuecomment-5980154690">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.0.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.4">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #494 in <a href="https://github.com/TheDanniCraft/clipify/pull/494">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/obs-overlay-presence in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/obs-overlay-presence in <a href="https://github.com/TheDanniCraft/clipify/commit/570935b5d1aa6907970369e43398e6a433b10377">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/727d7393812de6cb8175198fc0709e0bf74072d6">TheDanniCraft/clipify</a></li>
+<li>🗣 Commented on PR #494 in <a href="https://github.com/TheDanniCraft/clipify/issues/494#issuecomment-5983164241">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/obs-overlay-presence in <a href="https://github.com/TheDanniCraft/clipify/commit/139c35bdda61e5506696ee001183b8341f2c3303">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #494 in <a href="https://github.com/TheDanniCraft/clipify/pull/494">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/44c6b4734a5ed0f58ce8dcdd4f700ba76e3ed257">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/f08cd81202737f5fc3b2c9de792c5b9c7ff32762">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

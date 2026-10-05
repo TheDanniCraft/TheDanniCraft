@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/0ac7ccfc50f389ce0b2d455fda5e736c290ba410">TheDanniCraft/Portfolio</a></li>
+<li>📥 Opened PR #203 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/203">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/ced7a4810892f0cd52fab521b760d601288b0fe5">TheDanniCraft/Portfolio</a></li>
+<li>🎉 Created a new branch improvements in <a href="https://github.com/TheDanniCraft/Portfolio/tree/improvements">TheDanniCraft/Portfolio</a></li>
 <li>🎉 Created a new branch fix/obs-overlay-presence in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/obs-overlay-presence">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5435bca082ed53d0f418ad5e5145682a8b827951">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/e8fd1ac4115da866b89309c454a175d25114343f">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/f004f844230b758b2926fa35d4818c277b27d724">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/3bf220fe25ad7f1acc877b87dde029443ea60eb6">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.0.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.4">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #494 in <a href="https://github.com/TheDanniCraft/clipify/pull/494">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/obs-overlay-presence in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/obs-overlay-presence in <a href="https://github.com/TheDanniCraft/clipify/commit/570935b5d1aa6907970369e43398e6a433b10377">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/57cbf43de3006a61537c8f5473205cda4bbf9da2">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/bed8814bb23a3f8ef8d0c6322d92172aafc330ed">TheDanniCraft/Portfolio</a></li>
+<li>🎉 Created a new branch fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/community-avatar-rings">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to codex/auth-dialog-spacing in <a href="https://github.com/TheDanniCraft/clipify/commit/000e55fa97eabfa4ffc9581b102a87b45b807069">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/9d1777e7a55397d810f0818ff27b4589b46dbd2f">TheDanniCraft/Portfolio</a></li>
+<li>🔀 Merged PR #203 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/203">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/0ac7ccfc50f389ce0b2d455fda5e736c290ba410">TheDanniCraft/Portfolio</a></li>
+<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/aa17b15c00fe953ddc5979e9c64395b517a762ac">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/commit/2ed013c9c75bd85d6821aee9c34d78ee4f9a0270">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch codex/verify-renovate-signatures in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/7c5b3f1b18a6dbe319fcfff7d9af70a98a0458c1">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/auth-cutover-polish in <a href="https://github.com/TheDanniCraft/clipify/commit/a3edbca9fc38161a80d451643e28696e39f84383">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/npm/major-@sentrynextjs-dependency-update in <a href="https://github.com/TheDanniCraft/clipify/commit/6ad2807bd9bd514df5519f7e7cb9883a4165ace3">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/0ac7ccfc50f389ce0b2d455fda5e736c290ba410">TheDanniCraft/Portfolio</a></li>
-<li>📥 Opened PR #203 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/203">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/ced7a4810892f0cd52fab521b760d601288b0fe5">TheDanniCraft/Portfolio</a></li>
-<li>🎉 Created a new branch improvements in <a href="https://github.com/TheDanniCraft/Portfolio/tree/improvements">TheDanniCraft/Portfolio</a></li>
-<li>🎉 Created a new branch fix/obs-overlay-presence in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/obs-overlay-presence">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

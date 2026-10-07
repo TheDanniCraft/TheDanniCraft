@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v4.0.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.5">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #497 in <a href="https://github.com/TheDanniCraft/clipify/pull/497">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #497 in <a href="https://github.com/TheDanniCraft/clipify/pull/497">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #496 in <a href="https://github.com/TheDanniCraft/clipify/pull/496">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch improvements in <a href="https://github.com/TheDanniCraft/Portfolio">TheDanniCraft/Portfolio</a></li>
 <li>🗣 Commented on PR #190 in <a href="https://github.com/TheDanniCraft/Portfolio/issues/190#issuecomment-6013642809">TheDanniCraft/Portfolio</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/57cbf43de3006a61537c8f5473205cda4bbf9da2">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/bed8814bb23a3f8ef8d0c6322d92172aafc330ed">TheDanniCraft/Portfolio</a></li>
 <li>🎉 Created a new branch fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/community-avatar-rings">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to codex/auth-dialog-spacing in <a href="https://github.com/TheDanniCraft/clipify/commit/000e55fa97eabfa4ffc9581b102a87b45b807069">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/9d1777e7a55397d810f0818ff27b4589b46dbd2f">TheDanniCraft/Portfolio</a></li>
-<li>🔀 Merged PR #203 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/203">TheDanniCraft/Portfolio</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

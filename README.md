@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/c7993ba892551bfb3f7cc38349ba5b019c0c4b22">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5d803b0bc11723061308ef5ae919fc1c54b89198">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.0.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.5">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #497 in <a href="https://github.com/TheDanniCraft/clipify/pull/497">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #497 in <a href="https://github.com/TheDanniCraft/clipify/pull/497">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗣 Commented on PR #190 in <a href="https://github.com/TheDanniCraft/Portfolio/issues/190#issuecomment-6013642809">TheDanniCraft/Portfolio</a></li>
 <li>🎉 Created a new branch codex/balance-case-study-outlines in <a href="https://github.com/TheDanniCraft/Portfolio/tree/codex/balance-case-study-outlines">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/57cbf43de3006a61537c8f5473205cda4bbf9da2">TheDanniCraft/Portfolio</a></li>
-<li>📝 Committed to improvements in <a href="https://github.com/TheDanniCraft/Portfolio/commit/bed8814bb23a3f8ef8d0c6322d92172aafc330ed">TheDanniCraft/Portfolio</a></li>
-<li>🎉 Created a new branch fix/community-avatar-rings in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/community-avatar-rings">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

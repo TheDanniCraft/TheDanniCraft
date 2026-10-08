@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch fix/better-auth-proxy-version in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/36cea8accf889a16ed5262b3b6616e1a8ac416d3">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/e9a34dc0b9043461a9c67b421bdc2dc4789e20b6">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/better-auth-proxy-version in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/better-auth-proxy-version">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/ae4335f67fed5b5af3b9ac6a95a25fe663e83731">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/03734d4455190bff78c36d1a778fd09428210d09">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/github-actions/major-github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/609b57cc94053ddc4c43ac0541252a4422d0bd66">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/c7993ba892551bfb3f7cc38349ba5b019c0c4b22">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5d803b0bc11723061308ef5ae919fc1c54b89198">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.0.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.0.5">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #497 in <a href="https://github.com/TheDanniCraft/clipify/pull/497">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #497 in <a href="https://github.com/TheDanniCraft/clipify/pull/497">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #496 in <a href="https://github.com/TheDanniCraft/clipify/pull/496">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

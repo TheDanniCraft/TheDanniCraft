@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/e022ed8f34609df689c1f78b196d1ace87a19456">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/b942bd6dcd19f14ca03927918382c89fe809eceb">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #502 in <a href="https://github.com/TheDanniCraft/clipify/pull/502">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/bd0fef6d41b43529a852c4fcc8a755f8b879fa71">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.1.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.0">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/be8823233ada5a842207598fb32d6c61d1f95a95">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #501 in <a href="https://github.com/TheDanniCraft/clipify/pull/501">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/migration-creator-uniqueness in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #501 in <a href="https://github.com/TheDanniCraft/clipify/pull/501">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/sentry-errors in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/sentry-errors">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/migration-push-checks in <a href="https://github.com/TheDanniCraft/clipify/commit/3f94cf142d908121dd3fbdcb5b219942b6e98a5d">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/9d5b54c36eb30fb7b193d4103a3d08e8d534f414">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/6f51cd6448e797d37cc6937fc9f84566bff88dd6">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/29765c6eb4490c62825ecda7af60d43854e25c04">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/2fcb4a5774bfabd7f302c232e54e2bef58dc15e2">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #500 in <a href="https://github.com/TheDanniCraft/clipify/pull/500">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/66e0ed755a85f07e3ce2d546c2a4b84f3a2bd67a">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/mcp-support">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

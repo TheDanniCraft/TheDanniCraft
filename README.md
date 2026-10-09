@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/4e5eae00a16780437b1820442160427c9c3fd468">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch feature/mcp-discovery-launch in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/mcp-discovery-launch">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/acb3b3e28f5a87c75b9bc9d186a8f7fd235b7d93">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/e022ed8f34609df689c1f78b196d1ace87a19456">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/b942bd6dcd19f14ca03927918382c89fe809eceb">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #502 in <a href="https://github.com/TheDanniCraft/clipify/pull/502">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>🚀 Published release v4.1.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/be8823233ada5a842207598fb32d6c61d1f95a95">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #501 in <a href="https://github.com/TheDanniCraft/clipify/pull/501">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/migration-creator-uniqueness in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #501 in <a href="https://github.com/TheDanniCraft/clipify/pull/501">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/sentry-errors in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/sentry-errors">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

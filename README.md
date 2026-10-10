@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/ecae530eaea00e9be9b104a94809d2c6e4ffd8e1">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/b1dafb0cc671b6cfc08698ac89faf65eb0907653">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/oauth-resource-startup">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/42ff8c8511e139a2093939454f75a539c8678541">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b6135be5deb75fcc02c4a9e7e60644c78e1fe933">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/b162485abb404dce0bf6bca5324c53e86a5e308c">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/e3a4cf7486fb9629ec5c5b745486e01b3e15da71">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/migration-push-checks in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/migration-push-checks in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/migration-push-checks">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/4e5eae00a16780437b1820442160427c9c3fd468">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch feature/mcp-discovery-launch in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/mcp-discovery-launch">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/acb3b3e28f5a87c75b9bc9d186a8f7fd235b7d93">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/e022ed8f34609df689c1f78b196d1ace87a19456">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

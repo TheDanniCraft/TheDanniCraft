@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged PR #505 in <a href="https://github.com/TheDanniCraft/clipify/pull/505">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/75a8ce25117660f2158363ef1c417797ff440787">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/1631fdebf51b116fa4835dc388c6a4969554e9a2">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #505 in <a href="https://github.com/TheDanniCraft/clipify/pull/505">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.1.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.2">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #504 in <a href="https://github.com/TheDanniCraft/clipify/pull/504">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/migration-creator-uniqueness in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/migration-creator-uniqueness">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #504 in <a href="https://github.com/TheDanniCraft/clipify/pull/504">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/sentry-errors in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/49db765264d7b8a936eb3f93d2628e5d4d479db4">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.1.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.1">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/0ea333612446c39313cc76e3e4f7141357900137">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #502 in <a href="https://github.com/TheDanniCraft/clipify/pull/502">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/5010111d4249ea68d63f79099338aaf09338df45">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/mcp-support in <a href="https://github.com/TheDanniCraft/clipify/commit/ecae530eaea00e9be9b104a94809d2c6e4ffd8e1">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/b1dafb0cc671b6cfc08698ac89faf65eb0907653">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/oauth-resource-startup">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/42ff8c8511e139a2093939454f75a539c8678541">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

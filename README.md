@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/c8cfaf3b8500addef679ab3305d1d82558a82b21">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/a246ff8f8bfbb1e29525ea2e232d7eba57f4cd06">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.1.3 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.3">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #505 in <a href="https://github.com/TheDanniCraft/clipify/pull/505">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/75a8ce25117660f2158363ef1c417797ff440787">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/1631fdebf51b116fa4835dc388c6a4969554e9a2">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>🚀 Published release v4.1.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.2">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #504 in <a href="https://github.com/TheDanniCraft/clipify/pull/504">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/migration-creator-uniqueness in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/migration-creator-uniqueness">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #504 in <a href="https://github.com/TheDanniCraft/clipify/pull/504">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/sentry-errors in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/49db765264d7b8a936eb3f93d2628e5d4d479db4">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

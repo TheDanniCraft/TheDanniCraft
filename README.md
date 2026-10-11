@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v4.1.4 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.4">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #507 in <a href="https://github.com/TheDanniCraft/clipify/pull/507">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #507 in <a href="https://github.com/TheDanniCraft/clipify/pull/507">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/mcp-login-state in <a href="https://github.com/TheDanniCraft/clipify/commit/eefa0cc7ad3b71304cde8866eca2a390f9c5aa96">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/mcp-login-state in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/mcp-login-state">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/4df6b7b6858eb91ca09cb729ea4db08300f32f05">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5911f82c72797562a93ded4e07dfddf76290829e">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/twitch-oauth-state in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/0e6fbdf7ad3a4e0975330576ada91f7f8f47e8fc">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/c8cfaf3b8500addef679ab3305d1d82558a82b21">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/a246ff8f8bfbb1e29525ea2e232d7eba57f4cd06">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.1.3 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.3">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

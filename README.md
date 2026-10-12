@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🚀 Published release v4.1.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/ba675c20ee1e2d0c57fe4d3d4ff9bc39f6874eda">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0755401672a7f38e796999e4c8e67883c40f58e4">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #509 in <a href="https://github.com/TheDanniCraft/clipify/pull/509">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/editor-email-login in <a href="https://github.com/TheDanniCraft/clipify/commit/716cff4d547b7e54e0a032ce9a42c88efcd022a5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/editor-email-login in <a href="https://github.com/TheDanniCraft/clipify/commit/e8432e9c80a7c7b2df301e89e16e305f32eca580">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #509 in <a href="https://github.com/TheDanniCraft/clipify/pull/509">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch feature/editor-email-login in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/editor-email-login">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/mcp-review-tools in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/44253e31c4e05947268e3af8acbda5a4225229f2">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #511 in <a href="https://github.com/TheDanniCraft/clipify/pull/511">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #511 in <a href="https://github.com/TheDanniCraft/clipify/pull/511">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch feature/openai-review-readiness in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/openai-review-readiness">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #510 in <a href="https://github.com/TheDanniCraft/clipify/pull/510">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #510 in <a href="https://github.com/TheDanniCraft/clipify/pull/510">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/editor-workspace-layout in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/editor-workspace-layout">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/ea9d13b7dafa0a4e98908327f13207150f6d2e82">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/mcp-login-state in <a href="https://github.com/TheDanniCraft/clipify/commit/35f1e4e8ab34246211e856563c9105e18ee67d41">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/oauth-resource-startup in <a href="https://github.com/TheDanniCraft/clipify/commit/01118788772b89b11075b32a57498ad3a6226103">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

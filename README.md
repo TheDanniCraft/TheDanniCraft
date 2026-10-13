@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged PR #514 in <a href="https://github.com/TheDanniCraft/clipify/pull/514">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/6a36eb21c3a90eaf0e56b38f26d2b8dafaad72e1">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch feature/openai-review-readiness in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/mcp-clip-thumbnails in <a href="https://github.com/TheDanniCraft/clipify/commit/cf026762437c4eaae1c9c63da36aef12b1e54a87">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #514 in <a href="https://github.com/TheDanniCraft/clipify/pull/514">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/mcp-clip-thumbnails in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/mcp-clip-thumbnails">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/8774e9801c08c19746b4c2e052b24b99c986545a">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.1.7 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.7">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/transactional-email-replies in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #513 in <a href="https://github.com/TheDanniCraft/clipify/pull/513">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #513 in <a href="https://github.com/TheDanniCraft/clipify/pull/513">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/health-metrics-dashboard in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #512 in <a href="https://github.com/TheDanniCraft/clipify/pull/512">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #512 in <a href="https://github.com/TheDanniCraft/clipify/pull/512">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/twitch-oauth-state in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/twitch-oauth-state">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.1.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.6">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #511 in <a href="https://github.com/TheDanniCraft/clipify/pull/511">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

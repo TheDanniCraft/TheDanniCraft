@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch fix/editor-workspace-layout in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/97366c3b494cd77e6ab51ac65b15821aeea37372">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #24 in <a href="https://github.com/payloadbay/.github/pull/24">payloadbay/.github</a></li>
 <li>🎉 Created a new branch fix/transactional-email-replies in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/transactional-email-replies">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📥 Opened PR #211 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/211">TheDanniCraft/Portfolio</a></li>
 <li>🎉 Created a new branch codex/bootstrap-speckit-graphify in <a href="https://github.com/TheDanniCraft/Portfolio/tree/codex/bootstrap-speckit-graphify">TheDanniCraft/Portfolio</a></li>
 <li>📥 Opened PR #210 in <a href="https://github.com/TheDanniCraft/Portfolio/pull/210">TheDanniCraft/Portfolio</a></li>
-<li>🎉 Created a new branch build/10-speckit-init in <a href="https://github.com/payloadbay/payloadbay/tree/build/10-speckit-init">payloadbay/payloadbay</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

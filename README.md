@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/17453837b79fc0972a9635c1afe42484ab24cbf9">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/794c73af0e95527dbe138af27559c638e4d0e5e0">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/72f7ecd3ae376c457de850bf702436b270d15068">payloadbay/payloadbay</a></li>
+<li>📥 Opened PR #13 in <a href="https://github.com/payloadbay/payloadbay/pull/13">payloadbay/payloadbay</a></li>
+<li>🏷️ Added a label to issue #12 in <a href="https://github.com/payloadbay/payloadbay/issues/12">payloadbay/payloadbay</a></li>
+<li>🆕 Opened issue #12 in <a href="https://github.com/payloadbay/payloadbay/issues/12">payloadbay/payloadbay</a></li>
+<li>🎉 Created a new branch docs/mcp-manual-connection-guide in <a href="https://github.com/TheDanniCraft/clipify/tree/docs/mcp-manual-connection-guide">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch chore/25-typescript-tooling-baseline in <a href="https://github.com/payloadbay/.github/tree/chore/25-typescript-tooling-baseline">payloadbay/.github</a></li>
 <li>📥 Opened PR #26 in <a href="https://github.com/payloadbay/.github/pull/26">payloadbay/.github</a></li>
 <li>🆕 Opened issue #25 in <a href="https://github.com/payloadbay/.github/issues/25">payloadbay/.github</a></li>
-<li>🏷️ Added a label to issue #25 in <a href="https://github.com/payloadbay/.github/issues/25">payloadbay/.github</a></li>
-<li>🗑️ Deleted a branch fix/mcp-clip-thumbnails in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/940c8f17a8e3ec62dd1e59ca27ec535c615c29cf">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/health-metrics-dashboard in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/health-metrics-dashboard">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch chore/add-runtime-theme in <a href="https://github.com/payloadbay/brand">payloadbay/brand</a></li>
-<li>🔀 Merged PR #10 in <a href="https://github.com/payloadbay/brand/pull/10">payloadbay/brand</a></li>
-<li>📥 Opened PR #10 in <a href="https://github.com/payloadbay/brand/pull/10">payloadbay/brand</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

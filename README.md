@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to docs/mcp-manual-connection-guide in <a href="https://github.com/TheDanniCraft/clipify/commit/ad498e7afa33e3500fd9c28a5ed23328432f7964">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/cb6bec3df8018ef2837853923a60859b861a84b8">TheDanniCraft/Portfolio</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/Portfolio/commit/c2bb9e24a7a9792aacfe5caead8d042ba1634f73">TheDanniCraft/Portfolio</a></li>
 <li>🗑️ Deleted a branch build/10-speckit-init in <a href="https://github.com/payloadbay/payloadbay">payloadbay/payloadbay</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/17453837b79fc0972a9635c1afe42484ab24cbf9">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/794c73af0e95527dbe138af27559c638e4d0e5e0">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/72f7ecd3ae376c457de850bf702436b270d15068">payloadbay/payloadbay</a></li>
-<li>📥 Opened PR #13 in <a href="https://github.com/payloadbay/payloadbay/pull/13">payloadbay/payloadbay</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

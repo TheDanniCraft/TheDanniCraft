@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/e7ab4737656f5f681a8ac528ad906631c162abd8">payloadbay/payloadbay</a></li>
+<li>🗑️ Deleted a branch chore/ui-library-guidance in <a href="https://github.com/payloadbay/.github">payloadbay/.github</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/a24c86d68db7bdb3fdc56f2334c33e005d7481ea">payloadbay/payloadbay</a></li>
+<li>🗑️ Deleted a branch fix/public-preview-mail in <a href="https://github.com/payloadbay/payloadbay">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/80f5eb3e0183ab31546b011d82e2dcf792d3aa90">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/b4542dc3bcdb097d61c8948427241389ad160bdf">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/63aa768c7205f32af84c050a2f6f126f877adfc0">payloadbay/payloadbay</a></li>
 <li>❌ Closed issue #13 in <a href="https://github.com/payloadbay/brand/issues/13">payloadbay/brand</a></li>
 <li>🔀 Merged PR #14 in <a href="https://github.com/payloadbay/brand/pull/14">payloadbay/brand</a></li>
 <li>❌ Closed PR #12 in <a href="https://github.com/payloadbay/brand/pull/12">payloadbay/brand</a></li>
-<li>📥 Opened PR #14 in <a href="https://github.com/payloadbay/brand/pull/14">payloadbay/brand</a></li>
-<li>🏷️ Added a label to issue #13 in <a href="https://github.com/payloadbay/brand/issues/13">payloadbay/brand</a></li>
-<li>🆕 Opened issue #13 in <a href="https://github.com/payloadbay/brand/issues/13">payloadbay/brand</a></li>
-<li>📥 Opened PR #12 in <a href="https://github.com/payloadbay/brand/pull/12">payloadbay/brand</a></li>
-<li>❌ Closed PR #11 in <a href="https://github.com/payloadbay/brand/pull/11">payloadbay/brand</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

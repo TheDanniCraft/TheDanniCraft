@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🎉 Created a new branch chore/ui-library-guidance in <a href="https://github.com/payloadbay/.github/tree/chore/ui-library-guidance">payloadbay/.github</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/6ddea33e1e8243175f6cd6f45d382a285c808f5e">payloadbay/payloadbay</a></li>
+<li>🗑️ Deleted a branch fix/12-public-preview-mail in <a href="https://github.com/payloadbay/payloadbay">payloadbay/payloadbay</a></li>
+<li>🎉 Created a new branch fix/12-public-preview-mail in <a href="https://github.com/payloadbay/payloadbay/tree/fix/12-public-preview-mail">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/9cc3cf83f04c954b003c95a1fcc468ab30da4baf">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/ffe8ff77d4fbf53176ec8e13b2bf5d5546ee9965">payloadbay/payloadbay</a></li>
 <li>🎉 Created a new branch feat/transparent-dark-brand-assets in <a href="https://github.com/payloadbay/brand/tree/feat/transparent-dark-brand-assets">payloadbay/brand</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/fbcf4d880f812b57f8e7893bd74a0f0c8ec58210">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/e7ab4737656f5f681a8ac528ad906631c162abd8">payloadbay/payloadbay</a></li>
 <li>🗑️ Deleted a branch chore/ui-library-guidance in <a href="https://github.com/payloadbay/.github">payloadbay/.github</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/a24c86d68db7bdb3fdc56f2334c33e005d7481ea">payloadbay/payloadbay</a></li>
-<li>🗑️ Deleted a branch fix/public-preview-mail in <a href="https://github.com/payloadbay/payloadbay">payloadbay/payloadbay</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/80f5eb3e0183ab31546b011d82e2dcf792d3aa90">payloadbay/payloadbay</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/b4542dc3bcdb097d61c8948427241389ad160bdf">payloadbay/payloadbay</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/63aa768c7205f32af84c050a2f6f126f877adfc0">payloadbay/payloadbay</a></li>
-<li>❌ Closed issue #13 in <a href="https://github.com/payloadbay/brand/issues/13">payloadbay/brand</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/b4542dc3bcdb097d61c8948427241389ad160bdf">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/63aa768c7205f32af84c050a2f6f126f877adfc0">payloadbay/payloadbay</a></li>
 <li>❌ Closed issue #13 in <a href="https://github.com/payloadbay/brand/issues/13">payloadbay/brand</a></li>
 <li>🔀 Merged PR #14 in <a href="https://github.com/payloadbay/brand/pull/14">payloadbay/brand</a></li>
 <li>❌ Closed PR #12 in <a href="https://github.com/payloadbay/brand/pull/12">payloadbay/brand</a></li>
@@ -93,8 +95,6 @@
 <li>🆕 Opened issue #13 in <a href="https://github.com/payloadbay/brand/issues/13">payloadbay/brand</a></li>
 <li>📥 Opened PR #12 in <a href="https://github.com/payloadbay/brand/pull/12">payloadbay/brand</a></li>
 <li>❌ Closed PR #11 in <a href="https://github.com/payloadbay/brand/pull/11">payloadbay/brand</a></li>
-<li>📥 Opened PR #11 in <a href="https://github.com/payloadbay/brand/pull/11">payloadbay/brand</a></li>
-<li>🔀 Merged PR #28 in <a href="https://github.com/payloadbay/.github/pull/28">payloadbay/.github</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

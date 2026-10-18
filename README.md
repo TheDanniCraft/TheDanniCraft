@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/6ed494324183aece4143b52fd1ab61837cfe81d5">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/120ef452beea840e798419c81289da1e5dcd4f55">payloadbay/payloadbay</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/87908ec49e05b5b4ef6e2b3a07155a70503cd710">payloadbay/payloadbay</a></li>
 <li>📝 Committed to chore/25-typescript-tooling-baseline in <a href="https://github.com/payloadbay/.github/commit/4f8c473cf3560eea41531e2e1c5f8c27ae865a1b">payloadbay/.github</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/29aa23c965db7a58ce471fee94d4fab218a9ac8d">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/017cd69983151b7d7e924ed49a9499c998502861">payloadbay/payloadbay</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/effbdf7ad23bff0db704532ec49bbefb00f2909c">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/1ac8422b14fe1c8ce08b5db3a82fc4fa95ef0e65">payloadbay/payloadbay</a></li>
 <li>❌ Closed issue #29 in <a href="https://github.com/payloadbay/.github/issues/29">payloadbay/.github</a></li>
-<li>🔀 Merged PR #30 in <a href="https://github.com/payloadbay/.github/pull/30">payloadbay/.github</a></li>
-<li>🔀 Merged PR #26 in <a href="https://github.com/payloadbay/.github/pull/26">payloadbay/.github</a></li>
-<li>❌ Closed issue #25 in <a href="https://github.com/payloadbay/.github/issues/25">payloadbay/.github</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

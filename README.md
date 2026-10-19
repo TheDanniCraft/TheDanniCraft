@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/ec95eae8b05c73631288703389089a4bbb2e09eb">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/81dc1fd4613e29088df7cdabf1fedbcc58b56392">payloadbay/payloadbay</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/40e5280b907ad2155293fd4df79d838d2c796ec8">payloadbay/payloadbay</a></li>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/04402364162705541df44f1ff0cfcd668bafcdfc">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/4be68ca38f0057eb783685894ad7f02e0ae2c091">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/a1987456dfca8850c4c683d5db6069630e098c8b">payloadbay/payloadbay</a></li>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/f75e10910dd82ca432c06e7157fdcce9ba2c86ab">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/tree/plan/free-runner-branding">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/971bb79b5c20f7f7a2613a4ad62ab5da809a11ba">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/cd5a522c5c28ddf1e0e0e818d57e2a8e945002a3">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/5738f61678b4d80f2185f649979eaeac06c95aff">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/8036d19103ba6550e5ffdcef09c837414cbaecd9">payloadbay/payloadbay</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/47f54bd854520596fde5e168d32a3bc197df9113">TheDanniCraft/clipify</a></li>
+<li>🗣 Commented on PR #9 in <a href="https://github.com/payloadbay/payloadbay/issues/9#issuecomment-6264591469">payloadbay/payloadbay</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/1736fb6a3adba18181b46368948b0341f967e504">TheDanniCraft/clipify</a></li>
+<li>❌ Closed issue #8 in <a href="https://github.com/payloadbay/payloadbay/issues/8">payloadbay/payloadbay</a></li>
+<li>❌ Closed PR #9 in <a href="https://github.com/payloadbay/payloadbay/pull/9">payloadbay/payloadbay</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/f4e6f4b48ab7a0243ebdbd329c1aac4c946e6f50">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/7b781a15171b4cdf72add36329d24328ff5f6c6b">payloadbay/payloadbay</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/ad8b1f602a19ae99d57aab4b7099dc7de2ef6909">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/d98fdb3b41eaa075fb80ed8dd0a9899b14ab7018">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/fc38ae9351793cc560dde1bcbd7a623ec1756214">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/11f4c9817969957ebcf8d07eefd07e50cb89cc13">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/dccc9aae8bb7231cecf97ef1dbbd9ce873d0736f">TheDanniCraft/clipify</a></li>
 <li>❌ Closed PR #522 in <a href="https://github.com/TheDanniCraft/clipify/pull/522">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📥 Opened PR #522 in <a href="https://github.com/TheDanniCraft/clipify/pull/522">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch codex/google-oauth-proxy in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/google-oauth-proxy">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #521 in <a href="https://github.com/TheDanniCraft/clipify/pull/521">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch hotfix/fix-onboarding-issues in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix/fix-onboarding-issues">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/a73922d9a75766c76ce19e68a852aa1557eca7e5">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

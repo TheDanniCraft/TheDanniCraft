@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/11f4c9817969957ebcf8d07eefd07e50cb89cc13">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/dccc9aae8bb7231cecf97ef1dbbd9ce873d0736f">TheDanniCraft/clipify</a></li>
 <li>❌ Closed PR #522 in <a href="https://github.com/TheDanniCraft/clipify/pull/522">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #523 in <a href="https://github.com/TheDanniCraft/clipify/pull/523">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/79675be72bf6444952a54d5dff1b99babd6fe5bd">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📥 Opened PR #521 in <a href="https://github.com/TheDanniCraft/clipify/pull/521">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch hotfix/fix-onboarding-issues in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix/fix-onboarding-issues">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/a73922d9a75766c76ce19e68a852aa1557eca7e5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/0ba7adaaaedadc8f0d9a4f45339349f3fee07d1c">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/12-releasable-alpha in <a href="https://github.com/payloadbay/payloadbay/commit/f0b83893a5bbb7066ccb9659848bf229a51564c2">payloadbay/payloadbay</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

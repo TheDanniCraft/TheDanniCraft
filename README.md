@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/35b80a192146c94c97bf51cbac16d5b953e04560">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/e5ebc5660b9260053c19177fb353fec4f70f5457">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/2313d1f0fd4df7b9e2255c42aed0cb12be568b1d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/ab0a3875da76c0b926957e600c360c7464b42736">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/eda1afbd3e0815f83639f5c6b0bdbcb12cec6400">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/b9e465c650e904f914675fe66cde1cb97fc47fd7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/bd9201895f4a9da733c9d168c59d6c94ed7f3f16">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #527 in <a href="https://github.com/TheDanniCraft/clipify/pull/527">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

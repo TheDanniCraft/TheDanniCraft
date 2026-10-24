@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/90f20f76274bd501b7ab57b539fad560971268af">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/397deedd4c0552bbabddbd8605f3ccfc251013b6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/eda1afbd3e0815f83639f5c6b0bdbcb12cec6400">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/b9e465c650e904f914675fe66cde1cb97fc47fd7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/bd9201895f4a9da733c9d168c59d6c94ed7f3f16">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/43587197fd536ab0e8886230466b337ede1abc30">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/1c47c7037fd907a61dfb5e0a3bf618334d842a62">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch hotfix/wire-onboarding-deployment in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch hotfix/wire-onboarding-deployment in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix/wire-onboarding-deployment">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/da6164bb2eac846350720e15cf673895258c5e38">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

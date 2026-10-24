@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/eda1afbd3e0815f83639f5c6b0bdbcb12cec6400">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/b9e465c650e904f914675fe66cde1cb97fc47fd7">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/bd9201895f4a9da733c9d168c59d6c94ed7f3f16">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #527 in <a href="https://github.com/TheDanniCraft/clipify/pull/527">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/e74c9f52380c843b265a03dba13a9dfc874c0abd">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🗑️ Deleted a branch hotfix/wire-onboarding-deployment in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch hotfix/wire-onboarding-deployment in <a href="https://github.com/TheDanniCraft/clipify/tree/hotfix/wire-onboarding-deployment">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/da6164bb2eac846350720e15cf673895258c5e38">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.1.11 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.1.11">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #527 in <a href="https://github.com/TheDanniCraft/clipify/pull/527">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

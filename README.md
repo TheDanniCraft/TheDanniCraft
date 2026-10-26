@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/8c4573dd1f08972015f1c3d7bf60aada0a9f0b91">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/432cd510fe855b6e0513e6a06248c6e5006b116a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/9da611350f68beeb53e5397d1f9bb69089106dc6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/daybreak-security-audit in <a href="https://github.com/TheDanniCraft/clipify/commit/1bb45450f8388f61beb74b95fe4958ed2747ef2f">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #532 in <a href="https://github.com/TheDanniCraft/clipify/pull/532">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>🔀 Merged PR #531 in <a href="https://github.com/TheDanniCraft/clipify/pull/531">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/85b14260108568472fcd539c40c6b9f7d0c70370">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/daybreak-security-audit in <a href="https://github.com/TheDanniCraft/clipify/commit/3a69bb7f17d1d92ebe00fbef1ac1e56ea528dd4e">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/major-linting in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/daybreak-security-audit in <a href="https://github.com/TheDanniCraft/clipify/commit/f52ee45e4d57f3defe157bf055aa2250f985a51b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

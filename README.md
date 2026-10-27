@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/2367ae90fe5117fea27d46b7047b6bab0c8fa024">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/25853e8d0e8af769b5b010d0b8af4c634d4504d0">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/e16ea63d67b17eb8c2a7d81b27845db1043ec4f6">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/bcbfa044be6dc45a0c45a369925aa9159b94a209">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #533 in <a href="https://github.com/TheDanniCraft/clipify/pull/533">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/b21f0ab9760f3f5039f23125bd30848e778b5f15">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #532 in <a href="https://github.com/TheDanniCraft/clipify/pull/532">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/83f9446bf76888802e0bfe605f1c694c6c7df7fd">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/d9ea1d5469559b241c0f2bb12712ddc3d09cd8a5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/eaf3ffb00ce5a0fbe36d3b7debecb5a96172c1ac">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/tree/feat/user-tour">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/deb91a851135fd9233648889535f9cc22a3ada5b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/deb91a851135fd9233648889535f9cc22a3ada5b">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #535 in <a href="https://github.com/TheDanniCraft/clipify/pull/535">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/ec6be8d85dd652fbd5ac3027e2df5c48d63416de">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/tree/feat/redesign-landing-page">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/af0947a29ccdb80c9057db82960abab0fa7f20b3">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.2.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.2.1">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #534 in <a href="https://github.com/TheDanniCraft/clipify/pull/534">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #534 in <a href="https://github.com/TheDanniCraft/clipify/pull/534">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.2.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.2.0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/2367ae90fe5117fea27d46b7047b6bab0c8fa024">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/25853e8d0e8af769b5b010d0b8af4c634d4504d0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/e16ea63d67b17eb8c2a7d81b27845db1043ec4f6">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/bcbfa044be6dc45a0c45a369925aa9159b94a209">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #533 in <a href="https://github.com/TheDanniCraft/clipify/pull/533">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

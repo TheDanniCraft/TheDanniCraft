@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/d277112bfecae8d48b3ab7dfeaf82c0f72672825">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch codex/fix-existing-creator-sign-in in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch codex/fix-existing-creator-sign-in in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/fix-existing-creator-sign-in">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/bc593b890b5b80bf1a9925399b95679d9aa1d3a7">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #535 in <a href="https://github.com/TheDanniCraft/clipify/pull/535">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to plan/free-runner-branding in <a href="https://github.com/TheDanniCraft/clipify/commit/af0947a29ccdb80c9057db82960abab0fa7f20b3">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.2.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.2.1">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #534 in <a href="https://github.com/TheDanniCraft/clipify/pull/534">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #534 in <a href="https://github.com/TheDanniCraft/clipify/pull/534">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.2.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.2.0">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

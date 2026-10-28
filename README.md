@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #536 in <a href="https://github.com/TheDanniCraft/clipify/pull/536">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/5d0b9d02ab27c6b6d6b64fc7a9ad1766399acf1a">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #535 in <a href="https://github.com/TheDanniCraft/clipify/pull/535">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/recent-auth-flows">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2399ec18cc948366d585c8205c653dbda1303644">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/99a9d7b32369c0bb6b5e96837a89e0adcfd2b61f">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/d277112bfecae8d48b3ab7dfeaf82c0f72672825">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch codex/fix-existing-creator-sign-in in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch codex/fix-existing-creator-sign-in in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/fix-existing-creator-sign-in">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/user-tour in <a href="https://github.com/TheDanniCraft/clipify/commit/bc593b890b5b80bf1a9925399b95679d9aa1d3a7">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #535 in <a href="https://github.com/TheDanniCraft/clipify/pull/535">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/ec6be8d85dd652fbd5ac3027e2df5c48d63416de">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

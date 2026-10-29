@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/b7d489ab8cfbb399c2ca82100596e0a40d666d5e">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/346b2260a582b7e5dbf7155d0313d394af1c2f7c">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/9f6107a3549f11ce28e16921bd55fbf0a5ff023f">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.2.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.2.2">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/dbced43093354b70020a285e4c202d62d81e5a26">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/2c09634ab10628d9a6a4039f99230026cc62b185">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/fba5d8d7788dd911659c41893cfa25b12a594e50">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/76a8806c1e76ed53618013f55f04485a6ef1a1a3">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/a2c025f7fceafab53ae1e30bf7ca4529e5384463">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

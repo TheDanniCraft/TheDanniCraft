@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/d9362c481596da71d9e1beeb507cd4e97afe21fa">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/oauth2-problem">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/db23f08022ada430940e7af6125459ec79ba0782">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/b7d489ab8cfbb399c2ca82100596e0a40d666d5e">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/346b2260a582b7e5dbf7155d0313d394af1c2f7c">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>🚀 Published release v4.2.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.2.2">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #536 in <a href="https://github.com/TheDanniCraft/clipify/pull/536">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/f192094d8e39d09a82748deca31381653eff0d34">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/dbced43093354b70020a285e4c202d62d81e5a26">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/2c09634ab10628d9a6a4039f99230026cc62b185">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/fba5d8d7788dd911659c41893cfa25b12a594e50">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

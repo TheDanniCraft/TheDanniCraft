@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/9f6107a3549f11ce28e16921bd55fbf0a5ff023f">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.2.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.2.2">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #536 in <a href="https://github.com/TheDanniCraft/clipify/pull/536">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/f192094d8e39d09a82748deca31381653eff0d34">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/dbced43093354b70020a285e4c202d62d81e5a26">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/2c09634ab10628d9a6a4039f99230026cc62b185">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/fba5d8d7788dd911659c41893cfa25b12a594e50">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/76a8806c1e76ed53618013f55f04485a6ef1a1a3">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/a2c025f7fceafab53ae1e30bf7ca4529e5384463">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #536 in <a href="https://github.com/TheDanniCraft/clipify/pull/536">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/5d0b9d02ab27c6b6d6b64fc7a9ad1766399acf1a">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #535 in <a href="https://github.com/TheDanniCraft/clipify/pull/535">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/recent-auth-flows">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5801b671fe773fd3950c4ed88886ecad783a1159">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/6d7cf0d4b6cc60867ac8064a32283debc2ec9f0a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/13201debdacf3547796084d69eacf61aa53a3f93">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/faecb7585c313f31593a83a0f165f11142318da2">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/b891a28ddddab9bde4791cc9473525bbc3482d60">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/d9362c481596da71d9e1beeb507cd4e97afe21fa">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/oauth2-problem">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/db23f08022ada430940e7af6125459ec79ba0782">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/b7d489ab8cfbb399c2ca82100596e0a40d666d5e">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/346b2260a582b7e5dbf7155d0313d394af1c2f7c">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

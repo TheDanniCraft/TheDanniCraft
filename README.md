@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/893b572e1b8a843f8753a1ac0eefeec5561f88fc">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/3cd850633bacbc016a9fb139f835ed42b60a158d">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/f62df7e51de69cdabd3da35de816e54cbfb0616d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/30351ead6535bb63f698b6c991e766c1083ef523">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/b7559f875031818bee996f7ba8161ecfe1c7655a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/ff4459509f4e1df72a2828d94268fa64c40b348b">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/6d7cf0d4b6cc60867ac8064a32283debc2ec9f0a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/13201debdacf3547796084d69eacf61aa53a3f93">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/faecb7585c313f31593a83a0f165f11142318da2">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/b891a28ddddab9bde4791cc9473525bbc3482d60">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/731c4fe7bf3e73bd9cb19650bea397d4eef889d0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/9c11c7cf1e537300a3961fe6bb3b49e654168f3e">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/c9bcd950bb7430ca0248860ec3a40bfc3338ef5c">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/5ff1c25510a2a33837a0f03f993db99845cadce3">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/893b572e1b8a843f8753a1ac0eefeec5561f88fc">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/3cd850633bacbc016a9fb139f835ed42b60a158d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/f62df7e51de69cdabd3da35de816e54cbfb0616d">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/b7559f875031818bee996f7ba8161ecfe1c7655a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/ff4459509f4e1df72a2828d94268fa64c40b348b">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5801b671fe773fd3950c4ed88886ecad783a1159">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/oauth2-problem in <a href="https://github.com/TheDanniCraft/clipify/commit/6d7cf0d4b6cc60867ac8064a32283debc2ec9f0a">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/recent-auth-flows in <a href="https://github.com/TheDanniCraft/clipify/commit/13201debdacf3547796084d69eacf61aa53a3f93">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/faecb7585c313f31593a83a0f165f11142318da2">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

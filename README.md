@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🔀 Merged PR #542 in <a href="https://github.com/TheDanniCraft/clipify/pull/542">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/6f7bece26465670d169aed2e88e319735a89e3f5">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/86761e51b572cbe087899871377dbfd53bb599d7">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/a2d2bb43bfcffbeaf69d6d12583bc2560a89cb6f">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #542 in <a href="https://github.com/TheDanniCraft/clipify/pull/542">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.3.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.3.1">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #541 in <a href="https://github.com/TheDanniCraft/clipify/pull/541">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #540 in <a href="https://github.com/TheDanniCraft/clipify/pull/540">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/922cef1b889927d691314b9067a1873921120f90">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #541 in <a href="https://github.com/TheDanniCraft/clipify/pull/541">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #540 in <a href="https://github.com/TheDanniCraft/clipify/pull/540">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.3.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.3.0">TheDanniCraft/clipify</a></li>
-<li>❌ Closed PR #539 in <a href="https://github.com/TheDanniCraft/clipify/pull/539">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #539 in <a href="https://github.com/TheDanniCraft/clipify/pull/539">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

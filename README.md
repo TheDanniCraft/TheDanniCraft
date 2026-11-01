@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🎉 Created a new branch fix/newsletter-horizontal-verification in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/newsletter-horizontal-verification">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/public-page-navigation in <a href="https://github.com/TheDanniCraft/clipify/commit/c9123fbfa7b243bf2e1ca6b35a9ca20115d64a42">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/public-page-navigation in <a href="https://github.com/TheDanniCraft/clipify/commit/8214f258825f821266527bcfc7e7d21a26178496">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/c9bcd950bb7430ca0248860ec3a40bfc3338ef5c">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/grafana-guide-labels in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/grafana-guide-labels">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/262a626e642dc66ee02125417094fadfb64fcbe6">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/600092e4fe499f42befc2cf47e30314fab9c31dc">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/bc13be5002fe4696621e38a48c951c52c02560bc">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/eff94f931729cbdec169d35168d6d729df9266fb">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/78ba6fd123f2c158813328e64a4268a975a0166f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/59701f9576f441f1fa7f38419cf5075123164ede">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/5b3e8dcec6ac2bc3ea1be126f478ebfb59c8ced3">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/04dd3edfc320a92f992899e28baa063f8b77d544">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/79fd4054e8447b3fee35490087ac44d358cbb4fc">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/0b290da24208a7710dfd763b21089ece490f1307">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/redesign-landing-page in <a href="https://github.com/TheDanniCraft/clipify/commit/7d8fe141a6567c9aebf8187707486aa47ee27c49">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

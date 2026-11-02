@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗑️ Deleted a branch renovate/github-actions/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/newsletter-horizontal-verification in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/newsletter-horizontal-verification in <a href="https://github.com/TheDanniCraft/clipify/commit/24d9f922015a9813fb1fcd4b12c0998dc417aa64">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/newsletter-horizontal-verification in <a href="https://github.com/TheDanniCraft/clipify/commit/566b959680d801a1ae48eeb270e310fbc5157916">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to fix/grafana-guide-labels in <a href="https://github.com/TheDanniCraft/clipify/commit/af6e9dae54e1ddab6b7c65bd65ae27959541b576">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/public-page-navigation in <a href="https://github.com/TheDanniCraft/clipify/commit/99adee023dd9d090fa66ad96598316e8817a637a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/public-page-navigation in <a href="https://github.com/TheDanniCraft/clipify/commit/60049a067595517708c228e6ecb5b9d7bc6f58db">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/newsletter-horizontal-verification in <a href="https://github.com/TheDanniCraft/clipify/commit/f42a24185d61d40181854e871a7be20340aca042">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

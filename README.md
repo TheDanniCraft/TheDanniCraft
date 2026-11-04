@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to 009-mobbin-rewrite in a private repository</li>
+<li>📝 Committed to 009-mobbin-rewrite in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 <li>📥 Opened PR in a private repository</li>
 <li>❌ Closed PR in a private repository</li>
@@ -92,8 +94,6 @@
 <li>🔀 Merged PR in a private repository</li>
 <li>📥 Opened PR in a private repository</li>
 <li>📥 Opened PR in a private repository</li>
-<li>📝 Committed to master in a private repository</li>
-<li>🎉 Created a new branch master in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 </ol>
 <!--END_SECTION:activity-->

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5512cdb083154f5c2aadae73a8ff34915f0cc64e">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.4.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.4.0">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
+<li>🔀 Merged PR #557 in <a href="https://github.com/TheDanniCraft/clipify/pull/557">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
+<li>🗑️ Deleted a branch features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/tree/features/dashboard-guides">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #557 in <a href="https://github.com/TheDanniCraft/clipify/pull/557">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/commit/cf64499d24c782fbcb60130a6fc363df9524a906">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/05c848334428ab0629d9dfc7c663b3207d48dd0f">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/commit/87a3d7dcf0c9e67007467c9c6f49614ed990e559">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/umami-tracking in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/umami-tracking">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>🗑️ Deleted a branch renovate/npm/c15t-consent-stack in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #556 in <a href="https://github.com/TheDanniCraft/clipify/pull/556">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #555 in <a href="https://github.com/TheDanniCraft/clipify/pull/555">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/major-puppeteer-core-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

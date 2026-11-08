@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📥 Opened PR #555 in <a href="https://github.com/TheDanniCraft/clipify/pull/555">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #557 in <a href="https://github.com/TheDanniCraft/clipify/pull/557">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/commit/cf64499d24c782fbcb60130a6fc363df9524a906">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/05c848334428ab0629d9dfc7c663b3207d48dd0f">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/commit/87a3d7dcf0c9e67007467c9c6f49614ed990e559">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/umami-tracking in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/umami-tracking">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>🔀 Merged PR #546 in <a href="https://github.com/TheDanniCraft/clipify/pull/546">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/major-tailwind-variants-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/github-actions/major-github-actions in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/e1a98890f36f7bd6b5ac84e5f25cd53e7176c8eb">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/npm/c15t-consent-stack in <a href="https://github.com/TheDanniCraft/clipify/commit/ae56c98c187253b2f9843540f1b9921dbf5c3b4b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/b5bb1a1e944aa7f3b51d302b87df8a7df87f1e4b">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/npm/major-puppeteer-core-dependency-update in <a href="https://github.com/TheDanniCraft/clipify/commit/c8a77ea28dc12774a01788e1ce7c0e0d8f63e019">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/c15t-consent-stack in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #556 in <a href="https://github.com/TheDanniCraft/clipify/pull/556">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #555 in <a href="https://github.com/TheDanniCraft/clipify/pull/555">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/major-puppeteer-core-dependency-update in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

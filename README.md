@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/5512cdb083154f5c2aadae73a8ff34915f0cc64e">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.4.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.4.0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>🔀 Merged PR #557 in <a href="https://github.com/TheDanniCraft/clipify/pull/557">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>🗑️ Deleted a branch features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/tree/features/dashboard-guides">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #557 in <a href="https://github.com/TheDanniCraft/clipify/pull/557">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/commit/cf64499d24c782fbcb60130a6fc363df9524a906">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/05c848334428ab0629d9dfc7c663b3207d48dd0f">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/sentry-recovery in <a href="https://github.com/TheDanniCraft/clipify/commit/61c9a50f69580054af7c99988ca6078df3f1e533">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch features/clip-export in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/dockerfile/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/7a36c64ae7bdb6f4562ac646c82c37400a60dc0c">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch renovate/npm/npm-minimatch-vulnerability in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.4.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.4.1">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/sentry-recovery in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #559 in <a href="https://github.com/TheDanniCraft/clipify/pull/559">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/sentry-recovery in <a href="https://github.com/TheDanniCraft/clipify/commit/65953b098f28c282efb9d124dd25e3adf44ed227">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #559 in <a href="https://github.com/TheDanniCraft/clipify/pull/559">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #558 in <a href="https://github.com/TheDanniCraft/clipify/pull/558">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

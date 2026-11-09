@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to fix/sentry-recovery in <a href="https://github.com/TheDanniCraft/clipify/commit/61c9a50f69580054af7c99988ca6078df3f1e533">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch features/clip-export in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/dockerfile/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/7a36c64ae7bdb6f4562ac646c82c37400a60dc0c">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch renovate/npm/npm-minimatch-vulnerability in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.4.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.4.1">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/sentry-recovery in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #559 in <a href="https://github.com/TheDanniCraft/clipify/pull/559">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/sentry-recovery in <a href="https://github.com/TheDanniCraft/clipify/commit/65953b098f28c282efb9d124dd25e3adf44ed227">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #559 in <a href="https://github.com/TheDanniCraft/clipify/pull/559">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #558 in <a href="https://github.com/TheDanniCraft/clipify/pull/558">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/event-platform">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/08639fec67de3db626b9c620ab463a0fb8654974">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/b3a5d5ba24c1c46817ec0fffdef2dc74b5a5804d">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/umami-tracking in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/56e53b017792c6411cea0f75e45fcf25646fa15c">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/139b3c2846758ab3e68cf59e11ee8fba38a56efb">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/6731015ca1320742a8e85725427e485723a05e25">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/npm/major-puppeteer-core-dependency-update in <a href="https://github.com/TheDanniCraft/clipify/commit/8d610fe1d8acf31b848d9d5e5bb3b53025673af7">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #560 in <a href="https://github.com/TheDanniCraft/clipify/pull/560">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/admin-view-dashboard in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

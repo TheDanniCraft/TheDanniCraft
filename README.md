@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v4.4.2 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.4.2">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #561 in <a href="https://github.com/TheDanniCraft/clipify/pull/561">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #561 in <a href="https://github.com/TheDanniCraft/clipify/pull/561">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/7172fe2b80d7fb12d2369447fe47ddbfd5d10fee">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/476c7ee2b29ba5170c7db84e5493942bdea0bd0d">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/sentry-recovery in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/sentry-recovery">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>📝 Committed to features/clip-export in <a href="https://github.com/TheDanniCraft/clipify/commit/940303a57ca581a60bfdfc09caeec8ca6a92c93d">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/cfc38d38e34125b765a621ad46a520ba540b4f30">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/e8bbcd623866065c30c00364467a75a3fba93f3d">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to renovate/github-actions/major-github-actions in <a href="https://github.com/TheDanniCraft/clipify/commit/fe9202cc429fd8ba955ea3293beba662ef5d49f2">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/daee5d1270f12efe36e005adc7850c01d268dd3f">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/admin-view-dashboard in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/admin-view-dashboard">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

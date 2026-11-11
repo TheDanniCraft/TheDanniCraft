@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/aa68cc96225434fd85749b5ad70fd05ac54daebc">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/google-connection-providers in <a href="https://github.com/TheDanniCraft/clipify/commit/965f2d2491749b994e097a7aa56f7c5843b64669">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch fix/google-connection-providers in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/google-connection-providers">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/a94648399a5cfe599a0504d191b0156c57dc6a46">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/775cbf0097c25ce01785a722a4451622b67f2663">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/fa0f4cbd0d388592e1db46c47ab466772f0831e4">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch fix/google-connection-providers in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/8019d3a273a5042b36e68ad2038c1afb97a49d67">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/3c09e2d242e945239e77cf9446f1e21b82cf2bd0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/3ae8ea2ac4c0c5099826f4a4c58af2e6ffb9396a">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch fix/export-test-fixture-duration in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch fix/export-test-fixture-duration in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/export-test-fixture-duration">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/b5ed8f758610af266bede0ca6f7d8f2cc5578ffa">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/4e4dad8a04b8a836e0b20151ee26a3ecab8e72e3">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

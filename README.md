@@ -85,6 +85,9 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/775cbf0097c25ce01785a722a4451622b67f2663">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/fa0f4cbd0d388592e1db46c47ab466772f0831e4">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch fix/google-connection-providers in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/8019d3a273a5042b36e68ad2038c1afb97a49d67">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/3c09e2d242e945239e77cf9446f1e21b82cf2bd0">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/3ae8ea2ac4c0c5099826f4a4c58af2e6ffb9396a">TheDanniCraft/clipify</a></li>
@@ -92,9 +95,6 @@
 <li>🎉 Created a new branch fix/export-test-fixture-duration in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/export-test-fixture-duration">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/b5ed8f758610af266bede0ca6f7d8f2cc5578ffa">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/4e4dad8a04b8a836e0b20151ee26a3ecab8e72e3">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/b73c53f10b9979dccecc5cf2895d4661206e2ab4">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to features/dashboard-guides in <a href="https://github.com/TheDanniCraft/clipify/commit/9517db8e1204ec78091c8d692e6b6142b57bce39">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to fix/umami-tracking in <a href="https://github.com/TheDanniCraft/clipify/commit/9fe6a684cae314a60ca393ff747b364f45cf1736">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,6 +85,8 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/febb0cd240f8d4b417f7c116a98a7dab29a69bcd">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/64b666cac89b507b4382d13a38a3e1b90b06f3aa">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/90f0ee8ccc91af37011c6f1f1df2d99988a86b10">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/fbb90b78c2e0ca022b7125dfbcc4910265a1ff27">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to fix/google-connection-providers in <a href="https://github.com/TheDanniCraft/clipify/commit/af67a0eb24182f655ee88c78f6eab881781027a1">TheDanniCraft/clipify</a></li>
@@ -93,8 +95,6 @@
 <li>📝 Committed to fix/google-connection-providers in <a href="https://github.com/TheDanniCraft/clipify/commit/965f2d2491749b994e097a7aa56f7c5843b64669">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch fix/google-connection-providers in <a href="https://github.com/TheDanniCraft/clipify/tree/fix/google-connection-providers">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/a94648399a5cfe599a0504d191b0156c57dc6a46">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/775cbf0097c25ce01785a722a4451622b67f2663">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/event-platform in <a href="https://github.com/TheDanniCraft/clipify/commit/fa0f4cbd0d388592e1db46c47ab466772f0831e4">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

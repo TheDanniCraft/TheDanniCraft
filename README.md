@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📥 Opened PR #565 in <a href="https://github.com/TheDanniCraft/clipify/pull/565">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/improve-clipify in <a href="https://github.com/TheDanniCraft/clipify/commit/181e3ee4494157fce29267963bb206f5eede146d">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.5.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.5.0">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/improve-clipify in <a href="https://github.com/TheDanniCraft/clipify/commit/98f084a988edd7c38f1d4a822d4451f7aec205a2">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #564 in <a href="https://github.com/TheDanniCraft/clipify/pull/564">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
 <li>📥 Opened PR #19 in <a href="https://github.com/payloadbay/payloadbay/pull/19">payloadbay/payloadbay</a></li>
 <li>🆕 Opened issue #18 in <a href="https://github.com/payloadbay/payloadbay/issues/18">payloadbay/payloadbay</a></li>
 <li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
 <li>📥 Opened PR #564 in <a href="https://github.com/TheDanniCraft/clipify/pull/564">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>🗑️ Deleted a branch renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feat/clipify-social-trailers in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/b9de9bfe970c08b7da72b8c1706671af056745de">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #563 in <a href="https://github.com/TheDanniCraft/clipify/pull/563">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

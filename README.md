@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feat/improve-clipify in <a href="https://github.com/TheDanniCraft/clipify/commit/90460bec2e53f231c60d6f4e461db82814475fa9">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
+<li>🗑️ Deleted a branch codex/grafana-live-usage in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #566 in <a href="https://github.com/TheDanniCraft/clipify/pull/566">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #566 in <a href="https://github.com/TheDanniCraft/clipify/pull/566">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.5.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.5.1">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #565 in <a href="https://github.com/TheDanniCraft/clipify/pull/565">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
 <li>📥 Opened PR #565 in <a href="https://github.com/TheDanniCraft/clipify/pull/565">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feat/improve-clipify in <a href="https://github.com/TheDanniCraft/clipify/commit/181e3ee4494157fce29267963bb206f5eede146d">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.5.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.5.0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/improve-clipify in <a href="https://github.com/TheDanniCraft/clipify/commit/98f084a988edd7c38f1d4a822d4451f7aec205a2">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #564 in <a href="https://github.com/TheDanniCraft/clipify/pull/564">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>📥 Opened PR #19 in <a href="https://github.com/payloadbay/payloadbay/pull/19">payloadbay/payloadbay</a></li>
-<li>🆕 Opened issue #18 in <a href="https://github.com/payloadbay/payloadbay/issues/18">payloadbay/payloadbay</a></li>
-<li>📝 Committed to feat/bootstrap-alpha-app in a private repository</li>
-<li>📥 Opened PR #564 in <a href="https://github.com/TheDanniCraft/clipify/pull/564">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/440ac27884d67e4fac5a2e64701ea562d211fa46">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch feature/awards-sdk-milestone in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/97eb3bd946f5e6f22cda693a80ef0791af23fa8c">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/awards-sdk-milestone in <a href="https://github.com/TheDanniCraft/clipify/commit/27459770993e6a46e8cc11432651d688d382986f">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/fa2ebcd222fecacd64bb2d556c3a85cc51032872">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/new-account-clip-inventory in <a href="https://github.com/TheDanniCraft/clipify/commit/4d7ccb03bc436aed8322d8ab44866390bc2eaa7d">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to fix/new-account-clip-inventory in <a href="https://github.com/TheDanniCraft/clipify/commit/aa516cc311dcf2c3989ad40cddd8c6f85888b5fa">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/standalone-awards-site in a private repository</li>
 <li>📥 Opened PR #575 in <a href="https://github.com/TheDanniCraft/clipify/pull/575">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/2290a686912684a0cd2f7bd44f507b64c2b8b8ea">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/swatch-studio/commit/054903b63245d2c17195b0d041adc463c100b052">TheDanniCraft/swatch-studio</a></li>
-<li>🎉 Created a new branch feat/improve-first-use in <a href="https://github.com/TheDanniCraft/clipify/tree/feat/improve-first-use">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/awards-sdk-milestone in <a href="https://github.com/TheDanniCraft/clipify/commit/5c63260e701e4e2c1e1633ef9b6d6a3619a6e907">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.6.0 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.0">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/standalone-awards-site in a private repository</li>
-<li>🔀 Merged PR #569 in <a href="https://github.com/TheDanniCraft/clipify/pull/569">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

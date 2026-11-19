@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🗣 Commented on PR in a private repository</li>
+<li>🗣 Commented on PR #560 in <a href="https://github.com/TheDanniCraft/clipify/issues/560#issuecomment-7004760524">TheDanniCraft/clipify</a></li>
+<li>❌ Closed PR #560 in <a href="https://github.com/TheDanniCraft/clipify/pull/560">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #576 in <a href="https://github.com/TheDanniCraft/clipify/pull/576">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR in a private repository</li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/HLTV.JS/commit/4b6289c4bc1a42f6b8cec91d6ba07869a54fc380">TheDanniCraft/HLTV.JS</a></li>
 <li>📝 Committed to feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/b21994a3ae668a7c0ac11a875acf1295a8a30bbc">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/standalone-awards-site in a private repository</li>
 <li>📝 Committed to feature/standalone-awards-site in a private repository</li>
 <li>📝 Committed to feature/awards-sdk-milestone in <a href="https://github.com/TheDanniCraft/clipify/commit/e3189ff4261b3d664fa933b263192752cab48223">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify/tree/feature/admin-app-connections">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to feature/standalone-awards-site in a private repository</li>
-<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/440ac27884d67e4fac5a2e64701ea562d211fa46">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feature/awards-sdk-milestone in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/97eb3bd946f5e6f22cda693a80ef0791af23fa8c">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

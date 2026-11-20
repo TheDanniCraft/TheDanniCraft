@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to displayfusion-control in a private repository</li>
 <li>🗑️ Deleted a branch codex/integrate-cs2-companion in a private repository</li>
 <li>📝 Committed to master in a private repository</li>
 <li>📝 Committed to feature/standalone-awards-site in a private repository</li>
@@ -94,7 +95,6 @@
 <li>📥 Opened PR in a private repository</li>
 <li>🔀 Merged PR in a private repository</li>
 <li>📥 Opened PR in a private repository</li>
-<li>🔀 Merged PR in a private repository</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

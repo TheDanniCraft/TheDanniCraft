@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/eae1af01691aa285c6525be9c19b5d2fad7c0407">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to codex/fix-guide-ci in <a href="https://github.com/TheDanniCraft/clipify/commit/7eeb084abe33ab68488dd9414dac560ed3b10a17">TheDanniCraft/clipify</a></li>
+<li>🍴 Forked <a href="https://github.com/coollabsio/coolify">coollabsio/coolify</a></li>
+<li>📝 Committed to feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/b6cab7c376be16f0057f4992ecb26b1b8707913a">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/tag-bumper/commit/d699981d1fe0fa807d739ee913e3769e4ecebdef">TheDanniCraft/tag-bumper</a></li>
 <li>📝 Committed to feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/dc363d24ef0fe8f977a1e3d94ef22939c209c973">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.6.1 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.1">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #577 in <a href="https://github.com/TheDanniCraft/clipify/pull/577">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #577 in <a href="https://github.com/TheDanniCraft/clipify/pull/577">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #575 in <a href="https://github.com/TheDanniCraft/clipify/pull/575">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #576 in <a href="https://github.com/TheDanniCraft/clipify/pull/576">TheDanniCraft/clipify</a></li>
-<li>🗣 Commented on PR in a private repository</li>
-<li>🗣 Commented on PR #560 in <a href="https://github.com/TheDanniCraft/clipify/issues/560#issuecomment-7004760524">TheDanniCraft/clipify</a></li>
-<li>❌ Closed PR #560 in <a href="https://github.com/TheDanniCraft/clipify/pull/560">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

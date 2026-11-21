@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/98829b05cbdaa10ecce651e18baef0c87e8cf6c1">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/4f028eba6e1c7d7a7685e2362bc454944dafff24">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/1229cd272f7fb5e67e03fab53498a9ff748e287e">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/commit/864d5ad311575b4ef9a620f616f808540e2609a4">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in a private repository</li>
+<li>📝 Committed to mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/commit/e7fbaf62650b619d6ecdad2117f93ed298e8fdb5">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/commit/315891b9f59f857b959d8bd43577cf923810c2c4">TheDanniCraft/clipify</a></li>
 <li>🎉 Created a new branch mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/tree/mcp-first-overlay-guidance">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in a private repository</li>
-<li>📝 Committed to codex/until-revoked-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/55e459d7d07d118533bd8b3bc75c0efe949887f9">TheDanniCraft/clipify</a></li>
-<li>🗑️ Deleted a branch feature/standalone-awards-site in a private repository</li>
-<li>📝 Committed to codex/until-revoked-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/1d534079c07c4eeaf49f4b1eb7e13e993f5a9349">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to codex/until-revoked-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/365a23a9f27b6b7925f77ad38a3662867c661720">TheDanniCraft/clipify</a></li>
-<li>🎉 Created a new branch master in a private repository</li>
-<li>📝 Committed to mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/commit/c186a0d8c8a36c18d91016daec21ac15034015ce">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to displayfusion-control in a private repository</li>
-<li>🗑️ Deleted a branch codex/integrate-cs2-companion in a private repository</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

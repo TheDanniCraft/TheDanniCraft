@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to codex/until-revoked-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/68728c462e2615c095457791d5e37a6bb066e596">TheDanniCraft/clipify</a></li>
+<li>🎉 Created a new branch codex/fix-application-connection-reauth in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/fix-application-connection-reauth">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #579 in <a href="https://github.com/TheDanniCraft/clipify/pull/579">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to displayfusion-control in a private repository</li>
 <li>🎉 Created a new branch main in a private repository</li>
 <li>🎉 Created a new branch codex/fix-guide-ci in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/fix-guide-ci">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/98829b05cbdaa10ecce651e18baef0c87e8cf6c1">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to feature/admin-app-connections in <a href="https://github.com/TheDanniCraft/clipify/commit/4f028eba6e1c7d7a7685e2362bc454944dafff24">TheDanniCraft/clipify</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/1229cd272f7fb5e67e03fab53498a9ff748e287e">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/commit/864d5ad311575b4ef9a620f616f808540e2609a4">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in a private repository</li>
-<li>📝 Committed to mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/commit/e7fbaf62650b619d6ecdad2117f93ed298e8fdb5">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to mcp-first-overlay-guidance in <a href="https://github.com/TheDanniCraft/clipify/commit/315891b9f59f857b959d8bd43577cf923810c2c4">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>🎉 Created a new branch fix/awards-search-inputs in a private repository</li>
-<li>📥 Opened PR in a private repository</li>
+<li>📝 Committed to master in a private repository</li>
+<li>🗑️ Deleted a branch codex/complete-awards-onboarding in a private repository</li>
+<li>🎉 Created a new branch codex/add-sdk-category-search in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/add-sdk-category-search">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR in a private repository</li>
+<li>🗑️ Deleted a branch codex/fix-game-proposals in a private repository</li>
 <li>📥 Opened PR in a private repository</li>
-<li>📝 Committed to codex/fix-google-connection-return in a private repository</li>
-<li>🔀 Merged PR in a private repository</li>
-<li>📥 Opened PR in a private repository</li>
-<li>🎉 Created a new branch codex/auto-register-pr-plugins in a private repository</li>
-<li>🎉 Created a new branch codex/integrate-cs2-companion in a private repository</li>
-<li>📝 Committed to displayfusion-control in a private repository</li>
+<li>🚀 Published release v4.6.5 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.5">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #581 in <a href="https://github.com/TheDanniCraft/clipify/pull/581">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to master in a private repository</li>
+<li>📥 Opened PR #581 in <a href="https://github.com/TheDanniCraft/clipify/pull/581">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

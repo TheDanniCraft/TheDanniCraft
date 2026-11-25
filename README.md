@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🎉 Created a new branch codex/keep-pro-checkout in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/keep-pro-checkout">TheDanniCraft/clipify</a></li>
 <li>🚀 Published release v4.6.7 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.7">TheDanniCraft/clipify</a></li>
 <li>🔀 Merged PR #584 in <a href="https://github.com/TheDanniCraft/clipify/pull/584">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #584 in <a href="https://github.com/TheDanniCraft/clipify/pull/584">TheDanniCraft/clipify</a></li>
@@ -94,7 +95,6 @@
 <li>📥 Opened PR #583 in <a href="https://github.com/TheDanniCraft/clipify/pull/583">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch codex/add-sdk-category-search in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch codex/restore-game-category-search in a private repository</li>
-<li>🎉 Created a new branch codex/fix-game-proposals in a private repository</li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

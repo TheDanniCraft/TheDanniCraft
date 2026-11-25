@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>🚀 Published release v4.6.7 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.7">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #584 in <a href="https://github.com/TheDanniCraft/clipify/pull/584">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #584 in <a href="https://github.com/TheDanniCraft/clipify/pull/584">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.6.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.6">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #583 in <a href="https://github.com/TheDanniCraft/clipify/pull/583">TheDanniCraft/clipify</a></li>
+<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/6a60c6ae10608827224f84974538a5cb57eb6f8b">TheDanniCraft/clipify</a></li>
 <li>📥 Opened PR #583 in <a href="https://github.com/TheDanniCraft/clipify/pull/583">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch codex/add-sdk-category-search in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
 <li>🗑️ Deleted a branch codex/restore-game-category-search in a private repository</li>
 <li>🎉 Created a new branch codex/fix-game-proposals in a private repository</li>
-<li>📝 Committed to fix/awards-flow-audit in a private repository</li>
-<li>📝 Committed to master in a private repository</li>
-<li>📝 Committed to master in a private repository</li>
-<li>🎉 Created a new branch codex/fix-google-connection-return in a private repository</li>
-<li>🎉 Created a new branch fix/awards-event-refresh in a private repository</li>
-<li>📝 Committed to renovate/npm/daily-non-major in <a href="https://github.com/TheDanniCraft/clipify/commit/cbaeec16ad1b6cd3e7e0e80340002dd2b7957a74">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

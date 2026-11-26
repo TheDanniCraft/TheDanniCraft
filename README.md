@@ -85,16 +85,16 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/clipify/commit/0af14509c9c05e057ece1d13096c730c1e7d71fa">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/35d3d55d3470b5d32981f7b50706658591ee0ccb">TheDanniCraft/datadeal</a></li>
-<li>🗑️ Deleted a branch codex/billing-recovery-notices in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/92d8e17b18c219d4704cca698f4a1198797099e9">TheDanniCraft/datadeal</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/59a765f185d0eb4c9a38ad8df4d81539858b1996">TheDanniCraft/datadeal</a></li>
-<li>🎉 Created a new branch codex/keep-pro-checkout in <a href="https://github.com/TheDanniCraft/clipify/tree/codex/keep-pro-checkout">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.6.7 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.7">TheDanniCraft/clipify</a></li>
-<li>🔀 Merged PR #584 in <a href="https://github.com/TheDanniCraft/clipify/pull/584">TheDanniCraft/clipify</a></li>
-<li>📥 Opened PR #584 in <a href="https://github.com/TheDanniCraft/clipify/pull/584">TheDanniCraft/clipify</a></li>
-<li>🚀 Published release v4.6.6 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.6">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #587 in <a href="https://github.com/TheDanniCraft/clipify/pull/587">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #587 in <a href="https://github.com/TheDanniCraft/clipify/pull/587">TheDanniCraft/clipify</a></li>
+<li>🚀 Published release v4.6.8 in <a href="https://github.com/TheDanniCraft/clipify/releases/tag/v4.6.8">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR #586 in <a href="https://github.com/TheDanniCraft/clipify/pull/586">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR #586 in <a href="https://github.com/TheDanniCraft/clipify/pull/586">TheDanniCraft/clipify</a></li>
+<li>🗑️ Deleted a branch codex/keep-pro-checkout in <a href="https://github.com/TheDanniCraft/clipify">TheDanniCraft/clipify</a></li>
+<li>🔀 Merged PR in a private repository</li>
+<li>🔀 Merged PR #585 in <a href="https://github.com/TheDanniCraft/clipify/pull/585">TheDanniCraft/clipify</a></li>
+<li>📥 Opened PR in a private repository</li>
+<li>📥 Opened PR #585 in <a href="https://github.com/TheDanniCraft/clipify/pull/585">TheDanniCraft/clipify</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>

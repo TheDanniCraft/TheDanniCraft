@@ -85,6 +85,7 @@
 <p align="left">
   <!--START_SECTION:activity-->
 <ol>
+<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/fe3f9c0ab400051815af441d9578c72a5e48d009">TheDanniCraft/datadeal</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/f30aa9a01bb800a6f7fa68026770c3000c1a8341">TheDanniCraft/datadeal</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/4a58cb8c78cb94dd42eb565e3e1e9f28aa634c50">TheDanniCraft/datadeal</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/c98a7ea71449bcdb541eb1afffe7cf21447db0b8">TheDanniCraft/datadeal</a></li>
@@ -94,7 +95,6 @@
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/13cdbf677a5517d2be8778e8a573cf40311b7c8e">TheDanniCraft/datadeal</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/e44f724ebc4c2c2d246391c0abaa56fa6cd55f84">TheDanniCraft/datadeal</a></li>
 <li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/7ddde83de646d7f1d8444c964499bbad63d28484">TheDanniCraft/datadeal</a></li>
-<li>📝 Committed to master in <a href="https://github.com/TheDanniCraft/datadeal/commit/3666f3568d414d64605dc3ed6b5de23eb98b0667">TheDanniCraft/datadeal</a></li>
 </ol>
 <!--END_SECTION:activity-->
 </p>
